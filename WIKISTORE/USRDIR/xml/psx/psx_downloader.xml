@@ -1,0 +1,53 @@
+<XMBML version="1.0">
+	<View id="psx_downloader_items">
+		<Attributes>
+		<!-- juegos de psx PSN -->
+			<Table key="psx_downloader_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_eu.png</String></Pair>
+				<Pair key="title"><String>Juegos EU</String></Pair>
+				<Pair key="info"><String>184 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="psx_downloader_HK">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_hk.png</String></Pair>
+				<Pair key="title"><String>Juegos HK</String></Pair>
+				<Pair key="info"><String>5 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="psx_downloader_JP">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_jp.png</String></Pair>
+				<Pair key="title"><String>Juegos JP</String></Pair>
+				<Pair key="info"><String>398 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="psx_downloader_US">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_us.png</String></Pair>
+				<Pair key="title"><String>Juegos US</String></Pair>
+				<Pair key="info"><String>138 Juegos Disponibles</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="psx_downloader_EU" 
+				attr="psx_downloader_EU"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psx/psxgame_eu.xml#psxgame_eu_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="psx_downloader_HK" 
+				attr="psx_downloader_HK"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psx/psxgame_hk.xml#psxgame_hk_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="psx_downloader_JP" 
+				attr="psx_downloader_JP"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psx/psxgame_jp.xml#psxgame_jp_main"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="psx_downloader_US" 
+				attr="psx_downloader_US"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psx/psxgame_us.xml#psxgame_us_main"
+				/>	
+		</Items>
+	</View>	
+</XMBML>

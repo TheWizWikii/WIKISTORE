@@ -1,0 +1,60 @@
+<XMBML version="1.0">
+
+<!-- NoPSN  -->
+	
+	<View id="No_PSN_Apps_items">
+		<Attributes>
+			<Table key="nopsn_downloader_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_eu.png</String></Pair>
+				<Pair key="title"><String>Region EU</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_HK">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_hk.png</String></Pair>
+				<Pair key="title"><String>Region HK</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_JP">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_jp.png</String></Pair>
+				<Pair key="title"><String>Region JP</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="nopsn_downloader_US">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_us.png</String></Pair>
+				<Pair key="title"><String>Region US</String></Pair>
+				<Pair key="info"><String></String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_EU" 
+				attr="nopsn_downloader_EU"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_downloader_EU.xml#nopsn_downloader_EU_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_HK" 
+				attr="nopsn_downloader_HK"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_downloader_HK.xml#nopsn_downloader_HK_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_JP" 
+				attr="nopsn_downloader_JP"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_downloader_JP.xml#nopsn_downloader_JP_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nopsn_downloader_US" 
+				attr="nopsn_downloader_US"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_downloader_US.xml#nopsn_downloader_US_items"
+				/>
+		</Items>
+	</View>
+		
+</XMBML>

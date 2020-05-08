@@ -1,0 +1,59 @@
+<XMBML version="1.0">
+    <View id="blur_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/blur.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 1</String></Pair>
+				<Pair key="info"><String>NPEB00759 - 3,73 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/y5k30et2unny620/000000-NPEB00759_00-1GAME00000000000.pkg.part1?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/blur.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 2</String></Pair>
+				<Pair key="info"><String>NPEB00759 - 2,3 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/ceu7suxwrhitlaa/000000-NPEB00759_00-1GAME00000000000.pkg.part2?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/blur.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPEB00759 - 20,72 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/z0g1kub338injwf/000000-NPEB00759_00-2PATCH0000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/blur.png</String></Pair>
+	        	<Pair key="title"><String>FIX</String></Pair>
+				<Pair key="info"><String>NPEB00759 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/4oosvse07f0buvl/000000-NPEB00759_00-3LIC000000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

@@ -1,0 +1,47 @@
+<XMBML version="1.0">
+    <View id="killzone_3_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/killzone 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego</String></Pair>
+				<Pair key="info"><String>BCUS98234 - 41,23 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/qgxh9g9110tkms4/Juego.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/killzone 3.png</String></Pair>
+	        	<Pair key="title"><String>Parche</String></Pair>
+				<Pair key="info"><String>BCUS98234 - 123,53 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/3lkt42efirk4cwc/Parche.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/killzone 3.png</String></Pair>
+	        	<Pair key="title"><String>LIC</String></Pair>
+				<Pair key="info"><String>BCUS98234 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/bdgdjbx1de7jo7e/LIC.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

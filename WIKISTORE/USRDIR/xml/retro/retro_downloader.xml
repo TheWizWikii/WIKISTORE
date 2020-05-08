@@ -1,0 +1,2266 @@
+<XMBML version="1.0"> 
+
+<!-- Descargas juegos Retro -->
+
+	<View id="retro_downloader_items">
+		<Attributes>
+			<Table key="retro_downloader_gba">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/retro/gba.png</String></Pair>
+				<Pair key="title"><String>Gameboy Advance</String></Pair>
+				<Pair key="info"><String>Juegos GBA</String></Pair>
+			</Table>
+			<Table key="retro_downloader_snes">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/retro/snes.png</String></Pair>
+				<Pair key="title"><String>Super Nintendo Entertainment System</String></Pair>
+				<Pair key="info"><String>Juegos SNES</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="retro_downloader_gba"
+				attr="retro_downloader_gba"
+				src="#retro_downloader_gba_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="retro_downloader_snes"
+				attr="retro_downloader_snes"
+				src="#retro_downloader_snes_items"
+				/>
+		</Items>
+	</View>
+ 
+<!-- GBA -->
+		
+	<View id="retro_downloader_gba_items">
+		<Attributes>
+			<Table key="gba_002">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/007_-_Everything_or_Nothing.JPG</String></Pair>
+				<Pair key="title"><String>007 - Everything or Nothing</String></Pair>
+				<Pair key="info"><String>RX0073621   [GBA]   7.7 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_003">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Banjo-Kazooie_-_Grunty's_Revenge.JPG</String></Pair>
+				<Pair key="title"><String>Banjo-Kazooie - Grunty's Revenge</String></Pair>
+				<Pair key="info"><String>RXBAN1415   [GBA]   6.2 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_004">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/BMX_Trick_Racer.JPG</String></Pair>
+				<Pair key="title"><String>BMX Trick Racer</String></Pair>
+				<Pair key="info"><String>RXBMX9035   [GBA]   6.8 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_005">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Boulder_Dash_EX.JPG</String></Pair>
+				<Pair key="title"><String>Boulder Dash EX</String></Pair>
+				<Pair key="info"><String>RXBOU9630   [GBA]   4.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_006">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Bubble_Bobble_-_Old_and_New.JPG</String></Pair>
+				<Pair key="title"><String>Bubble Bobble - Old and New</String></Pair>
+				<Pair key="info"><String>RXBUB7726   [GBA]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_007">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Castlevania_-_Aria_of_Sorrow.JPG</String></Pair>
+				<Pair key="title"><String>Castlevania - Aria of Sorrow</String></Pair>
+				<Pair key="info"><String>RXCAS8238   [GBA]   6.3 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Castlevania_-_Circle_of_the_Moon.JPG</String></Pair>
+				<Pair key="title"><String>Castlevania - Circle of the Moon</String></Pair>
+				<Pair key="info"><String>RXCAS6926   [GBA]   5.9 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_009">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Crash_Bandicoot_-_The_Huge_Adventure.JPG</String></Pair>
+				<Pair key="title"><String>Crash Bandicoot - The Huge Adventure</String></Pair>
+				<Pair key="info"><String>RXCRA8689   [GBA]   6.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_010">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Crash_Bandicoot_2_-_N-Tranced.JPG</String></Pair>
+				<Pair key="title"><String>Crash Bandicoot 2 - N-Tranced</String></Pair>
+				<Pair key="info"><String>RXCRA3158   [GBA]   6.3 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_011">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Crash_Bandicoot_Purple_-_Ripto's_Rampage.JPG</String></Pair>
+				<Pair key="title"><String>Crash Bandicoot Purple - Ripto's Rampage</String></Pair>
+				<Pair key="info"><String>RXCRA0168   [GBA]   9.6 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_012">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Donald_Duck_Advance.JPG</String></Pair>
+				<Pair key="title"><String>Donald Duck Advance</String></Pair>
+				<Pair key="info"><String>RXDON9641   [GBA]   6.2 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_013">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Dr._Mario_and_Puzzle_League.JPG</String></Pair>
+				<Pair key="title"><String>Dr. Mario and Puzzle League</String></Pair>
+				<Pair key="info"><String>RXDRM0806   [GBA]   4.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_014">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Ed,_Edd_n_Eddy_-_Jawbreakers.JPG</String></Pair>
+				<Pair key="title"><String>Ed, Edd n Eddy - Jawbreakers</String></Pair>
+				<Pair key="info"><String>RXEDE3791   [GBA]   4.2 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_015">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Garfield_and_His_Nine_Lives.JPG</String></Pair>
+				<Pair key="title"><String>Garfield and His Nine Lives</String></Pair>
+				<Pair key="info"><String>RXGAR0634   [GBA]   3.7 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_016">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Grand_Theft_Auto_Advance.JPG</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto Advance</String></Pair>
+				<Pair key="info"><String>RXGRA9372   [GBA]   7.7 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_017">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Hey_Arnold!_The_Movie.JPG</String></Pair>
+				<Pair key="title"><String>Hey Arnold! The Movie</String></Pair>
+				<Pair key="info"><String>RXHEY5062   [GBA]   4.6 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_018">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Kirby_-_Nightmare_in_Dreamland.JPG</String></Pair>
+				<Pair key="title"><String>Kirby - Nightmare in Dreamland</String></Pair>
+				<Pair key="info"><String>RXKIR5438   [GBA]   6.6 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_019">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Kirby_and_The_Amazing_Mirror.JPG</String></Pair>
+				<Pair key="title"><String>Kirby and The Amazing Mirror</String></Pair>
+				<Pair key="info"><String>RXKIR8204   [GBA]   7.9 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_020">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_and_Luigi_-_Superstar_Saga.JPG</String></Pair>
+				<Pair key="title"><String>Mario and Luigi - Superstar Saga</String></Pair>
+				<Pair key="info"><String>RXMAR6010   [GBA]   8.8 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_021">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_Kart_Super_Circuit.JPG</String></Pair>
+				<Pair key="title"><String>Mario Kart Super Circuit</String></Pair>
+				<Pair key="info"><String>RXMAR1215   [GBA]   4.2 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_022">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_Party_Advance.JPG</String></Pair>
+				<Pair key="title"><String>Mario Party Advance</String></Pair>
+				<Pair key="info"><String>RXMAR1904   [GBA]   8.1 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_023">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_Pinball_Land.JPG</String></Pair>
+				<Pair key="title"><String>Mario Pinball Land</String></Pair>
+				<Pair key="info"><String>RXMAR1079   [GBA]   7.0 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_024">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_vs._Donkey_Kong.JPG</String></Pair>
+				<Pair key="title"><String>Mario vs. Donkey Kong</String></Pair>
+				<Pair key="info"><String>RXMAR7290   [GBA]   8.7 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_025">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Max_Payne.JPG</String></Pair>
+				<Pair key="title"><String>Max Payne</String></Pair>
+				<Pair key="info"><String>RXMAX1470   [GBA]   14.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_026">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Medal_of_Honor_-_Infiltrator.JPG</String></Pair>
+				<Pair key="title"><String>Medal of Honor - Infiltrator</String></Pair>
+				<Pair key="info"><String>RXMED4704   [GBA]   10.0 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_027">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Medal_of_Honor_-_Underground.JPG</String></Pair>
+				<Pair key="title"><String>Medal of Honor - Underground</String></Pair>
+				<Pair key="info"><String>RXMED1014   [GBA]   5.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_028">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Men_in_Black_-_The_Series.JPG</String></Pair>
+				<Pair key="title"><String>Men in Black - The Series</String></Pair>
+				<Pair key="info"><String>RXMEN3618   [GBA]   3.1 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_029">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mission_Impossible_-_Operation_Surma.JPG</String></Pair>
+				<Pair key="title"><String>Mission Impossible - Operation Surma</String></Pair>
+				<Pair key="info"><String>RXMIS6611   [GBA]   3.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_030">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Motocross_Maniacs_Advance.JPG</String></Pair>
+				<Pair key="title"><String>Motocross Maniacs Advance</String></Pair>
+				<Pair key="info"><String>RXMOT8041   [GBA]   3.9 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_031">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Ms._Pac-Man_-_Maze_Madness.JPG</String></Pair>
+				<Pair key="title"><String>Ms. Pac-Man - Maze Madness</String></Pair>
+				<Pair key="info"><String>RXMSP3504   [GBA]   4.5 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_032">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Pac-Man_Collection.JPG</String></Pair>
+				<Pair key="title"><String>Pac-Man Collection</String></Pair>
+				<Pair key="info"><String>RXPAC1179   [GBA]   4.7 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_033">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Pac-Man_Pinball_Advance.JPG</String></Pair>
+				<Pair key="title"><String>Pac-Man Pinball Advance</String></Pair>
+				<Pair key="info"><String>RXPAC3542   [GBA]   4.3 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_034">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Popeye_-_Rush_for_Spinach.JPG</String></Pair>
+				<Pair key="title"><String>Popeye - Rush for Spinach</String></Pair>
+				<Pair key="info"><String>RXPOP6132   [GBA]   5.0 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_035">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Scooby-Doo!_-_Mystery_Mayhem_and_Scooby-Doo!_and_the_Cyber_Chase.JPG</String></Pair>
+				<Pair key="title"><String>Scooby-Doo! - Mystery Mayhem and Scooby-Doo! and the Cyber Chase</String></Pair>
+				<Pair key="info"><String>RX2GA7276   [GBA]   5.9 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_036">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Sonic_Advance_2.JPG</String></Pair>
+				<Pair key="title"><String>Sonic Advance 2</String></Pair>
+				<Pair key="info"><String>RXSON1204   [GBA]   6.4 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_037">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Sonic_Advance_3.JPG</String></Pair>
+				<Pair key="title"><String>Sonic Advance 3</String></Pair>
+				<Pair key="info"><String>RXSON1575   [GBA]   6.3 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_038">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Sonic_Pinball_Party_and_Sonic_Advance.JPG</String></Pair>
+				<Pair key="title"><String>Sonic Pinball Party and Sonic Advance</String></Pair>
+				<Pair key="info"><String>RX2IN5344   [GBA]   8.3 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_039">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Spyro_Orange_-_The_Cortex_Conspiracy.JPG</String></Pair>
+				<Pair key="title"><String>Spyro Orange - The Cortex Conspiracy</String></Pair>
+				<Pair key="info"><String>RXSPY5214   [GBA]   9.8 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_040">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/The_Flintstones_-_Big_Trouble_in_Bedrock.JPG</String></Pair>
+				<Pair key="title"><String>The Flintstones - Big Trouble in Bedrock</String></Pair>
+				<Pair key="info"><String>RXFLI3466   [GBA]   4.8 MB</String></Pair>
+ 			</Table>
+			<Table key="gba_041">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/The_Simpsons_-_Road_Rage.JPG</String></Pair>
+				<Pair key="title"><String>The Simpsons - Road Rage</String></Pair>
+				<Pair key="info"><String>RXSIM3217   [GBA]   4.6 MB</String></Pair>
+ 			</Table>
+		</Attributes>
+			<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_002"
+				attr="gba_002"
+				src="#gba_002_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_003"
+				attr="gba_003"
+				src="#gba_003_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_004"
+				attr="gba_004"
+				src="#gba_004_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_005"
+				attr="gba_005"
+				src="#gba_005_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_006"
+				attr="gba_006"
+				src="#gba_006_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_007"
+				attr="gba_007"
+				src="#gba_007_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_008"
+				attr="gba_008"
+				src="#gba_008_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_009"
+				attr="gba_009"
+				src="#gba_009_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_010"
+				attr="gba_010"
+				src="#gba_010_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_011"
+				attr="gba_011"
+				src="#gba_011_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_012"
+				attr="gba_012"
+				src="#gba_012_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_013"
+				attr="gba_013"
+				src="#gba_013_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_014"
+				attr="gba_014"
+				src="#gba_014_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_015"
+				attr="gba_015"
+				src="#gba_015_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_016"
+				attr="gba_016"
+				src="#gba_016_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_017"
+				attr="gba_017"
+				src="#gba_017_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_018"
+				attr="gba_018"
+				src="#gba_018_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_019"
+				attr="gba_019"
+				src="#gba_019_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_020"
+				attr="gba_020"
+				src="#gba_020_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_021"
+				attr="gba_021"
+				src="#gba_021_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_022"
+				attr="gba_022"
+				src="#gba_022_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_023"
+				attr="gba_023"
+				src="#gba_023_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_024"
+				attr="gba_024"
+				src="#gba_024_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_025"
+				attr="gba_025"
+				src="#gba_025_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_026"
+				attr="gba_026"
+				src="#gba_026_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_027"
+				attr="gba_027"
+				src="#gba_027_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_028"
+				attr="gba_028"
+				src="#gba_028_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_029"
+				attr="gba_029"
+				src="#gba_029_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_030"
+				attr="gba_030"
+				src="#gba_030_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_031"
+				attr="gba_031"
+				src="#gba_031_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_032"
+				attr="gba_032"
+				src="#gba_032_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_033"
+				attr="gba_033"
+				src="#gba_033_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_034"
+				attr="gba_034"
+				src="#gba_034_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_035"
+				attr="gba_035"
+				src="#gba_035_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_036"
+				attr="gba_036"
+				src="#gba_036_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_037"
+				attr="gba_037"
+				src="#gba_037_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_038"
+				attr="gba_038"
+				src="#gba_038_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_039"
+				attr="gba_039"
+				src="#gba_039_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_040"
+				attr="gba_040"
+				src="#gba_040_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="gba_041"
+				attr="gba_041"
+				src="#gba_041_item"/>
+			</Items>
+		</View>
+
+
+
+		<View id="gba_002_item">
+		<Attributes>
+			<Table key="gba_link002">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/007_-_Everything_or_Nothing.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/007_-_Everything_or_Nothing.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RX0073621_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/007_-_Everything_or_Nothing.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link002" attr="gba_link002"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_003_item">
+		<Attributes>
+			<Table key="gba_link003">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Banjo-Kazooie_-_Grunty's_Revenge.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Banjo-Kazooie_-_Grunty's_Revenge.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXBAN1415_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Banjo-Kazooie_-_Grunty's_Revenge.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link003" attr="gba_link003"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_004_item">
+		<Attributes>
+			<Table key="gba_link004">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/BMX_Trick_Racer.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/BMX_Trick_Racer.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXBMX9035_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/BMX_Trick_Racer.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link004" attr="gba_link004"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_005_item">
+		<Attributes>
+			<Table key="gba_link005">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Boulder_Dash_EX.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Boulder_Dash_EX.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXBOU9630_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Boulder_Dash_EX.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link005" attr="gba_link005"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_006_item">
+		<Attributes>
+			<Table key="gba_link006">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Bubble_Bobble_-_Old_and_New.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Bubble_Bobble_-_Old_and_New.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXBUB7726_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Bubble_Bobble_-_Old_and_New.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link006" attr="gba_link006"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_007_item">
+		<Attributes>
+			<Table key="gba_link007">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Castlevania_-_Aria_of_Sorrow.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Castlevania_-_Aria_of_Sorrow.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXCAS8238_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Castlevania_-_Aria_of_Sorrow.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link007" attr="gba_link007"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_008_item">
+		<Attributes>
+			<Table key="gba_link008">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Castlevania_-_Circle_of_the_Moon.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Castlevania_-_Circle_of_the_Moon.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXCAS6926_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Castlevania_-_Circle_of_the_Moon.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link008" attr="gba_link008"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_009_item">
+		<Attributes>
+			<Table key="gba_link009">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Crash_Bandicoot_-_The_Huge_Adventure.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Crash_Bandicoot_-_The_Huge_Adventure.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXCRA8689_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Crash_Bandicoot_-_The_Huge_Adventure.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link009" attr="gba_link009"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_010_item">
+		<Attributes>
+			<Table key="gba_link010">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Crash_Bandicoot_2_-_N-Tranced.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Crash_Bandicoot_2_-_N-Tranced.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXCRA3158_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Crash_Bandicoot_2_-_N-Tranced.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link010" attr="gba_link010"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_011_item">
+		<Attributes>
+			<Table key="gba_link011">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Crash_Bandicoot_Purple_-_Ripto's_Rampage.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Crash_Bandicoot_Purple_-_Ripto's_Rampage.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXCRA0168_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Crash_Bandicoot_Purple_-_Ripto's_Rampage.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link011" attr="gba_link011"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_012_item">
+		<Attributes>
+			<Table key="gba_link012">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Donald_Duck_Advance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Donald_Duck_Advance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXDON9641_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Donald_Duck_Advance.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link012" attr="gba_link012"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_013_item">
+		<Attributes>
+			<Table key="gba_link013">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Dr._Mario_and_Puzzle_League.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Dr._Mario_and_Puzzle_League.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXDRM0806_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Dr._Mario_and_Puzzle_League.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link013" attr="gba_link013"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_014_item">
+		<Attributes>
+			<Table key="gba_link014">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Ed,_Edd_n_Eddy_-_Jawbreakers.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Ed,_Edd_n_Eddy_-_Jawbreakers.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXEDE3791_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Ed,_Edd_n_Eddy_-_Jawbreakers.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link014" attr="gba_link014"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_015_item">
+		<Attributes>
+			<Table key="gba_link015">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Garfield_and_His_Nine_Lives.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Garfield_and_His_Nine_Lives.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXGAR0634_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Garfield_and_His_Nine_Lives.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link015" attr="gba_link015"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_016_item">
+		<Attributes>
+			<Table key="gba_link016">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Grand_Theft_Auto_Advance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Grand_Theft_Auto_Advance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXGRA9372_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Grand_Theft_Auto_Advance.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link016" attr="gba_link016"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_017_item">
+		<Attributes>
+			<Table key="gba_link017">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Hey_Arnold!_The_Movie.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Hey_Arnold!_The_Movie.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXHEY5062_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Hey_Arnold!_The_Movie.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link017" attr="gba_link017"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_018_item">
+		<Attributes>
+			<Table key="gba_link018">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Kirby_-_Nightmare_in_Dreamland.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Kirby_-_Nightmare_in_Dreamland.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXKIR5438_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Kirby_-_Nightmare_in_Dreamland.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link018" attr="gba_link018"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_019_item">
+		<Attributes>
+			<Table key="gba_link019">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Kirby_and_The_Amazing_Mirror.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Kirby_and_The_Amazing_Mirror.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXKIR8204_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Kirby_and_The_Amazing_Mirror.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link019" attr="gba_link019"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_020_item">
+		<Attributes>
+			<Table key="gba_link020">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Mario_and_Luigi_-_Superstar_Saga.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Mario_and_Luigi_-_Superstar_Saga.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMAR6010_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_and_Luigi_-_Superstar_Saga.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link020" attr="gba_link020"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_021_item">
+		<Attributes>
+			<Table key="gba_link021">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Mario_Kart_Super_Circuit.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Mario_Kart_Super_Circuit.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMAR1215_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_Kart_Super_Circuit.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link021" attr="gba_link021"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_022_item">
+		<Attributes>
+			<Table key="gba_link022">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Mario_Party_Advance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Mario_Party_Advance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMAR1904_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_Party_Advance.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link022" attr="gba_link022"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_023_item">
+		<Attributes>
+			<Table key="gba_link023">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Mario_Pinball_Land.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Mario_Pinball_Land.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMAR1079_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_Pinball_Land.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link023" attr="gba_link023"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_024_item">
+		<Attributes>
+			<Table key="gba_link024">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Mario_vs._Donkey_Kong.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Mario_vs._Donkey_Kong.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMAR7290_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mario_vs._Donkey_Kong.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link024" attr="gba_link024"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_025_item">
+		<Attributes>
+			<Table key="gba_link025">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Max_Payne.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Max_Payne.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMAX1470_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Max_Payne.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link025" attr="gba_link025"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_026_item">
+		<Attributes>
+			<Table key="gba_link026">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Medal_of_Honor_-_Infiltrator.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Medal_of_Honor_-_Infiltrator.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMED4704_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Medal_of_Honor_-_Infiltrator.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link026" attr="gba_link026"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_027_item">
+		<Attributes>
+			<Table key="gba_link027">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Medal_of_Honor_-_Underground.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Medal_of_Honor_-_Underground.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMED1014_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Medal_of_Honor_-_Underground.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link027" attr="gba_link027"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_028_item">
+		<Attributes>
+			<Table key="gba_link028">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Men_in_Black_-_The_Series.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Men_in_Black_-_The_Series.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMEN3618_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Men_in_Black_-_The_Series.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link028" attr="gba_link028"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_029_item">
+		<Attributes>
+			<Table key="gba_link029">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Mission_Impossible_-_Operation_Surma.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Mission_Impossible_-_Operation_Surma.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMIS6611_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Mission_Impossible_-_Operation_Surma.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link029" attr="gba_link029"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_030_item">
+		<Attributes>
+			<Table key="gba_link030">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Motocross_Maniacs_Advance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Motocross_Maniacs_Advance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMOT8041_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Motocross_Maniacs_Advance.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link030" attr="gba_link030"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_031_item">
+		<Attributes>
+			<Table key="gba_link031">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Ms._Pac-Man_-_Maze_Madness.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Ms._Pac-Man_-_Maze_Madness.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMSP3504_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Ms._Pac-Man_-_Maze_Madness.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link031" attr="gba_link031"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_032_item">
+		<Attributes>
+			<Table key="gba_link032">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Pac-Man_Collection.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Pac-Man_Collection.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXPAC1179_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Pac-Man_Collection.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link032" attr="gba_link032"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_033_item">
+		<Attributes>
+			<Table key="gba_link033">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Pac-Man_Pinball_Advance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Pac-Man_Pinball_Advance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXPAC3542_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Pac-Man_Pinball_Advance.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link033" attr="gba_link033"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_034_item">
+		<Attributes>
+			<Table key="gba_link034">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Popeye_-_Rush_for_Spinach.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Popeye_-_Rush_for_Spinach.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXPOP6132_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Popeye_-_Rush_for_Spinach.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link034" attr="gba_link034"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_035_item">
+		<Attributes>
+			<Table key="gba_link035">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Scooby-Doo!_-_Mystery_Mayhem_and_Scooby-Doo!_and_the_Cyber_Chase.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Scooby-Doo!_-_Mystery_Mayhem_and_Scooby-Doo!_and_the_Cyber_Chase.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RX2GA7276_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Scooby-Doo!_-_Mystery_Mayhem_and_Scooby-Doo!_and_the_Cyber_Chase.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link035" attr="gba_link035"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_036_item">
+		<Attributes>
+			<Table key="gba_link036">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Sonic_Advance_2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Sonic_Advance_2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSON1204_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Sonic_Advance_2.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link036" attr="gba_link036"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_037_item">
+		<Attributes>
+			<Table key="gba_link037">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Sonic_Advance_3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Sonic_Advance_3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSON1575_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Sonic_Advance_3.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link037" attr="gba_link037"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_038_item">
+		<Attributes>
+			<Table key="gba_link038">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Sonic_Pinball_Party_and_Sonic_Advance.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Sonic_Pinball_Party_and_Sonic_Advance.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RX2IN5344_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Sonic_Pinball_Party_and_Sonic_Advance.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link038" attr="gba_link038"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_039_item">
+		<Attributes>
+			<Table key="gba_link039">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/Spyro_Orange_-_The_Cortex_Conspiracy.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/Spyro_Orange_-_The_Cortex_Conspiracy.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSPY5214_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/Spyro_Orange_-_The_Cortex_Conspiracy.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link039" attr="gba_link039"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_040_item">
+		<Attributes>
+			<Table key="gba_link040">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/The_Flintstones_-_Big_Trouble_in_Bedrock.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/The_Flintstones_-_Big_Trouble_in_Bedrock.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXFLI3466_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/The_Flintstones_-_Big_Trouble_in_Bedrock.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link040" attr="gba_link040"/>
+		</Items> 
+		</View> 
+
+
+		<View id="gba_041_item">
+		<Attributes>
+			<Table key="gba_link041">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/gba/The_Simpsons_-_Road_Rage.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/gba/The_Simpsons_-_Road_Rage.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSIM3217_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/gba/The_Simpsons_-_Road_Rage.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="gba_link041" attr="gba_link041"/>
+		</Items> 
+		</View> 
+		
+
+<!-- SNES -->
+		
+	<View id="retro_downloader_snes_items">
+		<Attributes>
+		    <Table key="game_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/wildguns.png</String></Pair>
+				<Pair key="title"><String>Wild Guns</String></Pair>
+				<Pair key="info"><String>RXWIL4780 4,9 MB by TheWizWiki</String></Pair>
+			</Table>
+			<Table key="game_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/marioallstars.png</String></Pair>
+				<Pair key="title"><String>Super Mario All-Stars + Super Mario World</String></Pair>
+				<Pair key="info"><String>RXSUP5325 5,1 MB by TheWizWiki</String></Pair>
+			</Table>
+			<Table key="snes_002">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/2048_super_Nintendo.JPG</String></Pair>
+				<Pair key="title"><String>2048 super Nintendo</String></Pair>
+				<Pair key="info"><String>RXSNE3001   [SNES]   3.2 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_003">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Beavis_and_Butthead.JPG</String></Pair>
+				<Pair key="title"><String>Beavis and Butthead</String></Pair>
+				<Pair key="info"><String>RXBEA8949   [SNES]   3.9 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_004">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Choplifter_III.JPG</String></Pair>
+				<Pair key="title"><String>Choplifter III</String></Pair>
+				<Pair key="info"><String>RXCHO1139   [SNES]   3.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_005">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Donkey_Kong_Country.JPG</String></Pair>
+				<Pair key="title"><String>Donkey Kong Country</String></Pair>
+				<Pair key="info"><String>RXDON1824   [SNES]   6.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_006">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Donkey_Kong_Country_2_-_Diddy's_Kong_Quest.JPG</String></Pair>
+				<Pair key="title"><String>Donkey Kong Country 2 - Diddy's Kong Quest</String></Pair>
+				<Pair key="info"><String>RXDON4907   [SNES]   6.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_007">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Donkey_Kong_Country_3_-_Dixie_Kongs_Double_Trouble.JPG</String></Pair>
+				<Pair key="title"><String>Donkey Kong Country 3 - Dixie Kongs Double Trouble</String></Pair>
+				<Pair key="info"><String>RXDON5441   [SNES]   6.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Earthworm_Jim.JPG</String></Pair>
+				<Pair key="title"><String>Earthworm Jim</String></Pair>
+				<Pair key="info"><String>RXEAR4383   [SNES]   5.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_009">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Earthworm_Jim_2.JPG</String></Pair>
+				<Pair key="title"><String>Earthworm Jim 2</String></Pair>
+				<Pair key="info"><String>RXEAR0999   [SNES]   5.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_010">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Imperium.JPG</String></Pair>
+				<Pair key="title"><String>Imperium</String></Pair>
+				<Pair key="info"><String>RXIMP5978   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_011">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/James_Pond_3_-_Operation_Starfish.JPG</String></Pair>
+				<Pair key="title"><String>James Pond 3 - Operation Starfish</String></Pair>
+				<Pair key="info"><String>RXJAM8210   [SNES]   4.4 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_012">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Kirby's_Dream_Land_3.JPG</String></Pair>
+				<Pair key="title"><String>Kirby's Dream Land 3</String></Pair>
+				<Pair key="info"><String>RXKIR9642   [SNES]   6.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_013">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Legend_of_Zelda,_Parallel_Worlds.JPG</String></Pair>
+				<Pair key="title"><String>Legend of Zelda, Parallel Worlds</String></Pair>
+				<Pair key="info"><String>RXLEG2673   [SNES]   4.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_014">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Legend_of_Zelda,_The_-_A_Link_to_the_Past.JPG</String></Pair>
+				<Pair key="title"><String>Legend of Zelda, The - A Link to the Past</String></Pair>
+				<Pair key="info"><String>RXLEG3366   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_015">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Lemmings.JPG</String></Pair>
+				<Pair key="title"><String>Lemmings</String></Pair>
+				<Pair key="info"><String>RXLEM9829   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_016">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Lemmings_2_-_The_Tribes.JPG</String></Pair>
+				<Pair key="title"><String>Lemmings 2 - The Tribes</String></Pair>
+				<Pair key="info"><String>RXLEM9632   [SNES]   4.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_017">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mega_Man_X.JPG</String></Pair>
+				<Pair key="title"><String>Mega Man X</String></Pair>
+				<Pair key="info"><String>RXMEG0025   [SNES]   4.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_018">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mega_Man_X_2.JPG</String></Pair>
+				<Pair key="title"><String>Mega Man X 2</String></Pair>
+				<Pair key="info"><String>RXMEG7828   [SNES]   4.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_019">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mega_Man_X_3.JPG</String></Pair>
+				<Pair key="title"><String>Mega Man X 3</String></Pair>
+				<Pair key="info"><String>RXMEG8605   [SNES]   4.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_020">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mortal_Kombat_3.JPG</String></Pair>
+				<Pair key="title"><String>Mortal Kombat 3</String></Pair>
+				<Pair key="info"><String>RXMOR9043   [SNES]   6.4 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_021">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mortal_Kombat_II.JPG</String></Pair>
+				<Pair key="title"><String>Mortal Kombat II</String></Pair>
+				<Pair key="info"><String>RXMOR3319   [SNES]   5.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_022">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/R-Type_III_-_The_Third_Lightning.JPG</String></Pair>
+				<Pair key="title"><String>R-Type III - The Third Lightning</String></Pair>
+				<Pair key="info"><String>RXRTY7064   [SNES]   4.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_023">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Simpsons,_The_-_Bart's_Nightmare.JPG</String></Pair>
+				<Pair key="title"><String>Simpsons, The - Bart's Nightmare</String></Pair>
+				<Pair key="info"><String>RXSIM5480   [SNES]   3.4 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_024">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Street_Fighter_II_Turbo_-_Hyper_Fighting.JPG</String></Pair>
+				<Pair key="title"><String>Street Fighter II Turbo - Hyper Fighting</String></Pair>
+				<Pair key="info"><String>RXSTR1572   [SNES]   5.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_025">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Bomberman.JPG</String></Pair>
+				<Pair key="title"><String>Super Bomberman</String></Pair>
+				<Pair key="info"><String>RXSUP0718   [SNES]   3.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_026">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Bomberman_2.JPG</String></Pair>
+				<Pair key="title"><String>Super Bomberman 2</String></Pair>
+				<Pair key="info"><String>RXSUP2773   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_027">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Bomberman_3.JPG</String></Pair>
+				<Pair key="title"><String>Super Bomberman 3</String></Pair>
+				<Pair key="info"><String>RXSUP2863   [SNES]   3.9 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_028">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Castlevania_IV.JPG</String></Pair>
+				<Pair key="title"><String>Super Castlevania IV</String></Pair>
+				<Pair key="info"><String>RXSUP4147   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_029">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_James_Pond.JPG</String></Pair>
+				<Pair key="title"><String>Super James Pond</String></Pair>
+				<Pair key="info"><String>RXSUP7990   [SNES]   3.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_030">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_James_Pond_II.JPG</String></Pair>
+				<Pair key="title"><String>Super James Pond II</String></Pair>
+				<Pair key="info"><String>RXSUP9240   [SNES]   2.9 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_031">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_All-Stars_+_Super_Mario_World.JPG</String></Pair>
+				<Pair key="title"><String>Super Mario All-Stars + Super Mario World</String></Pair>
+				<Pair key="info"><String>RXSUP3353   [SNES]   5.0 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_032">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_Kart_-_Pro_Edition.JPG</String></Pair>
+				<Pair key="title"><String>Super Mario Kart - Pro Edition</String></Pair>
+				<Pair key="info"><String>RXSUP6594   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_033">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_RPG_-_Legend_of_the_Seven_Stars.JPG</String></Pair>
+				<Pair key="title"><String>Super Mario RPG - Legend of the Seven Stars</String></Pair>
+				<Pair key="info"><String>RXSUP7320   [SNES]   6.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_034">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_World_2_-_Yoshi's_Island.JPG</String></Pair>
+				<Pair key="title"><String>Super Mario World 2 - Yoshi's Island</String></Pair>
+				<Pair key="info"><String>RXSUP1329   [SNES]   4.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_035">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_R-Type.JPG</String></Pair>
+				<Pair key="title"><String>Super R-Type</String></Pair>
+				<Pair key="info"><String>RXSUP9186   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_036">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Street_Fighter_II_-_The_New_Challengers.JPG</String></Pair>
+				<Pair key="title"><String>Super Street Fighter II - The New Challengers</String></Pair>
+				<Pair key="info"><String>RXSUP9277   [SNES]   6.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_037">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Teenage_Mutant_Ninja_Turtles_IV_-_Turtles_in_Time.JPG</String></Pair>
+				<Pair key="title"><String>Teenage Mutant Ninja Turtles IV - Turtles in Time</String></Pair>
+				<Pair key="info"><String>RXTEE7737   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_038">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/The_Itchy_and_Scratchy_Game.JPG</String></Pair>
+				<Pair key="title"><String>The Itchy and Scratchy Game</String></Pair>
+				<Pair key="info"><String>RXITC5803   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_039">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/The_Lion_King.JPG</String></Pair>
+				<Pair key="title"><String>The Lion King</String></Pair>
+				<Pair key="info"><String>RXLIO3877   [SNES]   5.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_040">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/U.N._Squadron.JPG</String></Pair>
+				<Pair key="title"><String>U.N. Squadron</String></Pair>
+				<Pair key="info"><String>RXUNS2191   [SNES]   3.5 MB</String></Pair>
+ 			</Table>
+			<Table key="snes_041">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Zombies_Ate_My_Neighbors.JPG</String></Pair>
+				<Pair key="title"><String>Zombies Ate My Neighbors</String></Pair>
+				<Pair key="info"><String>RXZOM4940   [SNES]   3.4 MB</String></Pair>
+ 			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+			    class="type:x-xmb/folder-pixmap" 
+			    key="game_item_1" 
+			    attr="game_item_1" 
+			    src="#game_link_1_main"/>
+				<Query 
+			    class="type:x-xmb/folder-pixmap" 
+			    key="game_item_2" 
+			    attr="game_item_2" 
+			    src="#game_link_2_main"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_002"
+				attr="snes_002"
+				src="#snes_002_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_003"
+				attr="snes_003"
+				src="#snes_003_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_004"
+				attr="snes_004"
+				src="#snes_004_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_005"
+				attr="snes_005"
+				src="#snes_005_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_006"
+				attr="snes_006"
+				src="#snes_006_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_007"
+				attr="snes_007"
+				src="#snes_007_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_008"
+				attr="snes_008"
+				src="#snes_008_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_009"
+				attr="snes_009"
+				src="#snes_009_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_010"
+				attr="snes_010"
+				src="#snes_010_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_011"
+				attr="snes_011"
+				src="#snes_011_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_012"
+				attr="snes_012"
+				src="#snes_012_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_013"
+				attr="snes_013"
+				src="#snes_013_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_014"
+				attr="snes_014"
+				src="#snes_014_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_015"
+				attr="snes_015"
+				src="#snes_015_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_016"
+				attr="snes_016"
+				src="#snes_016_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_017"
+				attr="snes_017"
+				src="#snes_017_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_018"
+				attr="snes_018"
+				src="#snes_018_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_019"
+				attr="snes_019"
+				src="#snes_019_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_020"
+				attr="snes_020"
+				src="#snes_020_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_021"
+				attr="snes_021"
+				src="#snes_021_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_022"
+				attr="snes_022"
+				src="#snes_022_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_023"
+				attr="snes_023"
+				src="#snes_023_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_024"
+				attr="snes_024"
+				src="#snes_024_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_025"
+				attr="snes_025"
+				src="#snes_025_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_026"
+				attr="snes_026"
+				src="#snes_026_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_027"
+				attr="snes_027"
+				src="#snes_027_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_028"
+				attr="snes_028"
+				src="#snes_028_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_029"
+				attr="snes_029"
+				src="#snes_029_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_030"
+				attr="snes_030"
+				src="#snes_030_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_031"
+				attr="snes_031"
+				src="#snes_031_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_032"
+				attr="snes_032"
+				src="#snes_032_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_033"
+				attr="snes_033"
+				src="#snes_033_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_034"
+				attr="snes_034"
+				src="#snes_034_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_035"
+				attr="snes_035"
+				src="#snes_035_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_036"
+				attr="snes_036"
+				src="#snes_036_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_037"
+				attr="snes_037"
+				src="#snes_037_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_038"
+				attr="snes_038"
+				src="#snes_038_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_039"
+				attr="snes_039"
+				src="#snes_039_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_040"
+				attr="snes_040"
+				src="#snes_040_item"/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="snes_041"
+				attr="snes_041"
+				src="#snes_041_item"/>
+			</Items>
+		</View>
+
+       <View id="game_link_1_main"> 
+		<Attributes> 
+			<Table key="game_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://dl.dropbox.com/s/zmo1j3bbv3ihb93/Wild_Guns_by_TheWizWiki.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://dl.dropbox.com/s/zmo1j3bbv3ihb93/Wild_Guns_by_TheWizWiki.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EMUPS3-RXWIL4780_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/wildguns.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="game_link_1" attr="game_link_1"/> 
+		</Items> 
+	    </View>
+		
+		<View id="game_link_2_main"> 
+		<Attributes> 
+			<Table key="game_link_2"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://dl.dropbox.com/s/ibm1tb2gwjepf18/Super_Mario_All-Stars_Super_Mario_World_.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://dl.dropbox.com/s/ibm1tb2gwjepf18/Super_Mario_All-Stars_Super_Mario_World_.pkg?dl=1</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EMUPS3-RXSUP5325_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/marioallstars.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="game_link_2" attr="game_link_2"/> 
+		</Items> 
+	    </View>
+
+		<View id="snes_002_item">
+		<Attributes>
+			<Table key="snes_link002">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/2048_super_Nintendo.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/2048_super_Nintendo.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>SP0001-RXSNE3001_00-0000111122223333</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/2048_super_Nintendo.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link002" attr="snes_link002"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_003_item">
+		<Attributes>
+			<Table key="snes_link003">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Beavis_and_Butthead.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Beavis_and_Butthead.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXBEA8949_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Beavis_and_Butthead.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link003" attr="snes_link003"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_004_item">
+		<Attributes>
+			<Table key="snes_link004">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Choplifter_III.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Choplifter_III.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXCHO1139_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Choplifter_III.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link004" attr="snes_link004"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_005_item">
+		<Attributes>
+			<Table key="snes_link005">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Donkey_Kong_Country.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Donkey_Kong_Country.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXDON1824_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Donkey_Kong_Country.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link005" attr="snes_link005"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_006_item">
+		<Attributes>
+			<Table key="snes_link006">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Donkey_Kong_Country_2_-_Diddy's_Kong_Quest.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Donkey_Kong_Country_2_-_Diddy's_Kong_Quest.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXDON4907_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Donkey_Kong_Country_2_-_Diddy's_Kong_Quest.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link006" attr="snes_link006"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_007_item">
+		<Attributes>
+			<Table key="snes_link007">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Donkey_Kong_Country_3_-_Dixie_Kongs_Double_Trouble.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Donkey_Kong_Country_3_-_Dixie_Kongs_Double_Trouble.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXDON5441_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Donkey_Kong_Country_3_-_Dixie_Kongs_Double_Trouble.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link007" attr="snes_link007"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_008_item">
+		<Attributes>
+			<Table key="snes_link008">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Earthworm_Jim.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Earthworm_Jim.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXEAR4383_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Earthworm_Jim.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link008" attr="snes_link008"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_009_item">
+		<Attributes>
+			<Table key="snes_link009">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Earthworm_Jim_2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Earthworm_Jim_2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXEAR0999_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Earthworm_Jim_2.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link009" attr="snes_link009"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_010_item">
+		<Attributes>
+			<Table key="snes_link010">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Imperium.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Imperium.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXIMP5978_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Imperium.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link010" attr="snes_link010"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_011_item">
+		<Attributes>
+			<Table key="snes_link011">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/James_Pond_3_-_Operation_Starfish.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/James_Pond_3_-_Operation_Starfish.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXJAM8210_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/James_Pond_3_-_Operation_Starfish.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link011" attr="snes_link011"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_012_item">
+		<Attributes>
+			<Table key="snes_link012">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Kirby's_Dream_Land_3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Kirby's_Dream_Land_3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXKIR9642_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Kirby's_Dream_Land_3.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link012" attr="snes_link012"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_013_item">
+		<Attributes>
+			<Table key="snes_link013">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Legend_of_Zelda,_Parallel_Worlds.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Legend_of_Zelda,_Parallel_Worlds.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXLEG2673_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Legend_of_Zelda,_Parallel_Worlds.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link013" attr="snes_link013"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_014_item">
+		<Attributes>
+			<Table key="snes_link014">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Legend_of_Zelda,_The_-_A_Link_to_the_Past.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Legend_of_Zelda,_The_-_A_Link_to_the_Past.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXLEG3366_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Legend_of_Zelda,_The_-_A_Link_to_the_Past.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link014" attr="snes_link014"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_015_item">
+		<Attributes>
+			<Table key="snes_link015">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Lemmings.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Lemmings.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXLEM9829_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Lemmings.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link015" attr="snes_link015"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_016_item">
+		<Attributes>
+			<Table key="snes_link016">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Lemmings_2_-_The_Tribes.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Lemmings_2_-_The_Tribes.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXLEM9632_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Lemmings_2_-_The_Tribes.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link016" attr="snes_link016"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_017_item">
+		<Attributes>
+			<Table key="snes_link017">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Mega_Man_X.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Mega_Man_X.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMEG0025_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mega_Man_X.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link017" attr="snes_link017"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_018_item">
+		<Attributes>
+			<Table key="snes_link018">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Mega_Man_X_2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Mega_Man_X_2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMEG7828_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mega_Man_X_2.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link018" attr="snes_link018"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_019_item">
+		<Attributes>
+			<Table key="snes_link019">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Mega_Man_X_3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Mega_Man_X_3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMEG8605_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mega_Man_X_3.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link019" attr="snes_link019"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_020_item">
+		<Attributes>
+			<Table key="snes_link020">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Mortal_Kombat_3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Mortal_Kombat_3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMOR9043_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mortal_Kombat_3.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link020" attr="snes_link020"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_021_item">
+		<Attributes>
+			<Table key="snes_link021">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Mortal_Kombat_II.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Mortal_Kombat_II.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXMOR3319_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Mortal_Kombat_II.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link021" attr="snes_link021"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_022_item">
+		<Attributes>
+			<Table key="snes_link022">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/R-Type_III_-_The_Third_Lightning.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/R-Type_III_-_The_Third_Lightning.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXRTY7064_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/R-Type_III_-_The_Third_Lightning.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link022" attr="snes_link022"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_023_item">
+		<Attributes>
+			<Table key="snes_link023">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Simpsons,_The_-_Bart's_Nightmare.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Simpsons,_The_-_Bart's_Nightmare.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSIM5480_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Simpsons,_The_-_Bart's_Nightmare.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link023" attr="snes_link023"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_024_item">
+		<Attributes>
+			<Table key="snes_link024">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Street_Fighter_II_Turbo_-_Hyper_Fighting.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Street_Fighter_II_Turbo_-_Hyper_Fighting.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSTR1572_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Street_Fighter_II_Turbo_-_Hyper_Fighting.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link024" attr="snes_link024"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_025_item">
+		<Attributes>
+			<Table key="snes_link025">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Bomberman.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Bomberman.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP0718_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Bomberman.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link025" attr="snes_link025"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_026_item">
+		<Attributes>
+			<Table key="snes_link026">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Bomberman_2.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Bomberman_2.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP2773_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Bomberman_2.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link026" attr="snes_link026"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_027_item">
+		<Attributes>
+			<Table key="snes_link027">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Bomberman_3.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Bomberman_3.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP2863_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Bomberman_3.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link027" attr="snes_link027"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_028_item">
+		<Attributes>
+			<Table key="snes_link028">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Castlevania_IV.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Castlevania_IV.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP4147_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Castlevania_IV.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link028" attr="snes_link028"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_029_item">
+		<Attributes>
+			<Table key="snes_link029">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_James_Pond.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_James_Pond.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP7990_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_James_Pond.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link029" attr="snes_link029"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_030_item">
+		<Attributes>
+			<Table key="snes_link030">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_James_Pond_II.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_James_Pond_II.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP9240_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_James_Pond_II.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link030" attr="snes_link030"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_031_item">
+		<Attributes>
+			<Table key="snes_link031">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Mario_All-Stars_+_Super_Mario_World.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Mario_All-Stars_+_Super_Mario_World.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP3353_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_All-Stars_+_Super_Mario_World.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link031" attr="snes_link031"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_032_item">
+		<Attributes>
+			<Table key="snes_link032">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Mario_Kart_-_Pro_Edition.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Mario_Kart_-_Pro_Edition.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP6594_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_Kart_-_Pro_Edition.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link032" attr="snes_link032"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_033_item">
+		<Attributes>
+			<Table key="snes_link033">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Mario_RPG_-_Legend_of_the_Seven_Stars.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Mario_RPG_-_Legend_of_the_Seven_Stars.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP7320_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_RPG_-_Legend_of_the_Seven_Stars.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link033" attr="snes_link033"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_034_item">
+		<Attributes>
+			<Table key="snes_link034">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Mario_World_2_-_Yoshi's_Island.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Mario_World_2_-_Yoshi's_Island.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP1329_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Mario_World_2_-_Yoshi's_Island.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link034" attr="snes_link034"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_035_item">
+		<Attributes>
+			<Table key="snes_link035">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_R-Type.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_R-Type.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP9186_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_R-Type.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link035" attr="snes_link035"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_036_item">
+		<Attributes>
+			<Table key="snes_link036">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Super_Street_Fighter_II_-_The_New_Challengers.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Super_Street_Fighter_II_-_The_New_Challengers.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXSUP9277_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Super_Street_Fighter_II_-_The_New_Challengers.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link036" attr="snes_link036"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_037_item">
+		<Attributes>
+			<Table key="snes_link037">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Teenage_Mutant_Ninja_Turtles_IV_-_Turtles_in_Time.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Teenage_Mutant_Ninja_Turtles_IV_-_Turtles_in_Time.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXTEE7737_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Teenage_Mutant_Ninja_Turtles_IV_-_Turtles_in_Time.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link037" attr="snes_link037"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_038_item">
+		<Attributes>
+			<Table key="snes_link038">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/The_Itchy_and_Scratchy_Game.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/The_Itchy_and_Scratchy_Game.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXITC5803_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/The_Itchy_and_Scratchy_Game.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link038" attr="snes_link038"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_039_item">
+		<Attributes>
+			<Table key="snes_link039">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/The_Lion_King.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/The_Lion_King.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXLIO3877_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/The_Lion_King.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link039" attr="snes_link039"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_040_item">
+		<Attributes>
+			<Table key="snes_link040">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/U.N._Squadron.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/U.N._Squadron.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXUNS2191_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/U.N._Squadron.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link040" attr="snes_link040"/>
+		</Items> 
+		</View> 
+
+
+		<View id="snes_041_item">
+		<Attributes>
+			<Table key="snes_link041">
+				<Pair key="info"><String>net_package_install</String></Pair>
+				<Pair key="pkg_src"><String>http://devil303.com/packages/snes/Zombies_Ate_My_Neighbors.pkg</String></Pair>
+				<Pair key="pkg_src_qa"><String>http://devil303.com/packages/snes/Zombies_Ate_My_Neighbors.pkg</String></Pair>
+				<Pair key="content_name"><String>msg_install</String></Pair>
+				<Pair key="content_id"><String>EMUPS3-RXZOM4940_00-0000000000000000</String></Pair>
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/Zombies_Ate_My_Neighbors.JPG</String></Pair>
+ 			</Table> 
+		</Attributes> 
+			<Items>
+			<Item class="type:x-xmb/xmlnpsignup" key="snes_link041" attr="snes_link041"/>
+		</Items> 
+		</View> 
+		
+
+</XMBML>

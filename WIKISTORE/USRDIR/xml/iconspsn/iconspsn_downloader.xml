@@ -1,0 +1,748 @@
+<XMBML version="1.0">
+ 
+<!-- Logos - Descargas de logos PSN -->
+ 
+	<View id="iconspsn_downloader_items">
+		<Attributes>
+			<Table key="seg_icon_000">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/USB.png</String></Pair>
+				<Pair key="title"><String>Instalar logo desde el usb000/</String></Pair>
+				<Pair key="info"><String>Copiar xmb_plugin_normal.rco desde dev_usb000/ a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_001">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D100.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_002">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D101.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_003">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D102.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_004">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D103.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_005">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D104.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_006">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D105.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_007">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D106.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D107.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_009">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D108.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_010">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D109.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_011">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D110.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_012">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D111.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_013">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D112.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_014">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D113.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_015">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D114.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_016">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D115.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_017">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D116.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_018">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D117.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_019">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D118.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_020">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D119.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_021">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D120.png</String></Pair>
+				<Pair key="title"><String>Instalar PSN logo</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_icon_022">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D121.png</String></Pair>
+				<Pair key="title"><String>Restaurar ORIGINAL</String></Pair>
+				<Pair key="info"><String>Copiar el xmb_plugin_normal.rco a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_000"
+				attr="seg_icon_000"
+				src="#seg_icon_000_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_001"
+				attr="seg_icon_001"
+				src="#seg_icon_001_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_002"
+				attr="seg_icon_002"
+				src="#seg_icon_002_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_003"
+				attr="seg_icon_003"
+				src="#seg_icon_003_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_004"
+				attr="seg_icon_004"
+				src="#seg_icon_004_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_005"
+				attr="seg_icon_005"
+				src="#seg_icon_005_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_006"
+				attr="seg_icon_006"
+				src="#seg_icon_006_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_007"
+				attr="seg_icon_007"
+				src="#seg_icon_007_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_008"
+				attr="seg_icon_008"
+				src="#seg_icon_008_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_009"
+				attr="seg_icon_009"
+				src="#seg_icon_009_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_010"
+				attr="seg_icon_010"
+				src="#seg_icon_010_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_011"
+				attr="seg_icon_011"
+				src="#seg_icon_011_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_012"
+				attr="seg_icon_012"
+				src="#seg_icon_012_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_013"
+				attr="seg_icon_013"
+				src="#seg_icon_013_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_014"
+				attr="seg_icon_014"
+				src="#seg_icon_014_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_015"
+				attr="seg_icon_015"
+				src="#seg_icon_015_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_016"
+				attr="seg_icon_016"
+				src="#seg_icon_016_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_017"
+				attr="seg_icon_017"
+				src="#seg_icon_017_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_018"
+				attr="seg_icon_018"
+				src="#seg_icon_018_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_019"
+				attr="seg_icon_019"
+				src="#seg_icon_019_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_020"
+				attr="seg_icon_020"
+				src="#seg_icon_020_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_021"
+				attr="seg_icon_021"
+				src="#seg_icon_021_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_icon_022"
+				attr="seg_icon_022"
+				src="#seg_icon_022_item"
+				/>
+		</Items>
+	    </View>
+		
+		<View id="seg_icon_000_item">
+		<Attributes>
+			<Table key="icon_000_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_usb000/xmb_plugin_normal.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_000_item"
+				attr="icon_000_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_001_item">
+		<Attributes>
+			<Table key="icon_001_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D100.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_001_item"
+				attr="icon_001_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_002_item">
+		<Attributes>
+			<Table key="icon_002_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D101.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_002_item"
+				attr="icon_002_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_003_item">
+		<Attributes>
+			<Table key="icon_003_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D102.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_003_item"
+				attr="icon_003_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_004_item">
+		<Attributes>
+			<Table key="icon_004_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D103.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_004_item"
+				attr="icon_004_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_005_item">
+		<Attributes>
+			<Table key="icon_005_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D104.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_005_item"
+				attr="icon_005_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_006_item">
+		<Attributes>
+			<Table key="icon_006_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D105.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_006_item"
+				attr="icon_006_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_007_item">
+		<Attributes>
+			<Table key="icon_007_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D106.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_007_item"
+				attr="icon_007_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_008_item">
+		<Attributes>
+			<Table key="icon_008_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D107.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_008_item"
+				attr="icon_008_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_009_item">
+		<Attributes>
+			<Table key="icon_009_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D108.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_009_item"
+				attr="icon_009_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_010_item">
+		<Attributes>
+			<Table key="icon_010_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D109.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_010_item"
+				attr="icon_010_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_011_item">
+		<Attributes>
+			<Table key="icon_011_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D110.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_011_item"
+				attr="icon_011_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_012_item">
+		<Attributes>
+			<Table key="icon_012_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D111.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_012_item"
+				attr="icon_012_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_013_item">
+		<Attributes>
+			<Table key="icon_013_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D112.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_013_item"
+				attr="icon_013_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_014_item">
+		<Attributes>
+			<Table key="icon_014_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D113.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_014_item"
+				attr="icon_014_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_015_item">
+		<Attributes>
+			<Table key="icon_015_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D114.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_015_item"
+				attr="icon_015_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_016_item">
+		<Attributes>
+			<Table key="icon_016_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D115.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_016_item"
+				attr="icon_016_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_017_item">
+		<Attributes>
+			<Table key="icon_017_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D116.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_017_item"
+				attr="icon_017_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_018_item">
+		<Attributes>
+			<Table key="icon_018_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D117.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_018_item"
+				attr="icon_018_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_019_item">
+		<Attributes>
+			<Table key="icon_019_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D118.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_019_item"
+				attr="icon_019_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_020_item">
+		<Attributes>
+			<Table key="icon_020_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D119.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_020_item"
+				attr="icon_020_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_021_item">
+		<Attributes>
+			<Table key="icon_021_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D120.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_021_item"
+				attr="icon_021_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_icon_022_item">
+		<Attributes>
+			<Table key="icon_022_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual xmb_plugin_normal.rco se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/iconspsn/D121.rco#/dev_blind/vsh/resource/xmb_plugin_normal.rco</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="icon_022_item"
+				attr="icon_022_item"
+				/>
+		</Items>
+		</View>
+
+</XMBML>

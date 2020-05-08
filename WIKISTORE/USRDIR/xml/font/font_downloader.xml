@@ -1,0 +1,826 @@
+<XMBML version="1.0">
+ 
+<!-- Descargar fuentes -->
+ 
+	<View id="font_downloader_items">
+		<Attributes>
+			<Table key="seg_fonts_000">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/USB.png</String></Pair>
+				<Pair key="title"><String>Instalar Font desde del usb000/</String></Pair>
+				<Pair key="info"><String>Copiar SCE-PS3-RD-R-LATIN2.TTF desde dev_usb000/ a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_007">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D506.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font/</String></Pair>
+			</Table>
+			<Table key="seg_fonts_008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D507.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_009">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D508.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_010">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D509.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_011">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D510.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_012">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D511.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_013">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D512.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_014">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D513.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_015">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D514.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_016">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D515.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_017">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D516.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_018">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D517.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_019">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D518.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_020">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D519.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_021">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D520.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_022">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D521.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_023">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D522.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_024">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D523.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_025">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D524.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_026">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D525.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_027">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D526.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_028">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D527.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_029">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D528.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_030">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D529.png</String></Pair>
+				<Pair key="title"><String>Instalar Font</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+			<Table key="seg_fonts_031">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D530.png</String></Pair>
+				<Pair key="title"><String>Instalar Font ORIGINAL</String></Pair>
+				<Pair key="info"><String>Copiar el SCE-PS3-RD-R-LATIN2.TTF a dev_blind/data/font</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_000"
+				attr="seg_fonts_000"
+				src="#seg_fonts_000_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_007"
+				attr="seg_fonts_007"
+				src="#seg_fonts_007_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_008"
+				attr="seg_fonts_008"
+				src="#seg_fonts_008_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_009"
+				attr="seg_fonts_009"
+				src="#seg_fonts_009_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_010"
+				attr="seg_fonts_010"
+				src="#seg_fonts_010_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_011"
+				attr="seg_fonts_011"
+				src="#seg_fonts_011_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_012"
+				attr="seg_fonts_012"
+				src="#seg_fonts_012_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_013"
+				attr="seg_fonts_013"
+				src="#seg_fonts_013_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_014"
+				attr="seg_fonts_014"
+				src="#seg_fonts_014_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_015"
+				attr="seg_fonts_015"
+				src="#seg_fonts_015_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_016"
+				attr="seg_fonts_016"
+				src="#seg_fonts_016_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_017"
+				attr="seg_fonts_017"
+				src="#seg_fonts_017_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_018"
+				attr="seg_fonts_018"
+				src="#seg_fonts_018_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_019"
+				attr="seg_fonts_019"
+				src="#seg_fonts_019_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_020"
+				attr="seg_fonts_020"
+				src="#seg_fonts_020_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_021"
+				attr="seg_fonts_021"
+				src="#seg_fonts_021_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_022"
+				attr="seg_fonts_022"
+				src="#seg_fonts_022_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_023"
+				attr="seg_fonts_023"
+				src="#seg_fonts_023_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_024"
+				attr="seg_fonts_024"
+				src="#seg_fonts_024_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_025"
+				attr="seg_fonts_025"
+				src="#seg_fonts_025_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_026"
+				attr="seg_fonts_026"
+				src="#seg_fonts_026_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_027"
+				attr="seg_fonts_027"
+				src="#seg_fonts_027_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_028"
+				attr="seg_fonts_028"
+				src="#seg_fonts_028_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_029"
+				attr="seg_fonts_029"
+				src="#seg_fonts_029_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_fonts_031"
+				attr="seg_fonts_031"
+				src="#seg_fonts_031_item"
+				/>
+		</Items>
+	    </View>
+		
+		<View id="seg_fonts_000_item">
+		<Attributes>
+			<Table key="fonts_000_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_usb000/SCE-PS3-RD-R-LATIN2.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_000_item"
+				attr="fonts_000_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_007_item">
+		<Attributes>
+			<Table key="fonts_007_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D506.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_007_item"
+				attr="fonts_007_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_008_item">
+		<Attributes>
+			<Table key="fonts_008_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D507.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_008_item"
+				attr="fonts_008_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_009_item">
+		<Attributes>
+			<Table key="fonts_009_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D508.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_009_item"
+				attr="fonts_009_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_010_item">
+		<Attributes>
+			<Table key="fonts_010_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D509.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_010_item"
+				attr="fonts_010_item"
+				/>
+		</Items>
+		</View>
+		
+			
+		<View id="seg_fonts_011_item">
+		<Attributes>
+			<Table key="fonts_011_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D510.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_011_item"
+				attr="fonts_011_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_012_item">
+		<Attributes>
+			<Table key="fonts_012_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D511.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_012_item"
+				attr="fonts_012_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_013_item">
+		<Attributes>
+			<Table key="fonts_013_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D512.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_013_item"
+				attr="fonts_013_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_014_item">
+		<Attributes>
+			<Table key="fonts_014_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D513.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_014_item"
+				attr="fonts_014_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_015_item">
+		<Attributes>
+			<Table key="fonts_015_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D514.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_015_item"
+				attr="fonts_015_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_016_item">
+		<Attributes>
+			<Table key="fonts_016_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D515.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_016_item"
+				attr="fonts_016_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_017_item">
+		<Attributes>
+			<Table key="fonts_017_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D516.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_017_item"
+				attr="fonts_017_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_018_item">
+		<Attributes>
+			<Table key="fonts_018_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D517.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_018_item"
+				attr="fonts_018_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_019_item">
+		<Attributes>
+			<Table key="fonts_019_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D518.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_019_item"
+				attr="fonts_019_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_020_item">
+		<Attributes>
+			<Table key="fonts_020_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D519.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_020_item"
+				attr="fonts_020_item"
+				/>
+		</Items>
+		</View>
+		
+			<View id="seg_fonts_021_item">
+		<Attributes>
+			<Table key="fonts_021_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D520.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_021_item"
+				attr="fonts_021_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_022_item">
+		<Attributes>
+			<Table key="fonts_022_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D521.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_022_item"
+				attr="fonts_022_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_023_item">
+		<Attributes>
+			<Table key="fonts_023_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D522.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_023_item"
+				attr="fonts_023_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_024_item">
+		<Attributes>
+			<Table key="fonts_024_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D523.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_024_item"
+				attr="fonts_024_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_025_item">
+		<Attributes>
+			<Table key="fonts_025_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D524.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_025_item"
+				attr="fonts_025_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_026_item">
+		<Attributes>
+			<Table key="fonts_026_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D525.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_026_item"
+				attr="fonts_026_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_027_item">
+		<Attributes>
+			<Table key="fonts_027_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D526.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_027_item"
+				attr="fonts_027_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_028_item">
+		<Attributes>
+			<Table key="fonts_028_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D527.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_028_item"
+				attr="fonts_028_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_fonts_029_item">
+		<Attributes>
+			<Table key="fonts_029_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D528.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_029_item"
+				attr="fonts_029_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_030_item">
+		<Attributes>
+			<Table key="fonts_030_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D529.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_030_item"
+				attr="fonts_030_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_fonts_031_item">
+		<Attributes>
+			<Table key="fonts_031_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El actual Font se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/fonts/D530.TTF#/dev_blind/data/font/SCE-PS3-RD-R-LATIN2.TTF</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="fonts_031_item"
+				attr="fonts_031_item"
+				/>
+		</Items>
+		</View>
+
+</XMBML>

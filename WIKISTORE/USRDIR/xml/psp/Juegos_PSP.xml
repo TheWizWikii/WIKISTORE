@@ -1,0 +1,93 @@
+<XMBML version="1.0">
+    <View id="Juegos_PSP_items">
+        <Attributes>
+            <Table key="Juegos_PSP_item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psp/NPJG00071.png</String></Pair>
+                <Pair key="title"><String>1000000t no barabara</String></Pair>
+                <Pair key="info"><String>NPJG00071 (JP) - 190,87 MB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="Juegos_PSP_item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psp/megamix.png</String></Pair>
+                <Pair key="title"><String>101-in-1 Megamix</String></Pair>
+                <Pair key="info"><String>NPUH10088 (US) - 410,46 MB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="Juegos_PSP_item_2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psp/thewarriors.png</String></Pair>
+                <Pair key="title"><String>The Warriors (EU)</String></Pair>
+                <Pair key="info"><String>ULES00483 - 1,5 GB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>          
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="Juegos_PSP_item_0"
+                attr="Juegos_PSP_item_0"
+                src="#Juegos_PSP_item_0_link"
+            /> 
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="Juegos_PSP_item_1"
+                attr="Juegos_PSP_item_1"
+                src="#Juegos_PSP_item_1_link"
+            />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="Juegos_PSP_item_2"
+                attr="Juegos_PSP_item_2"
+                src="#Juegos_PSP_item_2_link"
+            />			
+        </Items>
+    </View>
+
+    <View id="Juegos_PSP_item_0_link">
+        <Attributes>
+            <Table key="Juegos_PSP_item_0">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJG00071_00/oVkxs0hqt1cNd3MfMkmQKwBatyj2s7A7dUGKcgoQ82SMFeJexPehj2PM3VrEkUIWErXiotVLgUqJv1JFNXm5kXN2dPITHGamH7jN5.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJG00071_00/oVkxs0hqt1cNd3MfMkmQKwBatyj2s7A7dUGKcgoQ82SMFeJexPehj2PM3VrEkUIWErXiotVLgUqJv1JFNXm5kXN2dPITHGamH7jN5.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>JP9000-NPJG00071_00-0000111122223333</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="Juegos_PSP_item_0" attr="Juegos_PSP_item_0"/>
+        </Items>
+    </View>
+
+    <View id="Juegos_PSP_item_1_link">
+        <Attributes>
+            <Table key="Juegos_PSP_item_1">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP4069/NPUH10088_00/ExR95Xxdoest15r3nNatBwuNqWQr58qtj5emDBQt6MCkpfgCthONh5O5x3S9mX126p5nKH7yHeqdB49cQ8M3IREu9EBNnMJnrlywY.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP4069/NPUH10088_00/ExR95Xxdoest15r3nNatBwuNqWQr58qtj5emDBQt6MCkpfgCthONh5O5x3S9mX126p5nKH7yHeqdB49cQ8M3IREu9EBNnMJnrlywY.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP4069-NPUH10088_00-101IN1MEGAMIXPSP</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="Juegos_PSP_item_1" attr="Juegos_PSP_item_1"/>
+        </Items>
+    </View>
+	
+	<View id="Juegos_PSP_item_2_link">
+        <Attributes>
+            <Table key="Juegos_PSP_item_2">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/ULES00483_00/k4vQFlhXrhuYVAvj9wYcknJloV067wfXtx3WwPpRIilFcFnq0qqANRIa5QDcDQqEbL3pCdNW5oiDO9BhDNqla0eHSW37NkmbT408E.pkg</String></Pair>
+                <Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/ULES00483_00/k4vQFlhXrhuYVAvj9wYcknJloV067wfXtx3WwPpRIilFcFnq0qqANRIa5QDcDQqEbL3pCdNW5oiDO9BhDNqla0eHSW37NkmbT408E.pkg</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>UP4069-NPUH10088_00-101IN1MEGAMIXPSP</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/HANTOOLBX/USRDIR/IMAGES/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="Juegos_PSP_item_2" attr="Juegos_PSP_item_2"/>
+        </Items>
+    </View>
+
+</XMBML>

@@ -1,0 +1,107 @@
+<XMBML version="1.0">
+    <View id="god_of_war_3_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 1</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 3,57 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/nh0bhzyk7xyhbaa/1GAME0-NPEA00510_00-PATCH00000000001.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 2</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 3,62 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/m7b30iu3vmkw65d/1GAME0-NPEA00510_00-PATCH00000000002.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 3</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 2,44 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/yo3phupknd15elx/1GAME0-NPEA00510_00-PATCH00000000003.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 4</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 3,71 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/y7ajynpakxz5ddz/1GAME0-NPEA00510_00-PATCH00000000004.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="5">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 5</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 3,57 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/243rp0bvh5wo3ab/1GAME0-NPEA00510_00-PATCH00000000005.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="6">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 6</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 3,35 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/2e9int576stkqqo/1GAME0-NPEA00510_00-PATCH00000000006.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="7">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 7</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 1,38 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/u3dyba5km7vit5g/1GAME0-NPEA00510_00-PATCH00000000007.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="8">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPEA00510 - 8,73 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/1d6qyef3e2wchia/NPEA00510_Parche.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="5" 
+			attr="5"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="6" 
+			attr="6"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="7" 
+			attr="7"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="8" 
+			attr="8"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

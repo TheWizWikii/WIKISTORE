@@ -1,0 +1,34 @@
+<XMBML version="1.0">
+
+<!-- NoPSN HK -->
+	
+	<View id="nopsn_downloader_HK_items">
+		<Attributes>
+			<Table key="item_NPHA80252_v623">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/mlbtv.png</String></Pair>
+				<Pair key="title"><String>MLB. TV</String></Pair>
+				<Pair key="info"><String>v6.23 - 18.92 MB</String></Pair>
+			</Table>
+			<Table key="item_NPHB00730_v107">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/twitch.png</String></Pair>
+				<Pair key="title"><String>Twitch</String></Pair>
+				<Pair key="info"><String>v1.07 - 9.87 MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPHA80252_v623" 
+				attr="item_NPHA80252_v623"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPHA80252_v623_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPHB00730_v107" 
+				attr="item_NPHB00730_v107"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPHB00730_v107_main"
+				/>
+		</Items>
+	</View>
+		
+</XMBML>

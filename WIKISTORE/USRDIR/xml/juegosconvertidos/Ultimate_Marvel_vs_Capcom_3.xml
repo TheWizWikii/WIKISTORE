@@ -1,0 +1,59 @@
+<XMBML version="1.0">
+    <View id="Ultimate_Marvel_vs_Capcom_3_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Ultimate Marvel vs Capcom 3.png</String></Pair>
+	        	<Pair key="title"><String>1- Juego</String></Pair>
+				<Pair key="info"><String>NPEB01355 - 1,11 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/twdmouynfr0w0h0/Mparte1.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Ultimate Marvel vs Capcom 3.png</String></Pair>
+	        	<Pair key="title"><String>2- Juego parte 2</String></Pair>
+				<Pair key="info"><String>NPEB01355 - 1,68 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/f9w4235bfvtim44/Mparte2.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Ultimate Marvel vs Capcom 3.png</String></Pair>
+	        	<Pair key="title"><String>3- Patch</String></Pair>
+				<Pair key="info"><String>NPEB01355 - 18,95 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/c4x2w2balad2szo/NPEB01355_00-2PATCH.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Ultimate Marvel vs Capcom 3.png</String></Pair>
+	        	<Pair key="title"><String>4- Fix</String></Pair>
+				<Pair key="info"><String>NPEB01355 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/xouqflmvwnv11ut/NPEB01355_00-3LIC.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

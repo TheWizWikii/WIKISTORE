@@ -1,0 +1,47 @@
+<XMBML version="1.0">
+    <View id="castelvania_lords_of_shadow_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/castelvania lords of shadow.png</String></Pair>
+	        	<Pair key="title"><String>Juego</String></Pair>
+				<Pair key="info"><String>NPEB01047 - 11,74 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/5h45h5txzqeotym/000000-NPEB01047_00-1GAME00000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/castelvania lords of shadow.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPEB01047 - 21,12 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/3v3k833k56pj35n/000000-NPEB01047_00-2PATCH0000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/castelvania lords of shadow.png</String></Pair>
+	        	<Pair key="title"><String>LIC</String></Pair>
+				<Pair key="info"><String>NPEB01047 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/j2s3lcm6z8hglnx/000000-NPEB01047_00-3LIC000000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

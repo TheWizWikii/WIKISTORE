@@ -1,0 +1,143 @@
+<XMBML version="1.0">
+    <View id="wwe_2k17_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17.png</String></Pair>
+	        	<Pair key="title"><String>Juego</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 8,59 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/2j4w5dy87zfst09/000000-NPUB31599_00-1GAME00000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17.png</String></Pair>
+	        	<Pair key="title"><String>Parche</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 126,78 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/9chbpwcykqyq561/000000-NPUB31599_00-2PATCH0000000000-A0104-V0100.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17.png</String></Pair>
+	        	<Pair key="title"><String>LIC</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/d37y5pqg58d3we2/000000-NPUB31599_00-3LIC000000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc legends pack.png</String></Pair>
+	        	<Pair key="title"><String>DLC Legends Pack</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 120,93 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/ytxhrrz6w1irapi/BLUS31599_WWE_2K17_LEGENDS_PACK.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="5">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc future stars pack.png</String></Pair>
+	        	<Pair key="title"><String>DLC Future Stars Pack</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 139,46 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/hbg4zfzwqwj3lcr/BLUS31599_00-WWE2K17_Future_Stars_Pack.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="6">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc hall of fame showcase.png</String></Pair>
+	        	<Pair key="title"><String>DLC Hall of Fame Showcase</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 2,6 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/0qbxm53twnlu58l/UP1001-BLUS31599_00-WWE2K1709SHOWCAS_bg_1_c605c6feef838206ddc0ddb83dd269ddb4f34758.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="7">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc new moves pack.png</String></Pair>
+	        	<Pair key="title"><String>DLC New Moves Pack</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 35,98 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/0gulzd4hez29pkl/UP1001-BLUS31599_00-WWE2K17PACK1CA00-A0101-V0100-PE.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="8">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc goldberg pack.png</String></Pair>
+	        	<Pair key="title"><String>DLC Preorder Goldberg Pack</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 39,53 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/v4gh7shldohbzf6/UP1001-BLUS31599_00-WWE2K17PACK1CA00-A0102-V0100-PE.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="9">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc acelerator.png</String></Pair>
+	        	<Pair key="title"><String>DLC Accelerator Pack</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 33,18 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/1efvco73kdem23y/UP1001-BLUS31599_00-WWE2K17PACK1CA00-A0103-V0100-PE.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="10">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc nxt legacy pack.png</String></Pair>
+	        	<Pair key="title"><String>DLC NX Legacy Pack</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 33,18 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/phn9s3fye19tapx/UP1001-BLUS31599_00-WWE2K17PACK1CA00-A0104-V0100-PE.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="11">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17 dlc nxt legacy pack.png</String></Pair>
+	        	<Pair key="title"><String>All DLC FIX</String></Pair>
+				<Pair key="info"><String>NPUB31599 - 7,86 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/iss9k9esjqauc1n/BLUS31599_WWE_2K17_ALL_DLC_FIXv5.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="5" 
+			attr="5"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="6" 
+			attr="6"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="7" 
+			attr="7"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="8" 
+			attr="8"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="9" 
+			attr="9"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="10" 
+			attr="10"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="11" 
+			attr="11"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

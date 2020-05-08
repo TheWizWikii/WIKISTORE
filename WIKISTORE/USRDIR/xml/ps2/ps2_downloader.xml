@@ -1,0 +1,42 @@
+<XMBML version="1.0">
+	<View id="ps2_downloader_items">
+		<Attributes>
+		<!-- juegos PS2 PSN -->
+			<Table key="PS2_downloader_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_eu.png</String></Pair>
+				<Pair key="title"><String>Juegos EU</String></Pair>
+				<Pair key="info"><String>44 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="PS2_downloader_JP">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_jp.png</String></Pair>
+				<Pair key="title"><String>Juegos JP</String></Pair>
+				<Pair key="info"><String>21 Juegos Disponibles</String></Pair>
+			</Table>
+			<Table key="PS2_downloader_US">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_us.png</String></Pair>
+				<Pair key="title"><String>Juegos US</String></Pair>
+				<Pair key="info"><String>60 Juegos Disponibles</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PS2_downloader_EU" 
+				attr="PS2_downloader_EU"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/ps2/ps2game_eu.xml#ps2game_eu_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PS2_downloader_JP" 
+				attr="PS2_downloader_JP"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/ps2/ps2game_jp.xml#ps2game_jp_main"
+				/>	
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="PS2_downloader_US" 
+				attr="PS2_downloader_US"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/ps2/ps2game_us.xml#ps2game_us_main"
+				/>	
+		</Items>
+	</View>	
+</XMBML>

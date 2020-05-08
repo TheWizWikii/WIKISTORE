@@ -1,0 +1,59 @@
+<XMBML version="1.0">
+    <View id="guitar_hero_3_legends_of_rock_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/guitar hero 3 legends of rock.png</String></Pair>
+	        	<Pair key="title"><String>Juego Parte 1</String></Pair>
+				<Pair key="info"><String>NPEB00134 - 3,73 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/mi9q5v8a6mzx3fr/000000-NPEB00134_00-1GAME00000000001.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/guitar hero 3 legends of rock.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 2</String></Pair>
+				<Pair key="info"><String>NPEB00134 - 1,9 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/iibyhuk2djztase/000000-NPEB00134_00-1GAME00000000002.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/guitar hero 3 legends of rock.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPEB00134 - 12,48 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/9fxesx1e4k13tav/000000-NPEB00134_00-2PATCH0000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/guitar hero 3 legends of rock.png</String></Pair>
+	        	<Pair key="title"><String>LIC</String></Pair>
+				<Pair key="info"><String>NPEB00134 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/7pfpnwo6mflschs/000000-NPEB00134_00-3LIC000000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

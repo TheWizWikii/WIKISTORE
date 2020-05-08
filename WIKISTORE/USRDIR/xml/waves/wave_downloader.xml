@@ -1,0 +1,987 @@
+<XMBML version="1.0">
+ 
+<!-- Waves - Descargas de olas de fondo -->
+ 
+	<View id="wave_downloader_items">
+		<Attributes>
+			<Table key="seg_waves_000">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/USB.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave desde el usb000/</String></Pair>
+				<Pair key="info"><String>Copiar lines.qrc desde dev_usb000/ a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_001">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D200.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_002">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D201.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_003">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D202.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_004">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D203.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_005">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D204.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_006">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D205.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_007">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D206.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D207.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_009">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D208.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_010">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D209.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_011">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D210.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_012">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D211.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_013">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D212.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_014">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D213.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_015">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D214.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_016">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D215.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_017">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D216.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_018">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D217.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_019">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D218.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_020">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D219.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_021">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D220.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_022">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D221.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_023">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D222.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_024">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D223.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_025">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D224.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_026">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D225.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_027">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D226.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_028">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D227.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_029">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D228.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+			<Table key="seg_waves_030">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D229.png</String></Pair>
+				<Pair key="title"><String>Instalar Wave</String></Pair>
+				<Pair key="info"><String>Copiar las lines.qrc a dev_blind/vsh/resource/qgl/</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_000"
+				attr="seg_waves_000"
+				src="#seg_waves_000_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_001"
+				attr="seg_waves_001"
+				src="#seg_waves_001_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_002"
+				attr="seg_waves_002"
+				src="#seg_waves_002_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_003"
+				attr="seg_waves_003"
+				src="#seg_waves_003_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_004"
+				attr="seg_waves_004"
+				src="#seg_waves_004_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_005"
+				attr="seg_waves_005"
+				src="#seg_waves_005_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_006"
+				attr="seg_waves_006"
+				src="#seg_waves_006_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_007"
+				attr="seg_waves_007"
+				src="#seg_waves_007_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_008"
+				attr="seg_waves_008"
+				src="#seg_waves_008_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_009"
+				attr="seg_waves_009"
+				src="#seg_waves_009_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_010"
+				attr="seg_waves_010"
+				src="#seg_waves_010_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_011"
+				attr="seg_waves_011"
+				src="#seg_waves_011_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_012"
+				attr="seg_waves_012"
+				src="#seg_waves_012_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_013"
+				attr="seg_waves_013"
+				src="#seg_waves_013_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_014"
+				attr="seg_waves_014"
+				src="#seg_waves_014_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_015"
+				attr="seg_waves_015"
+				src="#seg_waves_015_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_016"
+				attr="seg_waves_016"
+				src="#seg_waves_016_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_017"
+				attr="seg_waves_017"
+				src="#seg_waves_017_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_018"
+				attr="seg_waves_018"
+				src="#seg_waves_018_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_019"
+				attr="seg_waves_019"
+				src="#seg_waves_019_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_020"
+				attr="seg_waves_020"
+				src="#seg_waves_020_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_021"
+				attr="seg_waves_021"
+				src="#seg_waves_021_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_022"
+				attr="seg_waves_022"
+				src="#seg_waves_022_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_023"
+				attr="seg_waves_023"
+				src="#seg_waves_023_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_024"
+				attr="seg_waves_024"
+				src="#seg_waves_024_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_025"
+				attr="seg_waves_025"
+				src="#seg_waves_025_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_026"
+				attr="seg_waves_026"
+				src="#seg_waves_026_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_027"
+				attr="seg_waves_027"
+				src="#seg_waves_027_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_028"
+				attr="seg_waves_028"
+				src="#seg_waves_028_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_029"
+				attr="seg_waves_029"
+				src="#seg_waves_029_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_waves_030"
+				attr="seg_waves_030"
+				src="#seg_waves_030_item"
+				/>
+		</Items>
+	    </View>
+		
+		<View id="seg_waves_000_item">
+		<Attributes>
+			<Table key="waves_000_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_usb000/lines.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_000_item"
+				attr="waves_000_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_001_item">
+		<Attributes>
+			<Table key="waves_001_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D200.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_001_item"
+				attr="waves_001_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_002_item">
+		<Attributes>
+			<Table key="waves_002_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D201.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_002_item"
+				attr="waves_002_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_003_item">
+		<Attributes>
+			<Table key="waves_003_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D202.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_003_item"
+				attr="waves_003_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_004_item">
+		<Attributes>
+			<Table key="waves_004_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D203.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_004_item"
+				attr="waves_004_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_005_item">
+		<Attributes>
+			<Table key="waves_005_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D204.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_005_item"
+				attr="waves_005_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_006_item">
+		<Attributes>
+			<Table key="waves_006_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D205.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_006_item"
+				attr="waves_006_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_007_item">
+		<Attributes>
+			<Table key="waves_007_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D206.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_007_item"
+				attr="waves_007_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_008_item">
+		<Attributes>
+			<Table key="waves_008_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D207.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_008_item"
+				attr="waves_008_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_009_item">
+		<Attributes>
+			<Table key="waves_009_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D208.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_009_item"
+				attr="waves_009_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_010_item">
+		<Attributes>
+			<Table key="waves_010_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D209.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_010_item"
+				attr="waves_010_item"
+				/>
+		</Items>
+		</View>
+		
+			
+		<View id="seg_waves_011_item">
+		<Attributes>
+			<Table key="waves_011_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D210.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_011_item"
+				attr="waves_011_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_012_item">
+		<Attributes>
+			<Table key="waves_012_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D211.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_012_item"
+				attr="waves_012_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_013_item">
+		<Attributes>
+			<Table key="waves_013_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D212.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_013_item"
+				attr="waves_013_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_014_item">
+		<Attributes>
+			<Table key="waves_014_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D213.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_014_item"
+				attr="waves_014_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_015_item">
+		<Attributes>
+			<Table key="waves_015_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D214.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_015_item"
+				attr="waves_015_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_016_item">
+		<Attributes>
+			<Table key="waves_016_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D215.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_016_item"
+				attr="waves_016_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_017_item">
+		<Attributes>
+			<Table key="waves_017_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D216.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_017_item"
+				attr="waves_017_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_018_item">
+		<Attributes>
+			<Table key="waves_018_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D217.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_018_item"
+				attr="waves_018_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_019_item">
+		<Attributes>
+			<Table key="waves_019_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D218.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_019_item"
+				attr="waves_019_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_020_item">
+		<Attributes>
+			<Table key="waves_020_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D219.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_020_item"
+				attr="waves_020_item"
+				/>
+		</Items>
+		</View>
+		
+			<View id="seg_waves_021_item">
+		<Attributes>
+			<Table key="waves_021_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D220.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_021_item"
+				attr="waves_021_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_022_item">
+		<Attributes>
+			<Table key="waves_022_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D221.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_022_item"
+				attr="waves_022_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_023_item">
+		<Attributes>
+			<Table key="waves_023_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D222.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_023_item"
+				attr="waves_023_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_024_item">
+		<Attributes>
+			<Table key="waves_024_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D223.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_024_item"
+				attr="waves_024_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_025_item">
+		<Attributes>
+			<Table key="waves_025_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D224.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_025_item"
+				attr="waves_025_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_026_item">
+		<Attributes>
+			<Table key="waves_026_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D225.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_026_item"
+				attr="waves_026_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_027_item">
+		<Attributes>
+			<Table key="waves_027_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D226.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_027_item"
+				attr="waves_027_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_waves_028_item">
+		<Attributes>
+			<Table key="waves_028_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D227.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_028_item"
+				attr="waves_028_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_029_item">
+		<Attributes>
+			<Table key="waves_029_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D228.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_029_item"
+				attr="waves_029_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_waves_030_item">
+		<Attributes>
+			<Table key="waves_030_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/flash_warning.png</String></Pair>
+				<Pair key="title"><String>La actual Lines.qrc se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (requiere refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/waves/D229.qrc#/dev_blind/vsh/resource/qgl/lines.qrc</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="waves_030_item"
+				attr="waves_030_item"
+				/>
+		</Items>
+		</View>
+
+</XMBML>

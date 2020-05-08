@@ -1,0 +1,307 @@
+<XMBML version="1.0">
+	<!-- Juegos convertidos exclusivos WIKISTORE -->
+		<View id="juegos_convertidos_items">
+		<Attributes>
+			<Table key="minecraft">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/minecraft.png</String></Pair>
+				<Pair key="title"><String>Minecraft PS3 Edition Full Completo con pack de Texturas (US)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 1 parte a instalar</String></Pair>
+			</Table>
+			<Table key="the_king_of_fighters">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/the king of fighters.png</String></Pair>
+				<Pair key="title"><String>The King of Fighters XIII (US)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 partes a instalar</String></Pair>
+			</Table>
+			<Table key="Ultimate_Marvel_vs_Capcom_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Ultimate Marvel vs Capcom 3.png</String></Pair>
+				<Pair key="title"><String>Ultimate Marvel vs. Capcom 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 pkg a instalar</String></Pair>
+			</Table>
+			<Table key="god_of_war_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+				<Pair key="title"><String>God of War 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 8 partes a instalar</String></Pair>
+			</Table>
+			<Table key="skyrim">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/skyrim.png</String></Pair>
+				<Pair key="title"><String>The Elder Scrolls V: Skyrim (US)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 partes a instalar</String></Pair>
+			</Table>
+			<Table key="fifa_20">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fifa 20.png</String></Pair>
+				<Pair key="title"><String>FIFA 20 (US)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 5 partes a instalar</String></Pair>
+			</Table>
+			<Table key="skate3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/skate 3.png</String></Pair>
+				<Pair key="title"><String>SKATE 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="uncharted_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/uncharted3.jpg</String></Pair>
+				<Pair key="title"><String>Uncharted 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 12 partes a instalar</String></Pair>
+			</Table>
+			<Table key="wwe_2k17">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe 2k17.png</String></Pair>
+				<Pair key="title"><String>WWE 2K17 + 7 DLCS (US)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar + Contenido adicional extra</String></Pair>
+			</Table>
+			<Table key="dark_souls_prepare_to_die_edition">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/drak souls prepare to die edition.png</String></Pair>
+				<Pair key="title"><String>Dark Souls Prepare To Die Edition (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="guitar_hero_3_legends_of_rock">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/guitar hero 3 legends of rock.png</String></Pair>
+				<Pair key="title"><String>Guitar Hero 3 Legends of Rock (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 partes a instalar</String></Pair>
+			</Table>
+			<Table key="cod_waw">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/cod waw.png</String></Pair>
+				<Pair key="title"><String>Call of Duty World at War (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="killzone_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/killzone 3.png</String></Pair>
+				<Pair key="title"><String>Killzone 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="nba_2k17">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/nba 2k17.png</String></Pair>
+				<Pair key="title"><String>NBA 2K17 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="beijing_2008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/beijing 2008.png</String></Pair>
+				<Pair key="title"><String>Beijing 2008 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="golden_axe_beast_ride">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/golden axe beast ride.png</String></Pair>
+				<Pair key="title"><String>Golden Axe Beast Ride (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="fight_night_round_4">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night round 4.png</String></Pair>
+				<Pair key="title"><String>Fight Night Round 4 + All DLC (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 5 partes a instalar</String></Pair>
+			</Table>
+			<Table key="NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst.png</String></Pair>
+				<Pair key="title"><String>NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="fight_night_champion">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night champion.png</String></Pair>
+				<Pair key="title"><String>Fight Night Champion + All DLC (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 5 partes a instalar</String></Pair>
+			</Table>
+			<Table key="resistance_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/resistance3.png</String></Pair>
+				<Pair key="title"><String>Resistance 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 5 partes a instalar</String></Pair>
+			</Table>
+			<Table key="castelvania_lords_of_shadow">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/castelvania lords of shadow.png</String></Pair>
+				<Pair key="title"><String>Castelvania Lords of Shadow (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="yakuza">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/yakuza.png</String></Pair>
+				<Pair key="title"><String>Yakuza 1 y 2 HD (JP)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="padrino_2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/padrino 2.png</String></Pair>
+				<Pair key="title"><String>El Padrino 2 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="wwe_all_stars">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/wwe all stars.png</String></Pair>
+				<Pair key="title"><String>WWE All Stars (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 3 partes a instalar</String></Pair>
+			</Table>
+			<Table key="blur">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/blur.png</String></Pair>
+				<Pair key="title"><String>Blur (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 partes a instalar</String></Pair>
+			</Table>
+			<Table key="Guitar_Hero_Aerosmith">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Guitar Hero Aerosmith.png</String></Pair>
+				<Pair key="title"><String>Guitar Hero Aerosmith (US)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 partes a instalar</String></Pair>
+			</Table>
+			<Table key="cod_black_ops_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/cod black ops 3.png</String></Pair>
+				<Pair key="title"><String>Call of Duty Black Ops 3 (EU)</String></Pair>
+				<Pair key="info"><String>Juego convertido con 4 partes a instalar</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="minecraft" 
+				attr="minecraft"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/minecraft.xml#minecraft_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="the_king_of_fighters" 
+				attr="the_king_of_fighters"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/the_king_of_fighters.xml#the_king_of_fighters_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Ultimate_Marvel_vs_Capcom_3" 
+				attr="Ultimate_Marvel_vs_Capcom_3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/Ultimate_Marvel_vs_Capcom_3.xml#Ultimate_Marvel_vs_Capcom_3_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="god_of_war_3" 
+				attr="god_of_war_3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/god_of_war_3.xml#god_of_war_3_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="skyrim" 
+				attr="skyrim"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/skyrim.xml#skyrim_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="fifa_20" 
+				attr="fifa_20"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/fifa_20.xml#fifa_20_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="skate3" 
+				attr="skate3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/skate3.xml#skate3_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="uncharted_3" 
+				attr="uncharted_3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/uncharted_3.xml#uncharted_3_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="wwe_2k17" 
+				attr="wwe_2k17"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/wwe_2k17.xml#wwe_2k17_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="dark_souls_prepare_to_die_edition" 
+				attr="dark_souls_prepare_to_die_edition"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/dark_souls_prepare_to_die_edition.xml#dark_souls_prepare_to_die_edition_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="guitar_hero_3_legends_of_rock" 
+				attr="guitar_hero_3_legends_of_rock"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/guitar_hero_3_legends_of_rock.xml#guitar_hero_3_legends_of_rock_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="cod_waw" 
+				attr="cod_waw"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/cod_waw.xml#cod_waw_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="killzone_3" 
+				attr="killzone_3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/killzone_3.xml#killzone_3_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="nba_2k17" 
+				attr="nba_2k17"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/nba_2k17.xml#nba_2k17_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="beijing_2008" 
+				attr="beijing_2008"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/beijing_2008.xml#beijing_2008_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="golden_axe_beast_ride" 
+				attr="golden_axe_beast_ride"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/golden_axe_beast_ride.xml#golden_axe_beast_ride_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="fight_night_round_4" 
+				attr="fight_night_round_4"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/fight_night_round_4.xml#fight_night_round_4_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst" 
+				attr="NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst.xml#NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="fight_night_champion" 
+				attr="fight_night_champion"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/fight_night_champion.xml#fight_night_champion_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="resistance_3" 
+				attr="resistance_3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/resistance_3.xml#resistance_3_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="castelvania_lords_of_shadow" 
+				attr="castelvania_lords_of_shadow"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/castelvania_lords_of_shadow.xml#castelvania_lords_of_shadow_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="yakuza" 
+				attr="yakuza"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/yakuza.xml#yakuza_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="padrino_2" 
+				attr="padrino_2"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/padrino_2.xml#padrino_2_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="wwe_all_stars" 
+				attr="wwe_all_stars"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/wwe_all_stars.xml#wwe_all_stars_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="blur" 
+				attr="blur"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/blur.xml#blur_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Guitar_Hero_Aerosmith" 
+				attr="Guitar_Hero_Aerosmith"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/Guitar_Hero_Aerosmith.xml#Guitar_Hero_Aerosmith_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="cod_black_ops_3" 
+				attr="cod_black_ops_3"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/juegosconvertidos/cod_black_ops_3.xml#cod_black_ops_3_items"
+				/>
+		</Items>
+		</View>
+		
+</XMBML>

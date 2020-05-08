@@ -1,0 +1,1019 @@
+<XMBML version="1.0">
+ 
+<!-- Descarga de Coldboots -->
+ 
+	<View id="coldboot_downloader_items">
+		<Attributes>
+			<Table key="seg_coldboot_000">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/USB.png</String></Pair>
+				<Pair key="title"><String>Instalar Coldboot desde dev_usb000/</String></Pair>
+				<Pair key="info"><String>Copia el coldboot.raf desde dev_usb000 a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_001">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D100.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_002">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D101.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_003">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D102.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_004">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D103.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_005">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D104.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_006">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D105.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_007">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D106.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_008">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D107.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_009">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D108.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_010">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D109.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_011">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D110.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_012">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D111.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_013">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D112.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_014">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D113.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_015">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D114.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_016">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D115.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_017">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D116.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_018">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D117.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_019">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D118.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_020">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D119.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_021">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D120.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_022">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D121.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_023">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D122.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_024">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D123.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_025">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D124.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_026">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D125.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_027">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D126.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_028">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D127.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_029">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D128.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_030">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D129.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+			<Table key="seg_coldboot_031">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D130.png</String></Pair>
+				<Pair key="title"><String>Install Coldboot</String></Pair>
+				<Pair key="info"><String>Copiar el coldboot.raf a dev_blind/vsh/resource/</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_000"
+				attr="seg_coldboot_000"
+				src="#seg_coldboot_000_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_001"
+				attr="seg_coldboot_001"
+				src="#seg_coldboot_001_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_002"
+				attr="seg_coldboot_002"
+				src="#seg_coldboot_002_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_003"
+				attr="seg_coldboot_003"
+				src="#seg_coldboot_003_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_004"
+				attr="seg_coldboot_004"
+				src="#seg_coldboot_004_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_005"
+				attr="seg_coldboot_005"
+				src="#seg_coldboot_005_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_006"
+				attr="seg_coldboot_006"
+				src="#seg_coldboot_006_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_007"
+				attr="seg_coldboot_007"
+				src="#seg_coldboot_007_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_008"
+				attr="seg_coldboot_008"
+				src="#seg_coldboot_008_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_009"
+				attr="seg_coldboot_009"
+				src="#seg_coldboot_009_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_010"
+				attr="seg_coldboot_010"
+				src="#seg_coldboot_010_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_011"
+				attr="seg_coldboot_011"
+				src="#seg_coldboot_011_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_012"
+				attr="seg_coldboot_012"
+				src="#seg_coldboot_012_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_013"
+				attr="seg_coldboot_013"
+				src="#seg_coldboot_013_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_014"
+				attr="seg_coldboot_014"
+				src="#seg_coldboot_014_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_015"
+				attr="seg_coldboot_015"
+				src="#seg_coldboot_015_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_016"
+				attr="seg_coldboot_016"
+				src="#seg_coldboot_016_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_017"
+				attr="seg_coldboot_017"
+				src="#seg_coldboot_017_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_018"
+				attr="seg_coldboot_018"
+				src="#seg_coldboot_018_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_019"
+				attr="seg_coldboot_019"
+				src="#seg_coldboot_019_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_020"
+				attr="seg_coldboot_020"
+				src="#seg_coldboot_020_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_021"
+				attr="seg_coldboot_021"
+				src="#seg_coldboot_021_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_022"
+				attr="seg_coldboot_022"
+				src="#seg_coldboot_022_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_023"
+				attr="seg_coldboot_023"
+				src="#seg_coldboot_023_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_024"
+				attr="seg_coldboot_024"
+				src="#seg_coldboot_024_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_025"
+				attr="seg_coldboot_025"
+				src="#seg_coldboot_025_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_026"
+				attr="seg_coldboot_026"
+				src="#seg_coldboot_026_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_027"
+				attr="seg_coldboot_027"
+				src="#seg_coldboot_027_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_028"
+				attr="seg_coldboot_028"
+				src="#seg_coldboot_028_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_029"
+				attr="seg_coldboot_029"
+				src="#seg_coldboot_029_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_030"
+				attr="seg_coldboot_030"
+				src="#seg_coldboot_030_item"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_coldboot_031"
+				attr="seg_coldboot_031"
+				src="#seg_coldboot_031_item"
+				/>
+		</Items>
+	    </View>
+		
+		<View id="seg_coldboot_000_item">
+		<Attributes>
+			<Table key="coldboot_000_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_usb000/coldboot.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_000_item"
+				attr="coldboot_000_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_001_item">
+		<Attributes>
+			<Table key="coldboot_001_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D100.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_001_item"
+				attr="coldboot_001_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_002_item">
+		<Attributes>
+			<Table key="coldboot_002_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D101.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_002_item"
+				attr="coldboot_002_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_003_item">
+		<Attributes>
+			<Table key="coldboot_003_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D102.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_003_item"
+				attr="coldboot_003_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_004_item">
+		<Attributes>
+			<Table key="coldboot_004_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D103.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_004_item"
+				attr="coldboot_004_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_005_item">
+		<Attributes>
+			<Table key="coldboot_005_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D104.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_005_item"
+				attr="coldboot_005_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_006_item">
+		<Attributes>
+			<Table key="coldboot_006_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D105.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_006_item"
+				attr="coldboot_006_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_007_item">
+		<Attributes>
+			<Table key="coldboot_007_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D106.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_007_item"
+				attr="coldboot_007_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_008_item">
+		<Attributes>
+			<Table key="coldboot_008_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D107.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_008_item"
+				attr="coldboot_008_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_009_item">
+		<Attributes>
+			<Table key="coldboot_009_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D108.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_009_item"
+				attr="coldboot_009_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_010_item">
+		<Attributes>
+			<Table key="coldboot_010_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D109.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_010_item"
+				attr="coldboot_010_item"
+				/>
+		</Items>
+		</View>
+		
+			
+		<View id="seg_coldboot_011_item">
+		<Attributes>
+			<Table key="coldboot_011_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D110.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_011_item"
+				attr="coldboot_011_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_012_item">
+		<Attributes>
+			<Table key="coldboot_012_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D111.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_012_item"
+				attr="coldboot_012_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_013_item">
+		<Attributes>
+			<Table key="coldboot_013_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D112.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_013_item"
+				attr="coldboot_013_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_014_item">
+		<Attributes>
+			<Table key="coldboot_014_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D113.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_014_item"
+				attr="coldboot_014_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_015_item">
+		<Attributes>
+			<Table key="coldboot_015_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D114.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_015_item"
+				attr="coldboot_015_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_016_item">
+		<Attributes>
+			<Table key="coldboot_016_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D115.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_016_item"
+				attr="coldboot_016_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_017_item">
+		<Attributes>
+			<Table key="coldboot_017_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D116.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_017_item"
+				attr="coldboot_017_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_018_item">
+		<Attributes>
+			<Table key="coldboot_018_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D117.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_018_item"
+				attr="coldboot_018_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_019_item">
+		<Attributes>
+			<Table key="coldboot_019_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D118.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_019_item"
+				attr="coldboot_019_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_020_item">
+		<Attributes>
+			<Table key="coldboot_020_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D119.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_020_item"
+				attr="coldboot_020_item"
+				/>
+		</Items>
+		</View>
+		
+			<View id="seg_coldboot_021_item">
+		<Attributes>
+			<Table key="coldboot_021_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D120.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_021_item"
+				attr="coldboot_021_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_022_item">
+		<Attributes>
+			<Table key="coldboot_022_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D121.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_022_item"
+				attr="coldboot_022_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_023_item">
+		<Attributes>
+			<Table key="coldboot_023_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D122.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_023_item"
+				attr="coldboot_023_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_024_item">
+		<Attributes>
+			<Table key="coldboot_024_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D123.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_024_item"
+				attr="coldboot_024_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_025_item">
+		<Attributes>
+			<Table key="coldboot_025_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D124.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_025_item"
+				attr="coldboot_025_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_026_item">
+		<Attributes>
+			<Table key="coldboot_026_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D125.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_026_item"
+				attr="coldboot_026_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_027_item">
+		<Attributes>
+			<Table key="coldboot_027_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D126.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_027_item"
+				attr="coldboot_027_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_028_item">
+		<Attributes>
+			<Table key="coldboot_028_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D127.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_028_item"
+				attr="coldboot_028_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_029_item">
+		<Attributes>
+			<Table key="coldboot_029_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D128.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_029_item"
+				attr="coldboot_029_item"
+				/>
+		</Items>
+		</View>
+		<View id="seg_coldboot_030_item">
+		<Attributes>
+			<Table key="coldboot_030_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D129.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_030_item"
+				attr="coldboot_030_item"
+				/>
+		</Items>
+		</View>
+		
+		<View id="seg_coldboot_031_item">
+		<Attributes>
+			<Table key="coldboot_031_item">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/flash_warning.png</String></Pair>
+				<Pair key="title"><String>El siguiente Coldboot.raf se sobrescribira, estas seguro?</String></Pair>
+				<Pair key="info"><String>Pulsa  para continuar (necesario refrescar XMB), Pulsa  para volver atras.</String></Pair>
+				<Pair key="module_name"><String>videodownloader_plugin</String></Pair>
+				<Pair key="module_action"><String>fcopy#/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/coldboot/D130.raf#/dev_blind/vsh/resource/coldboot.raf</String></Pair>
+				<Pair key="bar_action"><String>none</String></Pair>
+				<Pair key="lbl_half"><String>1</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/module-action"
+				key="coldboot_031_item"
+				attr="coldboot_031_item"
+				/>
+		</Items>
+		</View>
+
+</XMBML>

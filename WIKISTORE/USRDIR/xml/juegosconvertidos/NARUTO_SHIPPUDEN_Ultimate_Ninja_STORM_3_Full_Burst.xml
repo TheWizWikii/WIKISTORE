@@ -1,0 +1,47 @@
+<XMBML version="1.0">
+    <View id="NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst.png</String></Pair>
+	        	<Pair key="title"><String>Juego</String></Pair>
+				<Pair key="info"><String>NPEB01951 - 7,04 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/9e0z3icbb28ly7w/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst_GAME.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPEB01951 - 7,38 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/l4kbydpdjrk8s3c/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst_PATCH.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/NARUTO SHIPPUDEN Ultimate Ninja STORM 3 Full Burst.png</String></Pair>
+	        	<Pair key="title"><String>LIC</String></Pair>
+				<Pair key="info"><String>NPEB01951 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/5gc6b3ohd4b46f0/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst_LIC.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

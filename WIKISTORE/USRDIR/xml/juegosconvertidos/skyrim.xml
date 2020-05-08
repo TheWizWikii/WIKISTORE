@@ -1,0 +1,123 @@
+<XMBML version="1.0">
+    <View id="skyrim_items">
+        <Attributes>
+		     <Table key="item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/skyrim.png</String></Pair>
+                <Pair key="title"><String>1- Juego parte 1</String></Pair>
+                <Pair key="info"><String>BLUS30778 - 1,6 GB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/skyrim.png</String></Pair>
+                <Pair key="title"><String>2- Juego parte 2</String></Pair>
+                <Pair key="info"><String>BLUS30778 - 3,57 GB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="item_2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/skyrim.png</String></Pair>
+                <Pair key="title"><String>3- Patch</String></Pair>
+                <Pair key="info"><String>BLUS30778 - 2,7 MB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="item_3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/skyrim.png</String></Pair>
+                <Pair key="title"><String>4- Fix</String></Pair>
+                <Pair key="info"><String>BLUS30778 - 108 MB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+        </Attributes>
+        <Items>
+		    <Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_0"
+                attr="item_0"
+                src="#item_0_link"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_1"
+                attr="item_1"
+                src="#item_1_link"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_2"
+                attr="item_2"
+                src="#item_2_link"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_3"
+                attr="item_3"
+                src="#item_3_link"
+            />
+		  			
+        </Items>
+    </View>
+	
+	<View id="item_0_link">
+        <Attributes>
+            <Table key="item_0_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AAAnFTh-Uyh2_iR63UVhij6Ea/Skyrim_Game_01.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AAAnFTh-Uyh2_iR63UVhij6Ea/Skyrim_Game_01.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1DGAME-NPUB30778_00-NPUB307780000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_0_link" attr="item_0_link"/>
+        </Items>
+    </View>
+	
+	<View id="item_1_link">
+        <Attributes>
+            <Table key="item_1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AADPOnjMw28N8LmBiksexkW7a/Skyrim_Game_02.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AADPOnjMw28N8LmBiksexkW7a/Skyrim_Game_02.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1DGAME-NPUB30778_00-NPUB307780000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_1_link" attr="item_1_link"/>
+        </Items>
+    </View>
+	
+	<View id="item_2_link">
+        <Attributes>
+            <Table key="item_2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AACS2PrIi4Wsw_e-lexwh8oDa/Skyrim_Game_03.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AACS2PrIi4Wsw_e-lexwh8oDa/Skyrim_Game_03.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>1DGAME-NPUB30778_00-NPUB307780000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_2_link" attr="item_2_link"/>
+        </Items>
+    </View>
+	
+	<View id="item_3_link">
+        <Attributes>
+            <Table key="item_3_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AAAkuByX_Be0Ry2OnnLDkD1ja/Skyrim_Patch.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/sh/8jsjb9hl9m9laks/AAAkuByX_Be0Ry2OnnLDkD1ja/Skyrim_Patch.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>2PATCH-BLUS30778_00-BLUS307780000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_3_link" attr="item_3_link"/>
+        </Items>
+    </View>
+	
+</XMBML>

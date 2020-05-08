@@ -1,0 +1,71 @@
+<XMBML version="1.0">
+    <View id="fight_night_round_4_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night round 4.png</String></Pair>
+	        	<Pair key="title"><String>Juego</String></Pair>
+				<Pair key="info"><String>NPEB00538 - 4,19 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/asvrbcejwctfn6u/000000-NPEB00538_00-1GAME00000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night round 4.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPEB00538 - 293,77 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/ds6x0gkb29w1wz2/000000-NPEB00538_00-2PATCH0000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night round 4.png</String></Pair>
+	        	<Pair key="title"><String>LIC</String></Pair>
+				<Pair key="info"><String>NPEB00538 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/rg8356etkp7wug7/000000-NPEB00538_00-3LIC000000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night round 4.png</String></Pair>
+	        	<Pair key="title"><String>DLC</String></Pair>
+				<Pair key="info"><String>NPEB00538 - 293,77 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/1zo5rzatwyxbc4s/EP0006-BLES00538_00-FIGHTNIGHTR4DLC5-A0104-V0101-PE.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="5">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fight night round 4.png</String></Pair>
+	        	<Pair key="title"><String>DLC FIX</String></Pair>
+				<Pair key="info"><String>NPEB00538 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/zwdu7e0czc0dn2g/BLES00538_FIGHT_NIGHT_ROUND_4_ALL_DLC_FIX.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="5" 
+			attr="5"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

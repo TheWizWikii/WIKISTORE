@@ -1,0 +1,71 @@
+<XMBML version="1.0">
+    <View id="fifa_20_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fifa 20.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 1</String></Pair>
+				<Pair key="info"><String>NPUB31616 - 2,8 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/t0n8nk7ie0qfzzt/FIFA20_PART1.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fifa 20.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 2</String></Pair>
+				<Pair key="info"><String>NPUB31616 - 3,01 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/go8hm7ppedldq4y/FIFA20_PART2.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fifa 20.png</String></Pair>
+	        	<Pair key="title"><String>Juego parte 3</String></Pair>
+				<Pair key="info"><String>NPUB31616 - 1,71 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/fuzrt10dptvsn03/FIFA20_PART3.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fifa 20.png</String></Pair>
+	        	<Pair key="title"><String>Patch</String></Pair>
+				<Pair key="info"><String>NPUB31616 - 25,42 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/93r8o7n5chegu6h/2PATCH-BLUS31617_00-BLUS316170000001.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="5">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/fifa 20.png</String></Pair>
+	        	<Pair key="title"><String>FIX</String></Pair>
+				<Pair key="info"><String>NPUB31616 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/7laztti9nwilh22/Licencia_FIFA20.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="5" 
+			attr="5"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

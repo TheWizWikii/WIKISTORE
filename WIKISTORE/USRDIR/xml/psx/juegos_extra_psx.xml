@@ -1,0 +1,49 @@
+<XMBML version="1.0">
+<!-- Juegos de PSX exclusivos -->
+    <View id="juegos_extra_psx_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/tony hawk pro skater.png</String></Pair>
+	        	<Pair key="title"><String>Tony Hawk´s Pro Skater</String></Pair>
+				<Pair key="info"><String>SLUS00860 - 634,61 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/t5ck3t839b4ltsi/Tony_Hawk_Pro_Skater.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/tony hawk pro skater 2.png</String></Pair>
+	        	<Pair key="title"><String>Tony Hawk´s Pro Skater 2</String></Pair>
+				<Pair key="info"><String>SLES02908 - 717,34 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/e6qg91ekt9osw20/Tony_Hawks_Pro_Skater_2.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/shadow man.png</String></Pair>
+	        	<Pair key="title"><String>Shadow Man (PAL)</String></Pair>
+				<Pair key="info"><String> SLES00947 - 512,46 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/khu16fzc1i18asf/TA9000-SLES00947_00-0000000000000000.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		  					
+        </Items>
+
+    </View>
+	
+</XMBML>

@@ -1,0 +1,59 @@
+<XMBML version="1.0">
+    <View id="the_king_of_fighters_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/the king of fighters.png</String></Pair>
+	        	<Pair key="title"><String>1- Juego</String></Pair>
+				<Pair key="info"><String>NPUB30845 - 1,09 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/nvipj8si04bw08r/parte1GAMEKofF.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/the king of fighters.png</String></Pair>
+	        	<Pair key="title"><String>2- Juego parte 2</String></Pair>
+				<Pair key="info"><String>NPUB30845 - 1,1 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/w6s34vy7mqxs0rc/parte2GAMEKofF.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/the king of fighters.png</String></Pair>
+	        	<Pair key="title"><String>3- Patch</String></Pair>
+				<Pair key="info"><String>NPUB30845 - 6,24 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/oe8afot19dao5f4/NPUB30845-2PATCH.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/the king of fighters.png</String></Pair>
+	        	<Pair key="title"><String>4- Fix</String></Pair>
+				<Pair key="info"><String>NPUB30845 - 100 KB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/tg8u1hiieub7yhz/NPUB30845-3LIC.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		  			
+        </Items>
+    </View>
+	
+</XMBML>

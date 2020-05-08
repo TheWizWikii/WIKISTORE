@@ -1,0 +1,473 @@
+<XMBML version="1.0">
+<!--- PKG ITEM--->
+	<View id="ps2game_jp_main">
+		<Attributes>
+			<Table key="ps2game_jp_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/ADK.png</String></Pair>
+				<Pair key="title"><String>ADK</String></Pair>
+				<Pair key="info"><String>NPJD00081 - 1.88 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Capcom Fighting Jam.png</String></Pair>
+				<Pair key="title"><String>Capcom Fighting Jam</String></Pair>
+				<Pair key="info"><String>NPJD00029 - 2.23 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Capcom vs SNK 2 Mark of the Millennium 2001.png</String></Pair>
+				<Pair key="title"><String>Capcom vs. SNK 2: Mark of the Millennium 2001</String></Pair>
+				<Pair key="info"><String>NPJD00015 - 239.29 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Castlevania Lament of Innocence.png</String></Pair>
+				<Pair key="title"><String>Castlevania: Lament of Innocence</String></Pair>
+				<Pair key="info"><String>NPJD00010 - 2.86 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Contra Shattered Soldier.png</String></Pair>
+				<Pair key="title"><String>Contra: Shattered Soldier</String></Pair>
+				<Pair key="info"><String>NPJD00004 - 740.03 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_6">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Cyber Troopers Virtual On Marz.png</String></Pair>
+				<Pair key="title"><String>Cyber Troopers Virtual-On: Marz</String></Pair>
+				<Pair key="info"><String>NPJD00027 - 1.93 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_7">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dark Cloud.png</String></Pair>
+				<Pair key="title"><String>Dark Cloud</String></Pair>
+				<Pair key="info"><String>NPJC00002 - 1.29 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_8">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/DOA2 HARDCORE.png</String></Pair>
+				<Pair key="title"><String>DOA2 HARD?CORE</String></Pair>
+				<Pair key="info"><String>NPJD00011 - 4.41 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_9">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dragon Force.png</String></Pair>
+				<Pair key="title"><String>Dragon Force</String></Pair>
+				<Pair key="info"><String>NPJD00005 - 4.40 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_10">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dynamite Deka 2.png</String></Pair>
+				<Pair key="title"><String>Dynamite Deka 2</String></Pair>
+				<Pair key="info"><String>NPJD00009 - 477.10 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_11">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/GRANDIA XTREME.png</String></Pair>
+				<Pair key="title"><String>GRANDIA XTREME</String></Pair>
+				<Pair key="info"><String>NPJD00069 - 1.96 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_12">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Katamari Damacy.png</String></Pair>
+				<Pair key="title"><String>Katamari Damacy</String></Pair>
+				<Pair key="info"><String>NPJD00020 - 3.46 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_13">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Mana Khemia 2 Ochita Gakuen to Renkinjutsushi tachi.png</String></Pair>
+				<Pair key="title"><String>Mana Khemia 2: Ochita Gakuen to Renkinjutsushi-tachi</String></Pair>
+				<Pair key="info"><String>NPJD00040 - 2.61 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_14">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Neo Contra.png</String></Pair>
+				<Pair key="title"><String>Neo Contra</String></Pair>
+				<Pair key="info"><String>NPJD00014 - 1.36 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_15">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Phantasy Star Complete Collection.png</String></Pair>
+				<Pair key="title"><String>Phantasy Star Complete Collection</String></Pair>
+				<Pair key="info"><String>NPJD00028 - 669.48 MB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_16">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/SHADOW THE HEDGEHOG.png</String></Pair>
+				<Pair key="title"><String>SHADOW THE HEDGEHOG</String></Pair>
+				<Pair key="info"><String>NPJD00041 - 4.23 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_17">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/SILENT HILL 4 THE ROOM.png</String></Pair>
+				<Pair key="title"><String>SILENT HILL 4 THE ROOM</String></Pair>
+				<Pair key="info"><String>NPJD00022 - 3.69 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_18">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/SIREN.png</String></Pair>
+				<Pair key="title"><String>SIREN</String></Pair>
+				<Pair key="info"><String>NPJC00001 - 4.36 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_19">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/THE KING OF FIGHTERS XI.png</String></Pair>
+				<Pair key="title"><String>THE KING OF FIGHTERS XI</String></Pair>
+				<Pair key="info"><String>NPJD00071 - 2.45 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_20">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Utawarerumono Chiriyukusha e no Komoriuta.png</String></Pair>
+				<Pair key="title"><String>Utawarerumono: Chiriyukusha e no Komoriuta</String></Pair>
+				<Pair key="info"><String>NPJD00090 - 4.41 GB</String></Pair>
+			</Table>
+			<Table key="ps2game_jp_item_21">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Zettaizetsumei Toshi.png</String></Pair>
+				<Pair key="title"><String>Zettaizetsumei Toshi</String></Pair>
+				<Pair key="info"><String>NPJD00080 - 2.71 GB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_1" attr="ps2game_jp_item_1" src="#ps2game_jp_link_1_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_2" attr="ps2game_jp_item_2" src="#ps2game_jp_link_2_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_3" attr="ps2game_jp_item_3" src="#ps2game_jp_link_3_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_4" attr="ps2game_jp_item_4" src="#ps2game_jp_link_4_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_5" attr="ps2game_jp_item_5" src="#ps2game_jp_link_5_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_6" attr="ps2game_jp_item_6" src="#ps2game_jp_link_6_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_7" attr="ps2game_jp_item_7" src="#ps2game_jp_link_7_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_8" attr="ps2game_jp_item_8" src="#ps2game_jp_link_8_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_9" attr="ps2game_jp_item_9" src="#ps2game_jp_link_9_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_10" attr="ps2game_jp_item_10" src="#ps2game_jp_link_10_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_11" attr="ps2game_jp_item_11" src="#ps2game_jp_link_11_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_12" attr="ps2game_jp_item_12" src="#ps2game_jp_link_12_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_13" attr="ps2game_jp_item_13" src="#ps2game_jp_link_13_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_14" attr="ps2game_jp_item_14" src="#ps2game_jp_link_14_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_15" attr="ps2game_jp_item_15" src="#ps2game_jp_link_15_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_16" attr="ps2game_jp_item_16" src="#ps2game_jp_link_16_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_17" attr="ps2game_jp_item_17" src="#ps2game_jp_link_17_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_18" attr="ps2game_jp_item_18" src="#ps2game_jp_link_18_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_19" attr="ps2game_jp_item_19" src="#ps2game_jp_link_19_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_20" attr="ps2game_jp_item_20" src="#ps2game_jp_link_20_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="ps2game_jp_item_21" attr="ps2game_jp_item_21" src="#ps2game_jp_link_21_main"/>
+		</Items>
+	</View>
+
+<!--- PKG LINK--->
+    <View id="ps2game_jp_link_1_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0576/NPJD00081_00/CwTXNrhjqCOOlZrzWbayqqxvICXnjrLwNfHHQuSVvEGSebDyjWEFXfVyTGFuzmmURwEnDGlCYRGulrOxyEpZFIRQVCvWxCRuWAIOQ.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0576/NPJD00081_00/CwTXNrhjqCOOlZrzWbayqqxvICXnjrLwNfHHQuSVvEGSebDyjWEFXfVyTGFuzmmURwEnDGlCYRGulrOxyEpZFIRQVCvWxCRuWAIOQ.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0576-NPJD00081_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/ADK.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_1" attr="ps2game_jp_link_1"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_2_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_2"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0102/NPJD00029_00/LXQbcZElrtxcUkCYnePaFUmIwYAfTAGJiyhkQjFktFjwkcZGtZjePrfdZYRXMZIPgfcmLTFOxMdPBPGGZIPDHNxjFjVyCoPwUhFQS.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0102/NPJD00029_00/LXQbcZElrtxcUkCYnePaFUmIwYAfTAGJiyhkQjFktFjwkcZGtZjePrfdZYRXMZIPgfcmLTFOxMdPBPGGZIPDHNxjFjVyCoPwUhFQS.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0102-NPJD00029_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Capcom Fighting Jam.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_2" attr="ps2game_jp_link_2"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_3_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_3"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0102/NPJD00015_00/zzoQFBskhgLMPctiGXIWZQKUjIqLydolkbFNDwzxynIPcKfHLXEhcNMszecoDpNRjgOVRzTXRddJiUJSHdQFRHTgVLnePVIfYvrsG.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0102/NPJD00015_00/zzoQFBskhgLMPctiGXIWZQKUjIqLydolkbFNDwzxynIPcKfHLXEhcNMszecoDpNRjgOVRzTXRddJiUJSHdQFRHTgVLnePVIfYvrsG.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0102-NPJD00015_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Capcom vs SNK 2 Mark of the Millennium 2001.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_3" attr="ps2game_jp_link_3"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_4_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_4"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00010_00/wyFqYuqvptHZPDgKMHAROVdwoFYbmyYSbHGPblNAIXqxRzvIFzsWQqgndoMRGJrMfHfhwIouYuVpRHYzSEOviUkcbQfiXLbWlbjUn.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00010_00/wyFqYuqvptHZPDgKMHAROVdwoFYbmyYSbHGPblNAIXqxRzvIFzsWQqgndoMRGJrMfHfhwIouYuVpRHYzSEOviUkcbQfiXLbWlbjUn.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0101-NPJD00010_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Castlevania Lament of Innocence.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_4" attr="ps2game_jp_link_4"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_5_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_5"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00004_00/AhhSscmSiWUunzLGDDjFxJaDTLzYSELfxhFcprODNzXrDgxJHjpYBMwzdYoJaGnEeSUhzvzOoMOfHSndslVEujiavojbulmPWIXyv.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00004_00/AhhSscmSiWUunzLGDDjFxJaDTLzYSELfxhFcprODNzXrDgxJHjpYBMwzdYoJaGnEeSUhzvzOoMOfHSndslVEujiavojbulmPWIXyv.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0101-NPJD00004_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Contra Shattered Soldier.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_5" attr="ps2game_jp_link_5"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_6_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_6"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00027_00/migXfejWgocpsLvNqTQcBozBUbpNKtkOmzqchnDKsHeDawEgqzJgWYtsSWCbKuukLRaXcNaISBmyLrgmdkRyyMklvIQupTTcYPItT.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00027_00/migXfejWgocpsLvNqTQcBozBUbpNKtkOmzqchnDKsHeDawEgqzJgWYtsSWCbKuukLRaXcNaISBmyLrgmdkRyyMklvIQupTTcYPItT.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0177-NPJD00027_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Cyber Troopers Virtual On Marz.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_6" attr="ps2game_jp_link_6"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_7_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_7"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJC00002_00/vybUIlZkFnjGAucbYmELljagkohuOQMnCrSTRSUHezACOKndWifEyzxLjUyxYNDqiJyRipMziozZxzPnUDxmBqUfWJDiTVlZZlTvp.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJC00002_00/vybUIlZkFnjGAucbYmELljagkohuOQMnCrSTRSUHezACOKndWifEyzxLjUyxYNDqiJyRipMziozZxzPnUDxmBqUfWJDiTVlZZlTvp.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP9000-NPJC00002_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dark Cloud.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_7" attr="ps2game_jp_link_7"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_8_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_8"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0106/NPJD00011_00/sXGrwSEdOyDTMJqnCwZvhSNYdLInWxxWuymoPVpDLYcLsBofnXbLKOpuRXipeymaXNCQcccCgaQqQCuEyHzOxcVlZFSgxiyKXiUfa.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0106/NPJD00011_00/sXGrwSEdOyDTMJqnCwZvhSNYdLInWxxWuymoPVpDLYcLsBofnXbLKOpuRXipeymaXNCQcccCgaQqQCuEyHzOxcVlZFSgxiyKXiUfa.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0106-NPJD00011_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/DOA2 HARDCORE.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_8" attr="ps2game_jp_link_8"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_9_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_9"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00005_00/plGGHmnLILpyWLgfrPdodVlfJUpvQTRFzNapygCQlvdGCnppoHIzSYUrOambMHsIkimbuPTVhFScLtcpjviTcfcOMjsNqBecUQqrk.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00005_00/plGGHmnLILpyWLgfrPdodVlfJUpvQTRFzNapygCQlvdGCnppoHIzSYUrOambMHsIkimbuPTVhFScLtcpjviTcfcOMjsNqBecUQqrk.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0177-NPJD00005_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dragon Force.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_9" attr="ps2game_jp_link_9"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_10_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_10"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00009_00/bSevcrKHKYFsFIFPWyVvwVEWaqAfJeYhmDxVJSLmEAkZtAHYXSsUChZOGMvCWgWAlYYAVfAFSmfcLaHLCraYxMUmPOzaaPAoUWWXC.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00009_00/bSevcrKHKYFsFIFPWyVvwVEWaqAfJeYhmDxVJSLmEAkZtAHYXSsUChZOGMvCWgWAlYYAVfAFSmfcLaHLCraYxMUmPOzaaPAoUWWXC.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0177-NPJD00009_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Dynamite Deka 2.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_10" attr="ps2game_jp_link_10"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_11_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_11"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0184/NPJD00069_00/FDwhmZQKKoKgLVQBrtsamMdOmZQFNWKPLEsGVFUBHujHmZwJNpJLVFyOKtbFFMyGSBWCzzmEniFjbCOqBseQRDXqfCMbvVIMhzIBE.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0184/NPJD00069_00/FDwhmZQKKoKgLVQBrtsamMdOmZQFNWKPLEsGVFUBHujHmZwJNpJLVFyOKtbFFMyGSBWCzzmEniFjbCOqBseQRDXqfCMbvVIMhzIBE.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0184-NPJD00069_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/GRANDIA XTREME.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_11" attr="ps2game_jp_link_11"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_12_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_12"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0700/NPJD00020_00/ytYKuAJmahDzAIovLYexkBYfMBifGGznDYAbifbjxlPwHbPajwlHqVgVwAOWCMpHqZvWJdpDLPOXwZrvmIKhFJFrRjrIQIakscGtx.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0700/NPJD00020_00/ytYKuAJmahDzAIovLYexkBYfMBifGGznDYAbifbjxlPwHbPajwlHqVgVwAOWCMpHqZvWJdpDLPOXwZrvmIKhFJFrRjrIQIakscGtx.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0700-NPJD00020_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Katamari Damacy.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_12" attr="ps2game_jp_link_12"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_13_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_13"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0103/NPJD00040_00/BGoRVdVGhgpIRNoOQdKXVmrVhWVDvnhUCWgWgVHhUazLKfvxNCfJiuwvGsBcBnudGGTtJyyIyWMhQPogBMxUUyIUwzXNupxgLATQq.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0103/NPJD00040_00/BGoRVdVGhgpIRNoOQdKXVmrVhWVDvnhUCWgWgVHhUazLKfvxNCfJiuwvGsBcBnudGGTtJyyIyWMhQPogBMxUUyIUwzXNupxgLATQq.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0103-NPJD00040_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Mana Khemia 2 Ochita Gakuen to Renkinjutsushi tachi.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_13" attr="ps2game_jp_link_13"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_14_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_14"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00014_00/UUsChcDvpUDUcVsAGGYWeSBYDhfBcgtrGJuJdvsSwlRgXYlCVihorJVPWeWShnrDcofJKFKjabtVklORgklCJtEdMUxCiOEnUJVWB.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00014_00/UUsChcDvpUDUcVsAGGYWeSBYDhfBcgtrGJuJdvsSwlRgXYlCVihorJVPWeWShnrDcofJKFKjabtVklORgklCJtEdMUxCiOEnUJVWB.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0101-NPJD00014_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Neo Contra.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_14" attr="ps2game_jp_link_14"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_15_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_15"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00028_00/bpfdiTDaolVFEsaZZDRRAkfgkYXQzeODiRbhlAMcbCirCeYLXonHfSvIOLXasnlOmUsSRjndvQCMzgOECFYSmzSMfQcJoSdlLFZsk.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00028_00/bpfdiTDaolVFEsaZZDRRAkfgkYXQzeODiRbhlAMcbCirCeYLXonHfSvIOLXasnlOmUsSRjndvQCMzgOECFYSmzSMfQcJoSdlLFZsk.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0177-NPJD00028_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Phantasy Star Complete Collection.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_15" attr="ps2game_jp_link_15"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_16_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_16"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00041_00/VRuUMftHdWneXORfNVIdipdTQZOAWzldSPhSCtKAwNvpsXdGmYCHagTjjYkMOTanQdMOEanZMRvYiFprqAZcGBVPVcAyItacGjNLY.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0177/NPJD00041_00/VRuUMftHdWneXORfNVIdipdTQZOAWzldSPhSCtKAwNvpsXdGmYCHagTjjYkMOTanQdMOEanZMRvYiFprqAZcGBVPVcAyItacGjNLY.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0177-NPJD00041_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/SHADOW THE HEDGEHOG.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_16" attr="ps2game_jp_link_16"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_17_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_17"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00022_00/RMJQiAzrcEUkPyzawnQANmDXJCxaADEhauNvkYjJaabFdxKKGouZZLgPxaZNBZAgnrmseOMtDCQTPWllIApAZKdJfyVekVNgZoDvO.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0101/NPJD00022_00/RMJQiAzrcEUkPyzawnQANmDXJCxaADEhauNvkYjJaabFdxKKGouZZLgPxaZNBZAgnrmseOMtDCQTPWllIApAZKdJfyVekVNgZoDvO.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0101-NPJD00022_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/SILENT HILL 4 THE ROOM.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_17" attr="ps2game_jp_link_17"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_18_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_18"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJC00001_00/tDbYybuxpmJRxRHHfOHfDGDjezyCKZUnmAxSKkdvvcuRpKoxAiEElholsnMKTDKXbjlVVuGGnNLWxikQtrfxcbJJzVMAVttNGGZWm.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP9000/NPJC00001_00/tDbYybuxpmJRxRHHfOHfDGDjezyCKZUnmAxSKkdvvcuRpKoxAiEElholsnMKTDKXbjlVVuGGnNLWxikQtrfxcbJJzVMAVttNGGZWm.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP9000-NPJC00001_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/SIREN.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_18" attr="ps2game_jp_link_18"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_19_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_19"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0576/NPJD00071_00/uWhXAdjVTgIrfZMOthWZhQEnpvLwHWyCWxmpBuJSbucPFlVGlkotIKnVYQPbYECwiLTbQUMSOpxVzZBZQIxRYEbJFKkBLMbSCzfOp.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0576/NPJD00071_00/uWhXAdjVTgIrfZMOthWZhQEnpvLwHWyCWxmpBuJSbucPFlVGlkotIKnVYQPbYECwiLTbQUMSOpxVzZBZQIxRYEbJFKkBLMbSCzfOp.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0576-NPJD00071_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/THE KING OF FIGHTERS XI.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_19" attr="ps2game_jp_link_19"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_20_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_20"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0761/NPJD00090_00/ZuXWVEjfONusikLRvhkOCtxAbGZDLaplxwqYiYewePQsZFdqJbKrWeSGGDfYWCMonyKPacDGqVGpFfBXhFPXduLShImIBBkqsEZAm.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0761/NPJD00090_00/ZuXWVEjfONusikLRvhkOCtxAbGZDLaplxwqYiYewePQsZFdqJbKrWeSGGDfYWCMonyKPacDGqVGpFfBXhFPXduLShImIBBkqsEZAm.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0761-NPJD00090_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Utawarerumono Chiriyukusha e no Komoriuta.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_20" attr="ps2game_jp_link_20"/> 
+		</Items> 
+	</View>
+
+    <View id="ps2game_jp_link_21_main"> 
+		<Attributes> 
+			<Table key="ps2game_jp_link_21"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/JP0025/NPJD00080_00/NZZmSyBiBaUUSBecqOJMTydLTwzNnUboxLPQRQiMNKRAxnZKgMwNhyhOEVhnATfMTOpXaJVOIfztmKRnNmpqsoVFpdPdrNFSzvRXB.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/JP0025/NPJD00080_00/NZZmSyBiBaUUSBecqOJMTydLTwzNnUboxLPQRQiMNKRAxnZKgMwNhyhOEVhnATfMTOpXaJVOIfztmKRnNmpqsoVFpdPdrNFSzvRXB.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>JP0025-NPJD00080_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Zettaizetsumei Toshi.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="ps2game_jp_link_21" attr="ps2game_jp_link_21"/> 
+		</Items> 
+	</View>
+
+</XMBML>

@@ -1,0 +1,54 @@
+<XMBML version="1.0">
+	<!-- Descarga de demos -->
+		<View id="demo_downloader_items">
+		<Attributes>
+			<Table key="demo_downloader_C00_EU">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_eu.png</String></Pair>
+				<Pair key="title"><String>Region EU</String></Pair>
+				<Pair key="info"><String>246 Juegos</String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_HK">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_hk.png</String></Pair>
+				<Pair key="title"><String>Region HK</String></Pair>
+				<Pair key="info"><String>50 Juegos</String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_JP">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_jp.png</String></Pair>
+				<Pair key="title"><String>Region JP</String></Pair>
+				<Pair key="info"><String>68 Juegos</String></Pair>
+			</Table>
+			<Table key="demo_downloader_C00_US">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/folder_us.png</String></Pair>
+				<Pair key="title"><String>Region US</String></Pair>
+				<Pair key="info"><String>269 Juegos</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_EU" 
+				attr="demo_downloader_C00_EU"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/demos/C00_EU.xml#C00_EU_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_HK" 
+				attr="demo_downloader_C00_HK"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/demos/C00_HK.xml#C00_HK_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_JP" 
+				attr="demo_downloader_C00_JP"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/demos/C00_JP.xml#C00_JP_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="demo_downloader_C00_US" 
+				attr="demo_downloader_C00_US"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/demos/C00_US.xml#C00_US_items"
+				/>
+		</Items>
+		</View>
+		
+</XMBML>

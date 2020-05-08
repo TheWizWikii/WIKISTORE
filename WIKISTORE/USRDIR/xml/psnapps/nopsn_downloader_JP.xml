@@ -1,0 +1,23 @@
+<XMBML version="1.0">
+
+<!-- NoPSN JP -->
+	
+	<View id="nopsn_downloader_JP_items">
+		<Attributes>
+			<Table key="item_NPJB00766_v108">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/netflix.png</String></Pair>
+				<Pair key="title"><String>Netflix</String></Pair>
+				<Pair key="info"><String>v1.08 (Retail) - 31.08MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPJB00766_v108" 
+				attr="item_NPJB00766_v108"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPJB00766_v108_main"
+				/>
+		</Items>
+	</View>
+	
+</XMBML>

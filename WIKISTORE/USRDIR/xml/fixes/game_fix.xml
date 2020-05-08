@@ -1,0 +1,95 @@
+<XMBML version="1.0">
+    <View id="game_fix_items">
+        <Attributes>
+		     <Table key="item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/attacktitans.png</String></Pair>
+                <Pair key="title"><String>Attack on Titan - Wings of Freedom</String></Pair>
+                <Pair key="info"><String>NPEB02365 - 8,8 MB (EU)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Far Cry 4.png</String></Pair>
+                <Pair key="title"><String>FarCry 4 Keys To Kyrat Unlock Key</String></Pair>
+                <Pair key="info"><String>NPEB01982 - 5,93 KB (EU)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="item_2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/God of War 3.png</String></Pair>
+                <Pair key="title"><String>God of War 3 DLC PACK Fix</String></Pair>
+                <Pair key="info"><String>BCES00510 - 100 KB (EU)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			
+        </Attributes>
+        <Items>
+		    <Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_0"
+                attr="item_0"
+                src="#item_0_link"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_1"
+                attr="item_1"
+                src="#item_1_link"
+            />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_2"
+                attr="item_2"
+                src="#item_2_link"
+            />
+		  			
+        </Items>
+    </View>
+	
+	<View id="item_0_link">
+        <Attributes>
+            <Table key="item_0_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/4ndqdr506zj0wak/NPEB02365_AOT_WINGS_OF_FREEDOM_FIX_341-355.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/4ndqdr506zj0wak/NPEB02365_AOT_WINGS_OF_FREEDOM_FIX_341-355.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP4108-NPEB02365_00-AOTWINGSFREEDFIX</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_0_link" attr="item_0_link"/>
+        </Items>
+    </View>
+	
+	<View id="item_1_link">
+        <Attributes>
+            <Table key="item_1_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/syr6d61ih6ro9uz/NPEB01982_Far_Cry_4_Keys_To_Kyrat_Unlock_Key.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/syr6d61ih6ro9uz/NPEB01982_Far_Cry_4_Keys_To_Kyrat_Unlock_Key.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP0001-NPEB01982_00-FC4LICENSE000001</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_1_link" attr="item_1_link"/>
+        </Items>
+    </View>
+	
+	<View id="item_2_link">
+        <Attributes>
+            <Table key="item_2_link">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/anzkvp0qr6xfi6g/BCES00510_GOW3_DLCPACK_FIX.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/anzkvp0qr6xfi6g/BCES00510_GOW3_DLCPACK_FIX.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>EP9000-BCES00510_00-GOW30DEIMOS00FIX</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_2_link" attr="item_2_link"/>
+        </Items>
+    </View>
+	
+</XMBML>

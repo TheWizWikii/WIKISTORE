@@ -1,0 +1,56 @@
+<XMBML version="1.0">
+
+<!-- Apps sin PSN Region EU -->
+	
+	<View id="nopsn_downloader_EU_items">
+		<Attributes>
+			<Table key="item_NPEB02307_v129">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/crunchyroll.png</String></Pair>
+				<Pair key="title"><String>Crunchyroll</String></Pair>
+				<Pair key="info"><String>v1.29 - 19.73 MB</String></Pair>
+			</Table>
+			<Table key="item_NPEB00874_v120">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/netflix.png</String></Pair>
+				<Pair key="title"><String>Netflix</String></Pair>
+				<Pair key="info"><String>v1.21 (Retail) - 31.08MB</String></Pair>
+			</Table>
+			<Table key="item_NPEB02359_v107">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/twitch.png</String></Pair>
+				<Pair key="title"><String>Twitch</String></Pair>
+				<Pair key="info"><String>v1.07 - 9.87 MB</String></Pair>
+			</Table>
+			<Table key="item_NPEB01229_v102v303_spoof">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/nopsnapps/youtube.png</String></Pair>
+				<Pair key="title"><String>YouTube</String></Pair>
+				<Pair key="info"><String>v1.02-v3.03-Spoof - 59.25 MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02307_v129" 
+				attr="item_NPEB02307_v129"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPEB02307_v129_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB00874_v120" 
+				attr="item_NPEB00874_v120"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPEB00874_v120_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB02359_v107" 
+				attr="item_NPEB02359_v107"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPEB02359_v107_main"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="item_NPEB01229_v102v303_spoof" 
+				attr="item_NPEB01229_v102v303_spoof"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psnapps/nopsn_ALL_download_links.xml#item_NPEB01229_v102v303_spoof_main"
+				/>
+		</Items>
+	</View>
+		
+</XMBML>

@@ -1,0 +1,373 @@
+<XMBML version="1.0">
+<!-- Juegos de PS2 exclusivos -->
+    <View id="juegos_extra_ps2_items">
+        <Attributes>
+		     <Table key="1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Mortal Kombat Shaolin Monks.png</String></Pair>
+	        	<Pair key="title"><String>Mortal Kombat Shaolin Monks</String></Pair>
+				<Pair key="info"><String>PS2MOR336 - 3,16 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/q62r7lx86p84o16/Mortal_Kombat_-_Shaolin_Monks.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="2">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/budokai 4.png</String></Pair>
+	        	<Pair key="title"><String>Dragon Ball Z Budokai Tenkaichi 4</String></Pair>
+				<Pair key="info"><String>- 4,03 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=https://www.dropbox.com/s/40z3vnse2gypxnx/DBZ_Budokai_Tenkaichi_4.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="3">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/heman.png</String></Pair>
+	        	<Pair key="title"><String>Masters of the Universe He-Man Defender of Greyskull</String></Pair>
+				<Pair key="info"><String>SLES53035 - 704 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/rnheadpluje4ak2/Masters_of_the_Universe_Defender_of_Greyskull_SLES53035_.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/ssx tricky.png</String></Pair>
+	        	<Pair key="title"><String>SSX Tricky</String></Pair>
+				<Pair key="info"><String>SLUS20326 - 2,73 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/2v8zc78maobxd4s/SSX_TRICKY_by_MoNsTeR.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="5">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/def jam.png</String></Pair>
+	        	<Pair key="title"><String>Def Jam Fight For NY</String></Pair>
+				<Pair key="info"><String>SLUS21004 - 4,4 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/6drlmvz1byu0020/Def_Jam_Fight_for_NY_SLUS21004.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="6">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/el padrino.png</String></Pair>
+	        	<Pair key="title"><String>El Padrino</String></Pair>
+				<Pair key="info"><String>SLES53971 - 3,66 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/u84cj0z6eol43k2/El_Padrino.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="7">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/crash bandicoot twinsanity.png</String></Pair>
+	        	<Pair key="title"><String>Crash Bandicoot Twinsanity</String></Pair>
+				<Pair key="info"><String>SLES52568 - 2,41 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/3uo53gvb2ah72dm/Crash-Bandicoot-Twinsanity.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="8">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/fifa street 2.png</String></Pair>
+	        	<Pair key="title"><String>FIFA Street 2</String></Pair>
+				<Pair key="info"><String>SLUS21369 - 4,41 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/cp8brb1d9mmlbeu/FIFA_Street_2.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="9">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/mafia.png</String></Pair>
+	        	<Pair key="title"><String>Mafia</String></Pair>
+				<Pair key="info"><String>SLES52282 - 3,80 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/sb4y43e0dn6i9vz/Mafia-PS2-Classics-SLES52282.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="10">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/harry potter y la camara secreta.png</String></Pair>
+	        	<Pair key="title"><String>Harry Potter y la Camara Secreta (PAL)</String></Pair>
+				<Pair key="info"><String>SLES51195 - 1,69 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/uvtxpie25gzqx3f/Harry_Potter_y_la_Camara_Secreta.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="11">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/getaway the black monday.png</String></Pair>
+	        	<Pair key="title"><String>Getaway The Black Monday (NTSC-U)</String></Pair>
+				<Pair key="info"><String>SCUS97408 - 3,94 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/toerbe8bxxl5dor/Getaway_The-Black_Monday_PS2_SCUS97408.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="12">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/real madrid.png</String></Pair>
+	        	<Pair key="title"><String>CF 2005 Real Madrid (PAL)</String></Pair>
+				<Pair key="info"><String>SLES52654 - 3,01 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/htx7adjgeyzvzmd/Club_Football_Real_Madri_2005_SLES52654.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="13">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/los simpson el videojuego.png</String></Pair>
+	        	<Pair key="title"><String>Los Simpson el Videojuego (NTSC-U)</String></Pair>
+				<Pair key="info"><String>SLUS21665 - 3,54 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/ny2ityz9zpzz6ki/The_Simpsons_Game_SLUS21665.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="14">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/alone in the dark the new nightmare.png</String></Pair>
+	        	<Pair key="title"><String>Alone in The Dark The New Nightmare (PAL)</String></Pair>
+				<Pair key="info"><String>SLES50185 - 4,19 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/7khwe30zu1xbs1w/Alone-In-The_Dark-The-New-Nightmare.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="15">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/bayern.png</String></Pair>
+	        	<Pair key="title"><String>CF Bayern Munchen 2004 (PAL)</String></Pair>
+				<Pair key="info"><String>SLES51084 - 2,29 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/1ykil9ydziovbg0/BDFL_Manager_2004_SLES51084.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="16">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/csi.png</String></Pair>
+	        	<Pair key="title"><String>CSI 3 - Dimensions of Murder (NTSC-U)</String></Pair>
+				<Pair key="info"><String>SLUS21655 - 3,09 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/5iiok0qc6re4bos/CSI_3_Dimensions_of_Murder_SLUS21655.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="17">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/real madrid club de futbol.png</String></Pair>
+	        	<Pair key="title"><String>Club de Futbol Real Madrid (PAL)</String></Pair>
+				<Pair key="info"><String>SLES51077 - 2,9 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/axufxe54mhg30ot/Club_Football_Real_Madrid_SLES51077.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="18">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/matrix path of neo.png</String></Pair>
+	        	<Pair key="title"><String>The Matrix Path of NEO (PAL)</String></Pair>
+				<Pair key="info"><String>SLES53799 - 4,39 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/j05onrli6ofgu5r/Matrix_The_Path_of_Neo_SLES53799.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="19">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/the simpsons road rage.png</String></Pair>
+	        	<Pair key="title"><String>The Simpsons Road Rage (PAL)</String></Pair>
+				<Pair key="info"><String>SLES50628 - 2,34 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/oulgtd214rcmlb6/The_Simpsons_Road_Rage_SLES50628.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="20">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/torrente 3.png</String></Pair>
+	        	<Pair key="title"><String>Torrente 3 El Protector (PAL)</String></Pair>
+				<Pair key="info"><String>SLES53979 - 3,98 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/6uh704bruzv6rul/Torrente_3_El_Protector_SLES53979.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="21">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/larry.png</String></Pair>
+	        	<Pair key="title"><String>Leisure Suit Larry Magna Cum Laude (PAL)</String></Pair>
+				<Pair key="info"><String>SLES52644 - 2,37 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/hrxg8bi77wlhemc/Leisure_Suit_Larry_Magna_Cum_Laude_SLES52644.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="22">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/dragon quest.png</String></Pair>
+	        	<Pair key="title"><String>Dragon Quest VIII Journey of the Cursed King (PAL)</String></Pair>
+				<Pair key="info"><String>SLES53974 - 3,81 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/1huzaxyd1t11rpp/Dragon_Quest_VIII_Journey_of_the_Cursed_King_SLES53974.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="23">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS JEDI STARFIGHTER.png</String></Pair>
+	        	<Pair key="title"><String>STAR WARS JEDI STARFIGHTER (EU)</String></Pair>
+				<Pair key="info"><String>NPED00285 - 1,8 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00285_00/eIyzBmVoCxDuskxukreaXAKzAmPDDCPATMcuFQoWglLZvWWbjkyJwWTglsmInsYA.pkg</String></Pair>
+        	</Table>
+			<Table key="24">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/LEGO STAR WARS II the original trilogy.png</String></Pair>
+	        	<Pair key="title"><String>LEGO STAR WARS II: the original trilogy (EU)</String></Pair>
+				<Pair key="info"><String>NPED00281 - 4,3 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00281_00/QyiWVKVVVsIFelshqOuGZLsJYPjxllgAPbecsuLySOBQJddcFpNTJgBXHNveaEsR.pkg</String></Pair>
+        	</Table>
+			<Table key="25">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/STAR WARS BOUNTY HUNTER.png</String></Pair>
+	        	<Pair key="title"><String>STAR WARS BOUNTY HUNTER (EU)</String></Pair>
+				<Pair key="info"><String>NPED00289 - 2,2 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>http://zeus.dl.playstation.net/cdn/EP1010/NPED00289_00/KvLGKImtznARRMeMpuwStMIzEucgitSXEYtGYHvJFzkXSUOOpZRsmYUfvkFEMGNc.pkg</String></Pair>
+        	</Table>
+			<Table key="26">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Manhunt.png</String></Pair>
+	        	<Pair key="title"><String>Manhunt (PAL)</String></Pair>
+				<Pair key="info"><String>SLES52023 - 4,4 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/xsmr51omrnxo597/EP0000-SLES52023_00-PS2MANHUNT00000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="27">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/manhunt2.png</String></Pair>
+	        	<Pair key="title"><String>Manhunt 2 (PAL)</String></Pair>
+				<Pair key="info"><String>SLES54819 - 2,5 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/jt5ilvynb0jqqxd/EP0000-SLES54819_00-PS2MANHUNT200000.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="28">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/the king of fighters 2002 unlimited match.png</String></Pair>
+	        	<Pair key="title"><String>The King of Fighters 2002 Unlimited Match</String></Pair>
+				<Pair key="info"><String>PS2KOF407 - 3,93 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/jsvwf4cr28z2oia/The_King_Of_Fighters_2002_-_Unlimited_Match.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="29">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Harry Potter y La Camara Secreta.png</String></Pair>
+	        	<Pair key="title"><String>Harry Potter y La Camara Secreta (PAL)</String></Pair>
+				<Pair key="info"><String>SLES52055 - 3,94 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/88peazvu4xu6xh1/Harry_Potter_and_the_Philosophers_Stone_SLES52055.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="30">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Harry Potter y El Prisionero De Azkaban.png</String></Pair>
+	        	<Pair key="title"><String>Harry Potter y El Prisionero De Azkaban (PAL)</String></Pair>
+				<Pair key="info"><String>SLES52440 - 3,31 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/4905c4iiyq4c87j/Harry_Potter_and_the_Prisoner_of_Azkaban_SLES52440.pkg?dl=1</String></Pair>
+        	</Table>
+			
+        </Attributes>
+        <Items>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="1" 
+			attr="1"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="2" 
+			attr="2"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="3" 
+			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="5" 
+			attr="5"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="6" 
+			attr="6"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="7" 
+			attr="7"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="8" 
+			attr="8"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="9" 
+			attr="9"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="10" 
+			attr="10"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="11" 
+			attr="11"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="12" 
+			attr="12"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="13" 
+			attr="13"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="14" 
+			attr="14"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="15" 
+			attr="15"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="16" 
+			attr="16"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="17" 
+			attr="17"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="18" 
+			attr="18"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="19" 
+			attr="19"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="20" 
+			attr="20"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="21" 
+			attr="21"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="22" 
+			attr="22"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="23" 
+			attr="23"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="24" 
+			attr="24"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="25" 
+			attr="25"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="26" 
+			attr="26"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="27" 
+			attr="27"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="28" 
+			attr="28"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="29" 
+			attr="29"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="30" 
+			attr="30"/>
+		  					
+        </Items>
+
+    </View>
+	
+</XMBML>

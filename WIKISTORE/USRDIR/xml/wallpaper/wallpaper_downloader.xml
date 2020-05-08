@@ -1,0 +1,131 @@
+<XMBML version="1.0">
+<!-- Wallpaper Downloader -->
+	
+	<View id="wallpaper_downloader_items">
+		<Attributes>
+			<Table key="seg_wallpaper_downloader_abstract">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/abstract_folder.png</String></Pair>
+				<Pair key="title"><String>Abstract</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_animals">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/animals_folder.png</String></Pair>
+				<Pair key="title"><String>Animals</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_cars">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/cars_folder.png</String></Pair>
+				<Pair key="title"><String>Cars</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_cityscapes">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/cityscapes_folder.png</String></Pair>
+				<Pair key="title"><String>Cityscapes</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_games">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/games_folder.png</String></Pair>
+				<Pair key="title"><String>Games</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_landscapes">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/landscapes_folder.png</String></Pair>
+				<Pair key="title"><String>Landscapes</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_love">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/love_folder.png</String></Pair>
+				<Pair key="title"><String>Love</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_nature">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/nature_folder.png</String></Pair>
+				<Pair key="title"><String>Nature</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_plain">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/plain_folder.png</String></Pair>
+				<Pair key="title"><String>Plain</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_space">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/space_folder.png</String></Pair>
+				<Pair key="title"><String>Space</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+			<Table key="seg_wallpaper_downloader_unsorted">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/unsorted_folder.png</String></Pair>
+				<Pair key="title"><String>Unsorted</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_abstract"
+				attr="seg_wallpaper_downloader_abstract"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_abstract.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_animals"
+				attr="seg_wallpaper_downloader_animals"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_animals.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_cars"
+				attr="seg_wallpaper_downloader_cars"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_cars.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_cityscapes"
+				attr="seg_wallpaper_downloader_cityscapes"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_cityscapes.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_games"
+				attr="seg_wallpaper_downloader_games"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_games.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_landscapes"
+				attr="seg_wallpaper_downloader_landscapes"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_landscapes.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_love"
+				attr="seg_wallpaper_downloader_love"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_love.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_nature"
+				attr="seg_wallpaper_downloader_nature"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_nature.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_plain"
+				attr="seg_wallpaper_downloader_plain"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_plain.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_space"
+				attr="seg_wallpaper_downloader_space"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_space.xml#seg_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+				key="seg_wallpaper_downloader_unsorted"
+				attr="seg_wallpaper_downloader_unsorted"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wallpaper/wallpaper_downloader_unsorted.xml#seg_items"
+				/>
+		</Items>
+	</View>
+	</XMBML>

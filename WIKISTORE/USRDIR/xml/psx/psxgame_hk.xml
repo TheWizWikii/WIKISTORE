@@ -1,0 +1,121 @@
+<XMBML version="1.0">
+<!--- Juegos de PSX HK --->
+	<View id="psxgame_hk_main">
+		<Attributes>
+			<Table key="psxgame_hk_item_1">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/COTTON ORIGINAL.png</String></Pair>
+				<Pair key="title"><String>COTTON ORIGINAL</String></Pair>
+				<Pair key="info"><String>NPHJ00032 - 7 MB</String></Pair>
+			</Table>
+			<Table key="psxgame_hk_item_2">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/Final Fantasy V.png</String></Pair>
+				<Pair key="title"><String>Final Fantasy V</String></Pair>
+				<Pair key="info"><String>NPHJ00227 - 145.75 MB</String></Pair>
+			</Table>
+			<Table key="psxgame_hk_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/Marl Kingdom Doll Princess.png</String></Pair>
+				<Pair key="title"><String>Marl Kingdom: Doll Princess</String></Pair>
+				<Pair key="info"><String>NPHJ00005 - 131.62 MB</String></Pair>
+			</Table>
+			<Table key="psxgame_hk_item_4">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/SAMURAI SHODOWN 4 SPECIAL.png</String></Pair>
+				<Pair key="title"><String>SAMURAI SHODOWN 4 SPECIAL</String></Pair>
+				<Pair key="info"><String>NPHJ00029 - 102.90 MB</String></Pair>
+			</Table>
+			<Table key="psxgame_hk_item_5">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/THE KING OF FIGHTERS 95.png</String></Pair>
+				<Pair key="title"><String>THE KING OF FIGHTERS '95</String></Pair>
+				<Pair key="info"><String>NPHJ00014 - 83.88 MB</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query class="type:x-xmb/folder-pixmap" key="psxgame_hk_item_1" attr="psxgame_hk_item_1" src="#psxgame_hk_link_1_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="psxgame_hk_item_2" attr="psxgame_hk_item_2" src="#psxgame_hk_link_2_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="psxgame_hk_item_3" attr="psxgame_hk_item_3" src="#psxgame_hk_link_3_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="psxgame_hk_item_4" attr="psxgame_hk_item_4" src="#psxgame_hk_link_4_main"/>
+			<Query class="type:x-xmb/folder-pixmap" key="psxgame_hk_item_5" attr="psxgame_hk_item_5" src="#psxgame_hk_link_5_main"/>
+		</Items>
+	</View>
+
+<!--- PKG LINK--->
+    <View id="psxgame_hk_link_1_main"> 
+		<Attributes> 
+			<Table key="psxgame_hk_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/HP0281/NPHJ00032_00/mNL5aNhPaGuWK5myuDAcvBVyN1CH08MVEe4X6T7Te8R0ETgGIchXdVWMFbTaDSrhFWXBVJcnvuu6EXkMXk6CATpVaRS6EUnyOMXH8.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/HP0281/NPHJ00032_00/mNL5aNhPaGuWK5myuDAcvBVyN1CH08MVEe4X6T7Te8R0ETgGIchXdVWMFbTaDSrhFWXBVJcnvuu6EXkMXk6CATpVaRS6EUnyOMXH8.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP0281-NPHJ00032_00-0000000000000001&</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/COTTON ORIGINAL.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="psxgame_hk_link_1" attr="psxgame_hk_link_1"/> 
+		</Items> 
+	</View>
+
+    <View id="psxgame_hk_link_2_main"> 
+		<Attributes> 
+			<Table key="psxgame_hk_link_2"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/HP0082/NPHJ00227_00/TmIIZTnWfgIoLwWZKtIkkAOwAsabhCyLghNjYooUphERYbYuQKMkhQdyqOqwvmJoXkzUZAiZDCxDftChWCuHVKSccTfgCbCCYhVMM.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/HP0082/NPHJ00227_00/TmIIZTnWfgIoLwWZKtIkkAOwAsabhCyLghNjYooUphERYbYuQKMkhQdyqOqwvmJoXkzUZAiZDCxDftChWCuHVKSccTfgCbCCYhVMM.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP0082-NPHJ00227_00-0000000000000001&</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/Final Fantasy V.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="psxgame_hk_link_2" attr="psxgame_hk_link_2"/> 
+		</Items> 
+	</View>
+
+    <View id="psxgame_hk_link_3_main"> 
+		<Attributes> 
+			<Table key="psxgame_hk_link_3"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/HP0404/NPHJ00005_00/vPLVmXlD55xeiKNOaA3dJfMu1fEabjFQspiI1AprhO4WM8fYF0TNPIw9xFLby3a35leuBKDIrBXusFgsbiOJf5n1HQtoSpI1fjIfr.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/HP0404/NPHJ00005_00/vPLVmXlD55xeiKNOaA3dJfMu1fEabjFQspiI1AprhO4WM8fYF0TNPIw9xFLby3a35leuBKDIrBXusFgsbiOJf5n1HQtoSpI1fjIfr.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP0404-NPHJ00005_00-0000000000000001&</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/Marl Kingdom Doll Princess.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="psxgame_hk_link_3" attr="psxgame_hk_link_3"/> 
+		</Items> 
+	</View>
+
+    <View id="psxgame_hk_link_4_main"> 
+		<Attributes> 
+			<Table key="psxgame_hk_link_4"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/HP0576/NPHJ00029_00/B0u97JDB1poKTKoSpTMpVcVWsBegIKf532wQH3OPB3mswq6CKCSmgviTLKXR77E7gq9i1hVlESiErOmkpTj5javYLeDnk4aJnvvW2.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/HP0576/NPHJ00029_00/B0u97JDB1poKTKoSpTMpVcVWsBegIKf532wQH3OPB3mswq6CKCSmgviTLKXR77E7gq9i1hVlESiErOmkpTj5javYLeDnk4aJnvvW2.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP0576-NPHJ00029_00-0000000000000001&</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/SAMURAI SHODOWN 4 SPECIAL.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="psxgame_hk_link_4" attr="psxgame_hk_link_4"/> 
+		</Items> 
+	</View>
+
+    <View id="psxgame_hk_link_5_main"> 
+		<Attributes> 
+			<Table key="psxgame_hk_link_5"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/HP0576/NPHJ00014_00/YEP4kHFoPWlnn5enVGkn4tVDNw4g1T5XigOau7GqEetVVt7JovfRxVUQfqGdc4uHRJL6yLdp2sNKU5hnAcF0PSWe2nqrAbQ3fWpVg.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/HP0576/NPHJ00014_00/YEP4kHFoPWlnn5enVGkn4tVDNw4g1T5XigOau7GqEetVVt7JovfRxVUQfqGdc4uHRJL6yLdp2sNKU5hnAcF0PSWe2nqrAbQ3fWpVg.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>HP0576-NPHJ00014_00-0000000000000001&</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psx/THE KING OF FIGHTERS 95.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="psxgame_hk_link_5" attr="psxgame_hk_link_5"/> 
+		</Items> 
+	</View>
+
+</XMBML>

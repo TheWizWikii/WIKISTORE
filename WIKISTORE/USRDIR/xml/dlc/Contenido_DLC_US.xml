@@ -1,0 +1,308 @@
+<XMBML version="1.0">
+	<!-- dlc USA -->
+	<View id="Contenido_DLC_US_items">
+		<Attributes>
+			<Table key="Contenido_DLC_US_item_0"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/annihilation.png</String></Pair> 
+				<Pair key="title"><String>Annihilation</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 1655,43 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_1"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/escalation.png</String></Pair> 
+				<Pair key="title"><String>Escalation</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 2354,92 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_2"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/firststrike.png</String></Pair> 
+				<Pair key="title"><String>First Strike</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 1694,91 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_3"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/rezurrection.png</String></Pair> 
+				<Pair key="title"><String>Rezurrection</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 744,19 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_4"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/zombis.png</String></Pair> 
+				<Pair key="title"><String>Zombies Mapas Classicos</String></Pair> 
+				<Pair key="info"><String>BLUS30591 - 1078,03 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_5"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/007reloaded.png</String></Pair> 
+				<Pair key="title"><String>007 GoldenEye: Reloaded - Emilio Largo</String></Pair> 
+				<Pair key="info"><String>BLUS30755</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_6"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/007reloaded.png</String></Pair> 
+				<Pair key="title"><String>007 GoldenEye: Reloaded - Pussy Galore</String></Pair> 
+				<Pair key="info"><String>BLUS30755</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_7"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/The Elder Scrolls V Skyrim - Dawnguard.png</String></Pair> 
+				<Pair key="title"><String>The Elder Scrolls V Skyrim - Dawnguard</String></Pair> 
+				<Pair key="info"><String>BLUS30778 - 665 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_8"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/The Elder Scrolls V Skyrim - Heartfire.png</String></Pair> 
+				<Pair key="title"><String>The Elder Scrolls V Skyrim - Heartfire</String></Pair> 
+				<Pair key="info"><String>BLUS30778 - 87,7 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_9"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/The Elder Scrolls V Skyrim - Dragonborn.png</String></Pair> 
+				<Pair key="title"><String>The Elder Scrolls V Skyrim - Dragonborn</String></Pair> 
+				<Pair key="info"><String>BLUS30778 - 904 MB</String></Pair> 
+			</Table>
+			<Table key="Contenido_DLC_US_item_10"> 
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/dlc/The Last of Us DLC Left Behind.png</String></Pair> 
+				<Pair key="title"><String>The Last of Us DLC Left Behind</String></Pair> 
+				<Pair key="info"><String>BCUS98174 - 5,2 GB</String></Pair> 
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_0" 
+				attr="Contenido_DLC_US_item_0" 
+				src="#Contenido_DLC_US_item_0_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_1" 
+				attr="Contenido_DLC_US_item_1" 
+				src="#Contenido_DLC_US_item_1_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_2" 
+				attr="Contenido_DLC_US_item_2" 
+				src="#Contenido_DLC_US_item_2_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_3" 
+				attr="Contenido_DLC_US_item_3" 
+				src="#Contenido_DLC_US_item_3_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_4" 
+				attr="Contenido_DLC_US_item_4" 
+				src="#Contenido_DLC_US_item_4_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_5" 
+				attr="Contenido_DLC_US_item_5" 
+				src="#Contenido_DLC_US_item_5_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_6" 
+				attr="Contenido_DLC_US_item_6" 
+				src="#Contenido_DLC_US_item_6_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_7" 
+				attr="Contenido_DLC_US_item_7" 
+				src="#Contenido_DLC_US_item_7_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_8" 
+				attr="Contenido_DLC_US_item_8" 
+				src="#Contenido_DLC_US_item_8_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_9" 
+				attr="Contenido_DLC_US_item_9" 
+				src="#Contenido_DLC_US_item_9_link" 
+			/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="Contenido_DLC_US_item_10" 
+				attr="Contenido_DLC_US_item_10" 
+				src="#Contenido_DLC_US_item_10_link" 
+			/>
+		</Items>
+	</View>
+
+	<View id="Contenido_DLC_US_item_0_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_0"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/cTsAlOMmWAnMRzOwGlYLfrpKtVKaSADUCRzCiwwxpUYTkYBvJrhsQWGDgJFizuRIFBtdArRIDsMToZibSHaudTlQwvBlXCDnyWRFI.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/cTsAlOMmWAnMRzOwGlYLfrpKtVKaSADUCRzCiwwxpUYTkYBvJrhsQWGDgJFizuRIFBtdArRIDsMToZibSHaudTlQwvBlXCDnyWRFI.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0002-BLUS30591_00-CODBLACKOPSDLC04</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_0" attr="Contenido_DLC_US_link_0"/> 
+		</Items> 
+	</View>
+
+	<View id="Contenido_DLC_US_item_1_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_1"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/CCfYEUcXDaMRmBiIWgEfRGNaPrpgesbZIdForTTUKNUgyoGkTsbzvPTxWerEAVCpJXnvHUIZjZfElIEknipHmzdVbGGOwbxIZnNcU.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/CCfYEUcXDaMRmBiIWgEfRGNaPrpgesbZIdForTTUKNUgyoGkTsbzvPTxWerEAVCpJXnvHUIZjZfElIEknipHmzdVbGGOwbxIZnNcU.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC03</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_1" attr="Contenido_DLC_US_link_1"/> 
+		</Items> 
+	</View>
+
+	<View id="Contenido_DLC_US_item_2_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_2"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/vJRVGKbIHJoutbtOKPCddxpdUPzSSFmNoXfSHstUuFjbhvhdYtQdPEdUBJvliujTaohfzmOlWBUQrAhlJtCAfYzHHXRZEcwgGdtNR.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/vJRVGKbIHJoutbtOKPCddxpdUPzSSFmNoXfSHstUuFjbhvhdYtQdPEdUBJvliujTaohfzmOlWBUQrAhlJtCAfYzHHXRZEcwgGdtNR.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC02</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_2" attr="Contenido_DLC_US_link_2"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_3_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_3"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/BqhPapldVgemWrKhIUCYbqVhkWOaHKYsMJTlBHKwaWNGrLluBWRpozIvMzWdhYHYloAfjexWpYprNUedfKfGlsNjWjbizCePxYCZy.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/BqhPapldVgemWrKhIUCYbqVhkWOaHKYsMJTlBHKwaWNGrLluBWRpozIvMzWdhYHYloAfjexWpYprNUedfKfGlsNjWjbizCePxYCZy.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLC05</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_3" attr="Contenido_DLC_US_link_3"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_4_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_4"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/DAFVgH57mq4BINEhRPuyK0u8WRRcsojSq8SjcF3OYrSSe16rKt26KDhtkNdsHlyd0XlhqNSGVKofm6wGMvJSXt9OTGkMhcaQDTWMr.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30591_00/DAFVgH57mq4BINEhRPuyK0u8WRRcsojSq8SjcF3OYrSSe16rKt26KDhtkNdsHlyd0XlhqNSGVKofm6wGMvJSXt9OTGkMhcaQDTWMr.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EP0002-BLUS30591_00-CODBLACKOPSDLCZ1</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_4" attr="Contenido_DLC_US_link_4"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_5_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_5"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/nDLrlSwjNszHkxDeCGeNmjGaVCKbHvRpzuhvxluHSOPWGUKBBlbFlYnKtxjncHuwpkzJYrIfuEkVDBDTisebFuFRkVdpZNuxNLHJc.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/nDLrlSwjNszHkxDeCGeNmjGaVCKbHvRpzuhvxluHSOPWGUKBBlbFlYnKtxjncHuwpkzJYrIfuEkVDBDTisebFuFRkVdpZNuxNLHJc.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0002-BLUS30755_00-BOND2011LARGDLC2</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_5" attr="Contenido_DLC_US_link_5"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_6_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_6"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/koSGIlSqGlcIQsmQngxFxAMUtQpYQVJHoTRujtKrgWEJPsyAVxSBjEdUOcGEFAFZNWCdPrggXRljiuXgDbWRFSDOjJVgJtnxoMvOX.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP0002/BLUS30755_00/koSGIlSqGlcIQsmQngxFxAMUtQpYQVJHoTRujtKrgWEJPsyAVxSBjEdUOcGEFAFZNWCdPrggXRljiuXgDbWRFSDOjJVgJtnxoMvOX.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP0002-BLUS30755_00-BOND2011GALODLC3</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_6" attr="Contenido_DLC_US_link_6"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_7_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_7"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1003/BLUS30778_00/lgJnOjbdVpuBFrHKZEQrbtELGYHxPVLYPpSkMEVjubamEmsLJxAYUrruKWGtYLtl.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1003/BLUS30778_00/lgJnOjbdVpuBFrHKZEQrbtELGYHxPVLYPpSkMEVjubamEmsLJxAYUrruKWGtYLtl.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP1003-BLUS30778_00-DLC1DAWNGUARD0EN</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_7" attr="Contenido_DLC_US_link_7"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_8_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_8"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1003/BLUS30778_00/VUQWzVoTBaJYahlqnUkwcBzVzaghNmvrMGFKJRbCjqftvFsDIhYMnwlCIVXJaVjc.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1003/BLUS30778_00/VUQWzVoTBaJYahlqnUkwcBzVzaghNmvrMGFKJRbCjqftvFsDIhYMnwlCIVXJaVjc.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP1003-BLUS30778_00-DLCHEARTHFIRE0EN</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_8" attr="Contenido_DLC_US_link_8"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_9_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_9"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP1003/BLUS30778_00/bShuIaxVWkGUfBiOxikxdBCBHMNZFzlSvfURWmPZCAJJFgxgGHqdzyicquVYRsln.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP1003/BLUS30778_00/bShuIaxVWkGUfBiOxikxdBCBHMNZFzlSvfURWmPZCAJJFgxgGHqdzyicquVYRsln.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP1003-BLUS30778_00-DLC2DRAGONBORNEN</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_9" attr="Contenido_DLC_US_link_9"/> 
+		</Items> 
+	</View>
+	
+	<View id="Contenido_DLC_US_item_10_link"> <!-- ok -->
+		<Attributes> 
+			<Table key="Contenido_DLC_US_link_10"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98174_00/sraOKUguzOYPgiGwybkBrQUVqfrxwqynJazqXUgLVQephLLRPOFuNDizKxAlGKCU.pkg</String></Pair> 
+				<Pair key="pkg_src_qa"><String>http://zeus.dl.playstation.net/cdn/UP9000/BCUS98174_00/sraOKUguzOYPgiGwybkBrQUVqfrxwqynJazqXUgLVQephLLRPOFuNDizKxAlGKCU.pkg</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>UP9000-BCUS98174_00-THELASTOFUSDLC02</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="Contenido_DLC_US_link_10" attr="Contenido_DLC_US_link_10"/> 
+		</Items> 
+	</View>
+
+</XMBML>
+
