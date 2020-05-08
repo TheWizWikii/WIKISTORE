@@ -31,5 +31,5 @@ siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 
 ### Compilar:
 
-*Este source requiere ser compilado con true ancestor para crear el PKG instalable*. Pero si lo deseas puedes descargar desde aqui la ultima versión complilada lista para instalar: https://github.com/TheWizWikii/HAN-Toolbox-MOD/releases
+*Este source requiere ser compilado con true ancestor para crear el PKG instalable*. Pero si lo deseas puedes descargar desde aqui la ultima versión complilada lista para instalar: https://github.com/TheWizWikii/WIKISTORE/releases
 
