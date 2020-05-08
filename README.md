@@ -11,7 +11,7 @@ Esto es una Fr33shop / Store donde podrás descargar juegos de P$N directamente 
 WIKISTORE és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en los
 siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 
-![PS3 TOOLBOX MOD](https://imgur.com/B5a1gfp)
+![WIKISTORE](https://imgur.com/B5a1gfp)
 
 ---
 
