@@ -68,7 +68,7 @@ Lista de Cambios en la 1.0.4
 - Añadido Blur EU (Exclusivos Convertidos PS3)
 - Añadido Guitar Hero Aerosmith US (Exclusivos Convertidos PS3)
 - Añadido COD Black Ops 3 EU (Exclusivos Convertidos PS3)
-
+- Añadido FIFA Street (Exclusivos Convertidos PS2 Classics)
 
 
 *** Arreglos
@@ -99,3 +99,4 @@ Historial de Juegos testeados WIKISTORE
 - Shadow Man PSX - Ok (Confirmado por WIKI)
 - The King of Fighters XIII (Confirmado por Ignacio)
 - Portal 2 PS3 PSN - Ok (Confirmado en Twitter)
+- Uncharted 3 Drake Deception - Ok (Confirmado por ignacio) 99% pendiente
