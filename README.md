@@ -35,7 +35,7 @@ siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 
 ### ⚠️ Atención ⚠️
 
-*Si haces uso de este repositorio para hacer vuestra propia creación tened los santisimos huevos de dar creditos y de enlazad con la versión original.
+*Si haces uso de este repositorio para hacer vuestra propia creación tener los santisimos huevos de dar creditos y de enlazar con la versión original.
 
 
 
