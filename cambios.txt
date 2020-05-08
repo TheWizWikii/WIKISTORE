@@ -69,6 +69,7 @@ Lista de Cambios en la 1.0.4
 - Añadido Guitar Hero Aerosmith US (Exclusivos Convertidos PS3)
 - Añadido COD Black Ops 3 EU (Exclusivos Convertidos PS3)
 - Añadido FIFA Street (Exclusivos Convertidos PS2 Classics)
+- Añadida sección para actualizar WIKISTORE desde la consola
 
 
 *** Arreglos
