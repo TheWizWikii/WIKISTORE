@@ -5,7 +5,7 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-Lista de Cambios en la 1.0.4
+### Lista de Cambios en la 1.0.4
 
 *** Añadidos
 - Añadido Tony Hawk´s Pro Skater (Exclusivos Convertidos PSX)
