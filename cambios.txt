@@ -3,6 +3,7 @@
 *** Retirados
 - Crash Twinsanity (Exclusivos Convertidos PS2 Classics) era un juego no compatible
 
+------------------------------------------------------------------------------------------------------------------
 
 Lista de Cambios en la 1.0.4
 
