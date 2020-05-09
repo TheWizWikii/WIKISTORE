@@ -18,14 +18,13 @@ siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 ### Credits:
 
 - **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville)
-- **#DeVil303** (Oficial HAN Toolbox)
+- **#DeVil303** (Oficial HAN/HEN Toolbox)
 - **#pink1** (Oficial HAN Toolbox)
 - **#Berion** (some icons)
 - **#ShaolinAssassin** (contribution in HAN Toolbox)
 - **#lmn7** (Exploits Offline)
 - **#Joonie** (HFW 4.86 and contributions)
 - **#PSX-PLACE** (long contribution in PS3 Scene)
-- **#y a toda la comunidad de PS3**
 
 ---
 
