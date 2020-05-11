@@ -1,5 +1,8 @@
 ### Cambios 1.0.5
 
+*** Añadido
+- Headset Game Audio Installer
+
 *** Retirados
 - Crash Twinsanity (Exclusivos Convertidos PS2 Classics) era un juego no compatible
 
