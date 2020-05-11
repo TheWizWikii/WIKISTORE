@@ -481,6 +481,16 @@
 				<Pair key="module_action"><String>https://www.youtube.com/channel/UClh9mrZULUGRQf-2oqPnPaw</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
+			<Table key="habilitar_headsets">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/headset.png</String></Pair>
+				<Pair key="title"><String>Headset Game Audio Installer</String></Pair>
+				<Pair key="info"><String>Obtener sonido de audio del juego de los auriculares Bluetooth y USB (no solo en el chat)</String></Pair>
+			</Table>
+			<Table key="wikistore_update">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/update wikistore.png</String></Pair>
+				<Pair key="title"><String>WIKISTORE Update</String></Pair>
+				<Pair key="info"><String></String></Pair>
+			</Table>
 		</Attributes>
 			<Items>
 			<Query 
@@ -519,7 +529,19 @@
                 class="type:x-xmb/module-action"
 				key="canal_youtube"
 				attr="canal_youtube"
-				/>	
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="habilitar_headsets"
+                attr="habilitar_headsets"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/headset/habilitar_headsets.xml#habilitar_headsets_items"
+				/>
+            <Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="wikistore_update" 
+				attr="wikistore_update"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/update/wikistore_update.xml#wikistore_update_main"
+				/>					
 			</Items>
 		</View>
 		
