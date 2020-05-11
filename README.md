@@ -28,6 +28,7 @@ En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala 
 - **#ShaolinAssassin** (contribution in HAN Toolbox)
 - **#lmn7** (Exploits Offline)
 - **#Joonie** (HFW 4.86 and contributions)
+- **#Louay** (Headset Bluetooth & USB)
 - **#PSX-PLACE** (long contribution in PS3 Scene)
 
 ---
