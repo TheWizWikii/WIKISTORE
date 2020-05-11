@@ -1,0 +1,65 @@
+<XMBML version="1.0">
+    <View id="habilitar_headsets_items">
+        <Attributes>
+            <Table key="HEN">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/headset.png</String></Pair>
+                <Pair key="title"><String>HFW 4.86 HEN</String></Pair>
+                <Pair key="info"><String>Una vez instalado necesita HEN para activarse cada vez</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+            <Table key="CFW">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/headset.png</String></Pair>
+                <Pair key="title"><String>CFW 4.86 REBUG</String></Pair>
+                <Pair key="info"><String>Una vez instalado confirmar reinicio y a disfrutar</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>          
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="HEN"
+                attr="HEN"
+                src="#HEN_link"
+            /> 
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="CFW"
+                attr="CFW"
+                src="#CFW_link"
+            />                      
+        </Items>
+    </View>
+
+    <View id="HEN_link">
+        <Attributes>
+            <Table key="HEN">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/zax7pcne7edqhxy/4.86_HEN_v3.0.1_HeadSet_Patch_Disable_Auto_Update.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/zax7pcne7edqhxy/4.86_HEN_v3.0.1_HeadSet_Patch_Disable_Auto_Update.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="HEN" attr="HEN"/>
+        </Items>
+    </View>
+
+    <View id="CFW_link">
+        <Attributes>
+            <Table key="CFW">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/80v6dv9zsdb4lvd/LOUY_Head_Set_Game_Audio_MOD_Installer.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/80v6dv9zsdb4lvd/LOUY_Head_Set_Game_Audio_MOD_Installer.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>LOUAY0-GAMEAUDIO_00-MOD00INSTALLER00</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="CFW" attr="CFW"/>
+        </Items>
+    </View>
+
+</XMBML>
