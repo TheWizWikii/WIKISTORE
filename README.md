@@ -5,7 +5,7 @@
 ### Que és:
 
 Versión modificada del HAN Toolbox Original (complemento no oficial para PS3Xploit)
-Esto es una Fr33shop / Store donde podrás descargar juegos de PSX, PS2, PSP, PS3 P$N y Exclusivos directamente desde tu consola PS3. Tendrás acceso a descargas de Hombrew, emuladores retro y un montón de modificaciones para tu consola. Además podrás hacer uso de todos los exploits desde el menu XMB sin la necesidad de acceder al navegador de internet de la consola o usar un pc (local host).
+Esto es una `Fr33shop` / Store donde podrás descargar juegos de PSX, PS2, PSP, PS3 P$N y Exclusivos directamente desde tu consola PS3. Tendrás acceso a descargas de Hombrew, emuladores retro y un montón de modificaciones para tu consola. Además podrás hacer uso de todos los exploits desde el menu XMB sin la necesidad de acceder al navegador de internet de la consola o usar un pc (local host).
 
 ### En qué consolas y firmwares funciona:
 
