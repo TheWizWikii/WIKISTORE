@@ -1,7 +1,7 @@
 # WIKISTORE
 ---
 
-![Version](https://img.shields.io/badge/Version actual-1.0.5-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.5-brightgreen.svg)
 
 ### Que és:
 
