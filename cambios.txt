@@ -2,6 +2,7 @@
 
 *** Añadido
 - Headset Game Audio Installer
+- Enter The Matrix (Exclusivo PS2 Classics)
 
 *** Retirados
 - Crash Twinsanity (Exclusivos Convertidos PS2 Classics) era un juego no compatible
