@@ -1,6 +1,8 @@
 # WIKISTORE
 ---
 
+Versión Actual ![Version](https://img.shields.io/badge/Version-1.0.5-brightgreen.svg)
+
 ### Que és:
 
 Versión modificada del HAN Toolbox Original (complemento no oficial para PS3Xploit)
