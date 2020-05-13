@@ -11,7 +11,7 @@
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="pic"><String>/dev_hdd0/game/WIKISTORE/PIC1.PNG</String></Pair>
 				<Pair key="pic_notation"><String>WNT_XmbItemAlbum</String></Pair>
-				<Pair key="title"><String>★ WIKILANDIA 4.86 ★</String></Pair>
+				<Pair key="title"><String>★ WHISKYISTORE 4.86 ★</String></Pair>
 				<Pair key="info"><String>Version 1.0.6  </String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
@@ -317,8 +317,8 @@
 			</Table>
 			<Table key="stores_usb">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/USB.png</String></Pair>
-				<Pair key="title"><String>Stores USB</String></Pair>
-				<Pair key="info"><String>En construccion</String></Pair>
+				<Pair key="title"><String>Contenido Extra Exclusivo por USB</String></Pair>
+				<Pair key="info"><String>DLCs - Juegos - PSN - Stores y bases de datos de PSN</String></Pair>
 			</Table>
 			<Table key="avatares_psn">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/avatares.png</String></Pair>
@@ -338,8 +338,8 @@
 			</Table>
 			<Table key="firmware_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
-				<Pair key="title"><String>PS3 Firmware (Software OFW - HFW - CFW - DB)</String></Pair>
-				<Pair key="info"><String>Descarga y prepara al USB la actualizacion que necesites (requiere USB conectado dev_usb000)</String></Pair>
+				<Pair key="title"><String>PS3 Firmware Collection (Software OFW - HFW - CFW - DB)</String></Pair>
+				<Pair key="info"><String>Descarga y prepara al USB la actualizacion que necesites (requiere USB conectado dev_usb000 lado derecho)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
 		</Attributes>
