@@ -336,6 +336,12 @@
 				<Pair key="info"><String>Descarga e instala distintos logos de PSN (xmb_plugin_normal.rco)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
+			<Table key="firmware_downloader">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
+				<Pair key="title"><String>PS3 Firmware (Software OFW - HFW - CFW - DB)</String></Pair>
+				<Pair key="info"><String>Descarga y prepara al USB la actualizacion que necesites (requiere USB conectado dev_usb000)</String></Pair>
+				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
+			</Table>
 		</Attributes>
 		<Items>			
 			<Query 
@@ -409,6 +415,12 @@
 				key="iconspsn_downloader"
 				attr="iconspsn_downloader"
 				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/iconspsn/iconspsn_downloader.xml#iconspsn_downloader_items"
+				/>
+            <Query
+				class="type:x-xmb/folder-pixmap"
+				key="firmware_downloader"
+				attr="firmware_downloader"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/firmwares/firmware_downloader.xml#firmware_downloader_items"
 				/>				
 			</Items>
 		</View>
