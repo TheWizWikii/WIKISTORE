@@ -51,12 +51,12 @@
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/u84cj0z6eol43k2/El_Padrino.pkg?dl=1</String></Pair>
         	</Table>
 			<Table key="7">
-                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/crash bandicoot twinsanity.png</String></Pair>
-	        	<Pair key="title"><String>Crash Bandicoot Twinsanity</String></Pair>
-				<Pair key="info"><String>SLES52568 - 2,41 GB</String></Pair>
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/fahrenheit.png</String></Pair>
+	        	<Pair key="title"><String>Fahrenheit Indigo Prophecy (PAL)</String></Pair>
+				<Pair key="info"><String>SLES53540 - 3,24 GB</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
-	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/3uo53gvb2ah72dm/Crash-Bandicoot-Twinsanity.pkg?dl=1</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/90lbxx1lverp5a5/Fahrenheit_PS2Classics_SLES53540.pkg?dl=1</String></Pair>
         	</Table>
 			<Table key="8">
                 <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/fifa street 2.png</String></Pair>
