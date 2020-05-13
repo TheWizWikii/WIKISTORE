@@ -75,9 +75,9 @@
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/sb4y43e0dn6i9vz/Mafia-PS2-Classics-SLES52282.pkg?dl=1</String></Pair>
         	</Table>
 			<Table key="10">
-                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/harry potter y la camara secreta.png</String></Pair>
-	        	<Pair key="title"><String>Harry Potter y la Camara Secreta (PAL)</String></Pair>
-				<Pair key="info"><String>SLES51195 - 1,69 GB</String></Pair>
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/noimage.png</String></Pair>
+	        	<Pair key="title"><String>Juego retirado</String></Pair>
+				<Pair key="info"><String>nada...</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/uvtxpie25gzqx3f/Harry_Potter_y_la_Camara_Secreta.pkg?dl=1</String></Pair>
@@ -227,7 +227,7 @@
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/jsvwf4cr28z2oia/The_King_Of_Fighters_2002_-_Unlimited_Match.pkg?dl=1</String></Pair>
         	</Table>
 			<Table key="29">
-                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Harry Potter y La Camara Secreta.png</String></Pair>
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/la camara secreta.png</String></Pair>
 	        	<Pair key="title"><String>Harry Potter y La Camara Secreta (PAL)</String></Pair>
 				<Pair key="info"><String>SLES52055 - 3,94 GB</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
@@ -241,6 +241,22 @@
 				<Pair key="ingame"><String>disable</String></Pair>
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/4905c4iiyq4c87j/Harry_Potter_and_the_Prisoner_of_Azkaban_SLES52440.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="31">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/fifa street.png</String></Pair>
+	        	<Pair key="title"><String>FIFA Street (PAL)</String></Pair>
+				<Pair key="info"><String>SLUS21147 - 4,4 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/l7g8cie9bk16mwy/Fifa_Street_SLUS21147.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="32">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/enter the matrix.png</String></Pair>
+	        	<Pair key="title"><String>Enter The Matrix (PAL)</String></Pair>
+				<Pair key="info"><String>SLES51203 - 3,56 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/ya6hg54ef3unkpz/Enter_the_Matrix_PS2_Classics_SLES51203.pkg?dl=1</String></Pair>
         	</Table>
 			
         </Attributes>
@@ -365,6 +381,14 @@
 			class="type:x-xmb/module-action" 
 			key="30" 
 			attr="30"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="31" 
+			attr="31"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="32" 
+			attr="32"/>
 		  					
         </Items>
 
