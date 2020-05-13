@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!-- USB WIKISTORE -->
 <XMBML version="1.0">
 <View id="stores_usb_items"> 
 		<Attributes>		  
 			<Table key="store_01">
                 <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/stores.png</String></Pair>
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-                <Pair key="title"><String>La Store de JarsGames</String></Pair>
-                <Pair key="info"><String>Una opcion mas donde buscar chucherias para tu consola</String></Pair>
-                <Pair key="ingame"><String>Disable</String></Pair>
-            </Table>
-            <Table key="store_02">
-                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/stores.png</String></Pair>
-				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-                <Pair key="title"><String>La GAMESTORE</String></Pair>
-                <Pair key="info"><String>Una opcion mas donde buscar chucherias para tu consola</String></Pair>
-                <Pair key="ingame"><String>Disable</String></Pair>
-            </Table>
-			<Table key="store_03">
-                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/stores.png</String></Pair>
-				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
-                <Pair key="title"><String>WIKISTORE</String></Pair>
-                <Pair key="info"><String>Una opcion mas donde buscar chucherias para tu consola</String></Pair>
+                <Pair key="title"><String>WIKISTORE Todos Los DLCs de PSN</String></Pair>
+                <Pair key="info"><String>Toda la base de datos de DLCs de PSN en un mismo sitio</String></Pair>
                 <Pair key="ingame"><String>Disable</String></Pair>
             </Table>			
 		</Attributes>
@@ -31,19 +17,7 @@
 				 class="type:x-xmb/folder-pixmap"
 				 key="store_01"
 				 attr="store_01"
-				 src="xmb://localhost/dev_usb000/game/JARSGAMES/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"
-				/>
-			<Query
-				 class="type:x-xmb/folder-pixmap"
-				 key="store_02"
-				 attr="store_02"
-				 src="xmb://localhost/dev_usb000/game/GAMESTORE/USRDIR/game_xmb_gs.xml#han_toolbox_xmb_main"
-				/>
-			<Query
-				 class="type:x-xmb/folder-pixmap"
-				 key="store_03"
-				 attr="store_03"
-				 src="xmb://localhost/dev_usb000/game/WIKISTORE/USRDIR/thewizwiki_store_xmb.xml#thewizwiki_store_xmb_main"
+				 src="xmb://localhost/dev_usb000/game/Freeshop/USRDIR/han_toolbox_xmb.xml#han_toolbox_xmb_main"
 				/>
 		</Items>
 	</View>
