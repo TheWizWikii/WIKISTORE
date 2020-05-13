@@ -1,7 +1,7 @@
 ### Cambios 1.0.6
 
 - Añadida la sección WIKILANDIA HACKS y MODS Exclusivos
-- Añadido Red Motion Mod Menu GTA IV The Ballad of Gay Tony
+- Añadido Red Motion Mod Menu GTA IV The Ballad of Gay Tony BLES00887
 - Añadido Juego Enter The Matrix (Exclusivos Convertidos PS2 Classics)
 - Fixeada la sección para poder actualizar WIKISTORE desde la consola
 - Añadida sección PS3 Firmware (Descarga y prepara al USB el software OFW - HFW - CFW - DB) que necesites
