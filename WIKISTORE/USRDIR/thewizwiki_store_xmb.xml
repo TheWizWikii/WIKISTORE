@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HFW 4.86 WIKISTORE 1.0.4 [Ultimo Update: 07/05/2020] -->
+<!-- HFW 4.86 WIKISTORE 1.0.6 [Ultimo Update: 13/05/2020] -->
 
        <!-- Logo/icono XMB -->
 
@@ -11,8 +11,8 @@
 				<Pair key="icon_notation"><String>WNT_XmbItemAlbum</String></Pair>
 				<Pair key="pic"><String>/dev_hdd0/game/WIKISTORE/PIC1.PNG</String></Pair>
 				<Pair key="pic_notation"><String>WNT_XmbItemAlbum</String></Pair>
-				<Pair key="title"><String>★ WIKISTORE 4.86 ★</String></Pair>
-				<Pair key="info"><String>Version 1.0.4  </String></Pair>
+				<Pair key="title"><String>★ WIKILANDIA 4.86 ★</String></Pair>
+				<Pair key="info"><String>Version 1.0.6  </String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 			</Table>
 			
@@ -287,10 +287,10 @@
 				<Pair key="info"><String>Descarga e instala fuentes (TTF/ttf)</String></Pair>
 				<Pair key="str_noitem"><String>msg_no_data</String></Pair>
 			</Table>
-			<Table key="GTA_Mod_Menu">
-				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/modmenus/gtavlogo.png</String></Pair>
-				<Pair key="title"><String>GTA V 1.27 Mod Menus</String></Pair>
-				<Pair key="info"><String>Descarga e instala el mod menu de GTA V (Offline)</String></Pair>
+			<Table key="wikilandia_hacks">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/wikilandia hacks y mods.png</String></Pair>
+				<Pair key="title"><String>WIKILANDIA HACKS y MODS Exclusivos</String></Pair>
+				<Pair key="info"><String>Descarga e instala Hacks, Cheats y Mods en segun que juegos disponibles</String></Pair>
 			</Table>
 			<Table key="No_PSN_Apps">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/nopsnlogo.png</String></Pair>
@@ -358,9 +358,9 @@
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
-                key="GTA_Mod_Menu"
-                attr="GTA_Mod_Menu"
-                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/modmenus/GTA_Mod_Menu.xml#GTA_Mod_Menu_items"
+                key="wikilandia_hacks"
+                attr="wikilandia_hacks"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wikimoddinglandia/wikilandia_hacks.xml#wikilandia_hacks_items"
 				/>
             <Query
 				class="type:x-xmb/folder-pixmap"
@@ -484,7 +484,7 @@
 			<Table key="habilitar_headsets">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/headset.png</String></Pair>
 				<Pair key="title"><String>Headset Game Audio Installer</String></Pair>
-				<Pair key="info"><String>Obtener sonido de audio del juego de los auriculares Bluetooth y USB (no solo en el chat)</String></Pair>
+				<Pair key="info"><String>Obtener el audio del juego en auriculares Bluetooth y USB (no solo en el chat)</String></Pair>
 			</Table>
 			<Table key="wikistore_update">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/update wikistore.png</String></Pair>
