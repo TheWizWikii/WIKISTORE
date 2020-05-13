@@ -1,0 +1,149 @@
+<XMBML version="1.0">
+    <View id="firmware_downloader_items">
+        <Attributes>
+            <Table key="ofw_486">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
+                <Pair key="title"><String>OFW 4.86</String></Pair>
+                <Pair key="info"><String>Instala el software original de PS3 (para quitar el hack por ejemplo)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="hfw_486">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
+                <Pair key="title"><String>HFW 4.86</String></Pair>
+                <Pair key="info"><String>Actualizacion hibrida necesaria para poder instalar HEN en tu consola</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="cfw_486_rebug_lite">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
+                <Pair key="title"><String>CFW 4.86 REBUG LITE</String></Pair>
+                <Pair key="info"><String>Custom firmware personalizado solo para consolas compatibles (utiliza Toolset para ver si es compatible)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="cfw_486_ferrox">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
+                <Pair key="title"><String>CFW FERROX 4.86</String></Pair>
+                <Pair key="info"><String>Custom firmware personalizado solo para consolas compatibles (utiliza Toolset para ver si es compatible)</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="db_486">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/firmware.png</String></Pair>
+                <Pair key="title"><String>DB (Dual Boot) 4.86</String></Pair>
+                <Pair key="info"><String>Actualizacion que permite jugar online de forma segura y permite volver a CFW</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>          
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="ofw_486"
+                attr="ofw_486"
+                src="#ofw_486_link"
+                />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="hfw_486"
+                attr="hfw_486"
+                src="#hfw_486_link"
+                /> 
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="cfw_486_rebug_lite"
+                attr="cfw_486_rebug_lite"
+                src="#cfw_486_rebug_lite_link"
+                />
+			<Query
+                class="type:x-xmb/folder-pixmap"
+                key="cfw_486_ferrox"
+                attr="cfw_486_ferrox"
+                src="#cfw_486_ferrox_link"
+                />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="db_486"
+                attr="db_486"
+                src="#db_486_link"
+                />				
+        </Items>
+    </View>
+
+    <View id="ofw_486_link">
+        <Attributes>
+            <Table key="ofw_486">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/vpfb7sas0ng98ts/OFW_4.86.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/vpfb7sas0ng98ts/OFW_4.86.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="ofw_486" attr="ofw_486"/>
+        </Items>
+    </View>
+	
+	<View id="hfw_486_link">
+        <Attributes>
+            <Table key="hfw_486">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/575ck60fig4kfho/FW_4.86_HFW.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/575ck60fig4kfho/FW_4.86_HFW.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="hfw_486" attr="hfw_486"/>
+        </Items>
+    </View>
+	
+	<View id="cfw_486_rebug_lite_link">
+        <Attributes>
+            <Table key="cfw_486_rebug_lite">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/r7vt9ady9yoi2fc/CFW_4.86_REBUG_LITE.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/r7vt9ady9yoi2fc/CFW_4.86_REBUG_LITE.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="cfw_486_rebug_lite" attr="cfw_486_rebug_lite"/>
+        </Items>
+    </View>
+	
+	<View id="cfw_486_ferrox_link">
+        <Attributes>
+            <Table key="cfw_486_ferrox">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/77n3wtzsxgvfbvm/CFW_4.86_FERROX.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/77n3wtzsxgvfbvm/CFW_4.86_FERROX.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="cfw_486_ferrox" attr="cfw_486_ferrox"/>
+        </Items>
+    </View>
+	
+	<View id="db_486_link">
+        <Attributes>
+            <Table key="db_486">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/zeb3eg9njahrucr/DB_4.86.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/zeb3eg9njahrucr/DB_4.86.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="db_486" attr="db_486"/>
+        </Items>
+    </View>
+
+</XMBML>
