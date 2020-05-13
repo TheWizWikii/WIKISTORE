@@ -1,0 +1,32 @@
+<XMBML version="1.0">
+	<!-- Wikilandia HACKS -->
+		<View id="wikilandia_hacks_items">
+		<Attributes>
+			<Table key="gtav">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/mods/cover gta v.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto V</String></Pair>
+				<Pair key="info"><String>Descarga aqui tus Hacks y Menus para GTA V</String></Pair>
+			</Table>
+			<Table key="red_motion_mod_menu_gta_IV">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/mods/cover gta IV.png</String></Pair>
+				<Pair key="title"><String>Grand Theft Auto Episodes From Liberty City</String></Pair>
+				<Pair key="info"><String>The Ballad of Gay Tony</String></Pair>
+			</Table>
+		</Attributes>
+		<Items>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="gtav" 
+				attr="gtav"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wikimoddinglandia/gtav.xml#gtav_items"
+				/>
+			<Query 
+				class="type:x-xmb/folder-pixmap" 
+				key="red_motion_mod_menu_gta_IV" 
+				attr="red_motion_mod_menu_gta_IV"
+				src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/wikimoddinglandia/red_motion_mod_menu_gta_IV.xml#red_motion_mod_menu_gta_IV_items"
+				/>
+		</Items>
+		</View>
+		
+</XMBML>

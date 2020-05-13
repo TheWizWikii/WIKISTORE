@@ -1,0 +1,65 @@
+<XMBML version="1.0">
+    <View id="red_motion_mod_menu_gta_IV_items">
+        <Attributes>
+            <Table key="item_0">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/mods/red motion mod menu.png</String></Pair>
+                <Pair key="title"><String>Red Motion Mod Menu HEN/CFW SOLO USB</String></Pair>
+                <Pair key="info"><String>BLES00887 - 5,25 MB - Flecha Abajo + X para abrir el menu</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+			<Table key="item_1">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/restore.png</String></Pair>
+                <Pair key="title"><String>Restaurar Original (eliminar menu)</String></Pair>
+                <Pair key="info"><String>BLES00887 - 3,2 MB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>          
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_0"
+                attr="item_0"
+                src="#item_0_link"
+                />
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="item_1"
+                attr="item_1"
+                src="#item_1_link"
+                /> 			
+        </Items>
+    </View>
+
+    <View id="item_0_link">
+        <Attributes>
+            <Table key="item_0">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/9mglvz3lsem3r6z/Red_Motion_Mod_Menu_GTA_IV_The_Ballad_Of_Gay_Tony.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/9mglvz3lsem3r6z/Red_Motion_Mod_Menu_GTA_IV_The_Ballad_Of_Gay_Tony.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_0" attr="item_0"/>
+        </Items>
+    </View>
+	
+	<View id="item_1_link">
+        <Attributes>
+            <Table key="item_1">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/lfc59c7eeajn5bw/Red_Motion_Mod_Menu_GTA_IV_The_Ballad_Of_Gay_Tony_Originales.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/lfc59c7eeajn5bw/Red_Motion_Mod_Menu_GTA_IV_The_Ballad_Of_Gay_Tony_Originales.pkg?dl=1</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="item_1" attr="item_1"/>
+        </Items>
+    </View>
+
+</XMBML>
