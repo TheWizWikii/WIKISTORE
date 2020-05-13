@@ -3,6 +3,7 @@
 - Añadida la sección WIKILANDIA HACKS y MODS Exclusivos
 - Añadido Red Motion Mod Menu GTA IV The Ballad of Gay Tony
 - Añadido Juego Enter The Matrix (Exclusivos Convertidos PS2 Classics)
+- Fixeada la sección para poder actualizar WIKISTORE desde la consola
 
 ------------------------------------------------------------------------------------------------------------------
 
