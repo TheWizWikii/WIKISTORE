@@ -75,12 +75,12 @@
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/sb4y43e0dn6i9vz/Mafia-PS2-Classics-SLES52282.pkg?dl=1</String></Pair>
         	</Table>
 			<Table key="10">
-                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/noimage.png</String></Pair>
-	        	<Pair key="title"><String>Juego retirado</String></Pair>
-				<Pair key="info"><String>nada...</String></Pair>
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/captain tsubasa ps2.png</String></Pair>
+	        	<Pair key="title"><String>Captain Tsubasa - Campeones Oliver y Benji (JP)</String></Pair>
+				<Pair key="info"><String>SLPS25691 - 1,16 GB</String></Pair>
 				<Pair key="ingame"><String>disable</String></Pair>
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
-	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/uvtxpie25gzqx3f/Harry_Potter_y_la_Camara_Secreta.pkg?dl=1</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/rg24mi1ke2y11rk/Campeones_Oliver_y_Benji_PS2Classics_SLPS25691.pkg?dl=1</String></Pair>
         	</Table>
 			<Table key="11">
                 <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/getaway the black monday.png</String></Pair>
