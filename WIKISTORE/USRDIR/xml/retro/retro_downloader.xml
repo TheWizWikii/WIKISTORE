@@ -1136,6 +1136,11 @@
 				<Pair key="title"><String>Super Mario All-Stars + Super Mario World</String></Pair>
 				<Pair key="info"><String>RXSUP5325 5,1 MB by TheWizWiki</String></Pair>
 			</Table>
+			<Table key="game_item_3">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/captain tsubasa.png</String></Pair>
+				<Pair key="title"><String>Captain Tsubasa III</String></Pair>
+				<Pair key="info"><String>RXCAP4762 3,43 MB by TheWizWiki</String></Pair>
+			</Table>
 			<Table key="snes_002">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/2048_super_Nintendo.JPG</String></Pair>
 				<Pair key="title"><String>2048 super Nintendo</String></Pair>
@@ -1343,11 +1348,16 @@
 			    key="game_item_1" 
 			    attr="game_item_1" 
 			    src="#game_link_1_main"/>
-				<Query 
+			<Query 
 			    class="type:x-xmb/folder-pixmap" 
 			    key="game_item_2" 
 			    attr="game_item_2" 
 			    src="#game_link_2_main"/>
+			<Query 
+			    class="type:x-xmb/folder-pixmap" 
+			    key="game_item_3" 
+			    attr="game_item_3" 
+			    src="#game_link_3_main"/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
 				key="snes_002"
@@ -1580,6 +1590,22 @@
 		</Attributes> 
 		<Items> 
 			<Item class="type:x-xmb/xmlnpsignup" key="game_link_2" attr="game_link_2"/> 
+		</Items> 
+	    </View>
+		
+		<View id="game_link_3_main"> 
+		<Attributes> 
+			<Table key="game_link_3"> 
+				<Pair key="info"><String>net_package_install</String></Pair> 
+				<Pair key="pkg_src"><String>https://www.dropbox.com/s/xoqyhxev0sou8me/Captain_Tsubasa_III_by_TheWizWiki.pkg?dl=1</String></Pair> 
+				<Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/xoqyhxev0sou8me/Captain_Tsubasa_III_by_TheWizWiki.pkg?dl=0</String></Pair> 
+				<Pair key="content_name"><String>tool_pkg_install_pc</String></Pair> 
+				<Pair key="content_id"><String>EMUPS3-RXCAP4762_00-0000000000000000</String></Pair> 
+				<Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/juegosretro/snes/captain tsubasa.png</String></Pair> 
+			</Table> 
+		</Attributes> 
+		<Items> 
+			<Item class="type:x-xmb/xmlnpsignup" key="game_link_3" attr="game_link_3"/> 
 		</Items> 
 	    </View>
 
