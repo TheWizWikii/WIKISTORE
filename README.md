@@ -19,6 +19,7 @@ siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea de que instala cada uno.
 
 
+
 | PKG | Que instala cada uno de estos PKG |
 | ------ | ------ |
 | 14.500 Licencias | Instala el pack de licencias de juegos y DLCs de PS3 PSN de toda la vida |
@@ -29,6 +30,7 @@ Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea
 | WIKISTORE 1.X.X | Instala WIKISTORE sin nada más, ideal para los que tienen una versión anterior en HFW o CFW |
 | WIKISTORE 1.X.X CFW REBUG 486 PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
 | WIKISTORE 1.X.X HFW 486 HEN PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
+
 
 
 En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala en HFW HEN 4.86 y en CFW 4.86 Rebug LITE usando el PACK COMPLETO
