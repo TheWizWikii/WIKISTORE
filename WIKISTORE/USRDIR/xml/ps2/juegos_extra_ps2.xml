@@ -266,6 +266,30 @@
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/34rsxgcs3kibt76/Flintstones_The_Bedrock_Racing_PS2Classics_SLES54473.pkg?dl=1</String></Pair>
         	</Table>
+			<Table key="34">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Los Picapiedra Viva Rock Vegas.png</String></Pair>
+	        	<Pair key="title"><String>Los Picapiedra Viva Rock Vegas (PAL)</String></Pair>
+				<Pair key="info"><String>SLES50259 - 576,82 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/7djmywnmz64h9o3/Flintstones_Viva_Rock_Vegas_PS2Classics_SLES50259.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="35">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Gadget the Gadgetinis.png</String></Pair>
+	        	<Pair key="title"><String>Gadget - the Gadgetinis (PAL)</String></Pair>
+				<Pair key="info"><String>SLES52845 - 312,27 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/u1xzj3brzfszf0n/Gadget_and_the_Gadgetinis_PS2Classics_SLES52845.pkg?dl=1</String></Pair>
+        	</Table>
+			<Table key="36">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Fatal Fury Battle Archives Volume 1.png</String></Pair>
+	        	<Pair key="title"><String>Fatal Fury Battle Archives Volume 1 (NTSC-U)</String></Pair>
+				<Pair key="info"><String>SLUS21537 - 2,09 GB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/vsfq3saq86nsvu5/NeoGeo_Fatal_Fury_Collection_PS2Classics_SLUS21537.pkg?dl=1</String></Pair>
+        	</Table>
 			
         </Attributes>
         <Items>
@@ -401,6 +425,18 @@
 			class="type:x-xmb/module-action" 
 			key="33" 
 			attr="33"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="34" 
+			attr="34"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="35" 
+			attr="35"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="36" 
+			attr="36"/>
 		  					
         </Items>
 
