@@ -14,6 +14,7 @@
 - Añadida una sección de juegos PSP en formato ISO Exclusiva
 - Añadido Metal Slug XX PSP ISO
 - Añadido pack de 920 Licencias extra de DLC´S y Juegos PSN
+- Añadido Soporte para Ferrox 4.86
 
 ------------------------------------------------------------------------------------------------------------------
 
