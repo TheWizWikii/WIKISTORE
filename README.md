@@ -22,6 +22,7 @@ Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea
 | PKG | Que instala cada uno de estos PKG |
 | ------ | ------ |
 | 14.500 Licencias | Instala el pack de licencias de juegos y DLCs de PS3 PSN de toda la vida |
+| Nuevas Licencias WIKISTORE 1.X.X | Instala el pack de licencias de los nuevos juegos que se añaden a WIKISTORE en cada nueva versión |
 | 920 Nuevas Licencias Extra | Instala un pack de Licencias Extra de juegos y dlcs de PS3 PSN |
 | Fix CFW 486 REBUG LITE | Instala un fix por si no aparece la tienda en este CFW en especifico |
 | Fix HFW 486 HEN | Instala un fix por si no aparece la tienda solo HFW |
