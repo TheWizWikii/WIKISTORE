@@ -10,6 +10,8 @@
 - Reconstruida la sección Exclusiva por USB
 - Añadido juego Captain Tsubasa III SNES
 - Añadido juego Captain Tsubasa Oliver y Benji PS2Classics
+- Añadida una sección de juegos PSP en formato ISO Exclusiva
+- Añadido Metal Slug XX PSP ISO
 
 ------------------------------------------------------------------------------------------------------------------
 
