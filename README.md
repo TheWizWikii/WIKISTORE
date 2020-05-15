@@ -16,9 +16,9 @@ siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 
 ### Como se instala:
 
+
 Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea de que instala cada uno.
-
-
+-
 
 | PKG | Que instala cada uno de estos PKG |
 | ------ | ------ |
