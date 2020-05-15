@@ -27,7 +27,7 @@ Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea
 | 920 Nuevas Licencias Extra | Instala un pack de Licencias Extra de juegos y dlcs de PS3 PSN |
 | Fix CFW 486 REBUG LITE | Instala un fix por si no aparece la tienda en este CFW en especifico |
 | Fix HFW 486 HEN | Instala un fix por si no aparece la tienda solo HFW |
-| WIKISTORE 1.X.X | Instala WIKISTORE sin nada más, ideal para los que tienen una versión anterior en HFW o CFW |
+| WIKISTORE 1.X.X | Instala WIKISTORE sin nada más, ideal para los que tienen una versión anterior en HFW o CFW y solo quieren actualizarla |
 | WIKISTORE 1.X.X CFW REBUG 486 PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
 | WIKISTORE 1.X.X HFW 486 HEN PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
 
