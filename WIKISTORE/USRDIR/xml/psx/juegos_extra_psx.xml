@@ -26,7 +26,14 @@
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/khu16fzc1i18asf/TA9000-SLES00947_00-0000000000000000.pkg?dl=1</String></Pair>
         	</Table>
-			
+			<Table key="4">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Jackie Chan Stuntmaster.png</String></Pair>
+	        	<Pair key="title"><String>Jackie Chan Stuntmaster (PAL)</String></Pair>
+				<Pair key="info"><String>SLUS00684 - 617,72 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/0rwdt0vidxhob62/jackie_chan_stuntmaster_PS2Classics_SLUS00684.pkg?dl=1</String></Pair>
+        	</Table>			
         </Attributes>
         <Items>
 		<Item 
@@ -41,6 +48,10 @@
 			class="type:x-xmb/module-action" 
 			key="3" 
 			attr="3"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="4" 
+			attr="4"/>
 		  					
         </Items>
 
