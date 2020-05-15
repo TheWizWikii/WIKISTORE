@@ -1,0 +1,38 @@
+<XMBML version="1.0">
+<!-- Juegos Exclusivos ISO PSP -->
+    <View id="Juegos_PSP_ISO_items">
+        <Attributes>
+            <Table key="metal_slug_xx">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psp/metal slug xx.png</String></Pair>
+                <Pair key="title"><String>Metal Slug XX</String></Pair>
+                <Pair key="info"><String>ULES-01429 (PAL) - 444,94 MB</String></Pair>
+                <Pair key="ingame"><String>disable</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>          
+            <Query
+                class="type:x-xmb/folder-pixmap"
+                key="metal_slug_xx"
+                attr="metal_slug_xx"
+                src="#metal_slug_xx_link"
+            /> 		
+        </Items>
+    </View>
+
+    <View id="metal_slug_xx_link">
+        <Attributes>
+            <Table key="metal_slug_xx">
+                <Pair key="info"><String>net_package_install</String></Pair>
+                <Pair key="pkg_src"><String>https://www.dropbox.com/s/cztpvzrxsyckyy0/Metal_Slug_XX.pkg?dl=1</String></Pair>
+                <Pair key="pkg_src_qa"><String>https://www.dropbox.com/s/cztpvzrxsyckyy0/Metal_Slug_XX.pkg?dl=0</String></Pair>
+                <Pair key="content_name"><String>tool_pkg_install_pc</String></Pair>
+                <Pair key="content_id"><String>CUSTOM-INSTALLER_00-0000000000000000</String></Pair>
+                <Pair key="prod_pict_path"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/download.png</String></Pair>
+            </Table>
+        </Attributes>
+        <Items>
+            <Item class="type:x-xmb/xmlnpsignup" key="metal_slug_xx" attr="metal_slug_xx"/>
+        </Items>
+    </View>
+
+</XMBML>
