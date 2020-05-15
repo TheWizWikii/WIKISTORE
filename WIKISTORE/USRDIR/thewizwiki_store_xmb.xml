@@ -127,10 +127,10 @@
 				<Pair key="title"><String>DLC PSN EU</String></Pair>
 				<Pair key="info"><String>Descarga contenido extra descargable de juegos EUR</String></Pair>
 			</Table>
-			<Table key="Contenido_DLC_USB">
+			<Table key="psn_USB">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/dlc usb master.png</String></Pair>
-				<Pair key="title"><String>Todos Los DLCs de PSN (+ de 8.000 DLCs)</String></Pair>
-				<Pair key="info"><String>Toda la base de datos de DLCs de PSN (EU-US-HK-JP) en un mismo sitio (Requiere USB conectado)</String></Pair>
+				<Pair key="title"><String>Todos Los Juegos y DLCs de PS3 PSN Stuff Store</String></Pair>
+				<Pair key="info"><String>Toda la base de datos de juegos y DLCs de PSN (EU-US-HK-JP) en un mismo sitio (Requiere USB conectado)</String></Pair>
 			</Table>
 			<Table key="psx_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psx.png</String></Pair>
@@ -222,9 +222,9 @@
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
-                key="Contenido_DLC_USB"
-                attr="Contenido_DLC_USB"
-                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/USBcontent/Contenido_DLC_USB.xml#Contenido_DLC_USB_items"
+                key="psn_USB"
+                attr="psn_USB"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/USBcontent/psn_USB.xml#psn_USB_items"
 				/>
 			<Query
 				class="type:x-xmb/folder-pixmap"
