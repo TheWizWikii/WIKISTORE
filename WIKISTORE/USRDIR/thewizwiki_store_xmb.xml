@@ -1,6 +1,6 @@
 <XMBML version="1.0">
 
-<!-- HFW 4.86 WIKISTORE 1.0.6 [Ultimo Update: 13/05/2020] -->
+<!-- HFW 4.86 WIKISTORE 1.0.6 [Ultimo Update: 14/05/2020] -->
 
        <!-- Logo/icono XMB -->
 
@@ -134,7 +134,7 @@
 			</Table>
 			<Table key="juegos_extra_psx">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psx extra.png</String></Pair>
-				<Pair key="title"><String>Juegos PSX exclusivos WIKISTORE</String></Pair>
+				<Pair key="title"><String>Juegos PSX exclusivos</String></Pair>
 				<Pair key="info"><String>Lista de juegos de PS2 convertidos que subimos en el server privado</String></Pair>
 			</Table>
 			<Table key="ps2_downloader">
@@ -144,13 +144,18 @@
 			</Table>
 			<Table key="juegos_extra_ps2">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/ps2extra.png</String></Pair>
-				<Pair key="title"><String>Juegos PS2 exclusivos WIKISTORE</String></Pair>
+				<Pair key="title"><String>Juegos PS2 exclusivos</String></Pair>
 				<Pair key="info"><String>Lista de juegos de PS2 convertidos que subimos en el server privado</String></Pair>
 			</Table>
 			<Table key="Juegos_PSP">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psp.png</String></Pair>
 				<Pair key="title"><String>PSP PSN</String></Pair>
 				<Pair key="info"><String>Descarga e instala juegos de PSP de todas las regiones</String></Pair>
+			</Table>
+			<Table key="Juegos_PSP_ISO">
+				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/psp iso.png</String></Pair>
+				<Pair key="title"><String>PSP ISO Exclusivos</String></Pair>
+				<Pair key="info"><String>Descarga e instala juegos de PSP en formato ISO</String></Pair>
 			</Table>
 			<Table key="retro_downloader">
 				<Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/XMB/retro.png</String></Pair>
@@ -239,6 +244,12 @@
                 key="Juegos_PSP"
                 attr="Juegos_PSP"
                 src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psp/Juegos_PSP.xml#Juegos_PSP_items"
+				/>
+			<Query
+				class="type:x-xmb/folder-pixmap"
+                key="Juegos_PSP_ISO"
+                attr="Juegos_PSP_ISO"
+                src="xmb://localhost/dev_hdd0/game/WIKISTORE/USRDIR/xml/psp/Juegos_PSP_ISO.xml#Juegos_PSP_ISO_items"
 				/>
             <Query
 				class="type:x-xmb/folder-pixmap"
