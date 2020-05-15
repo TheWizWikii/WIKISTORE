@@ -258,6 +258,14 @@
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
 	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/ya6hg54ef3unkpz/Enter_the_Matrix_PS2_Classics_SLES51203.pkg?dl=1</String></Pair>
         	</Table>
+			<Table key="33">
+                <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/ps2/Los Picapiedra Bedrock Racing.png</String></Pair>
+	        	<Pair key="title"><String>Los Picapiedra Bedrock Racing (PAL)</String></Pair>
+				<Pair key="info"><String>SLES54473 - 114,86 MB</String></Pair>
+				<Pair key="ingame"><String>disable</String></Pair>
+	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
+	    	    <Pair key="module_action"><String>https://www.dropbox.com/s/34rsxgcs3kibt76/Flintstones_The_Bedrock_Racing_PS2Classics_SLES54473.pkg?dl=1</String></Pair>
+        	</Table>
 			
         </Attributes>
         <Items>
@@ -389,6 +397,10 @@
 			class="type:x-xmb/module-action" 
 			key="32" 
 			attr="32"/>
+		<Item 
+			class="type:x-xmb/module-action" 
+			key="33" 
+			attr="33"/>
 		  					
         </Items>
 
