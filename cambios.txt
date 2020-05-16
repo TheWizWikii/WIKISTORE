@@ -22,6 +22,7 @@
 - Añadido juego FARCRY CLASSIC PS3 PSN
 - Añadido Emulador SNES (Super Nintendo) + 1014 roms
 - Añadido Emulador FBA NEXT + 2688 Roms
+- Añadido juego Captain Tsubasa PSX
 
 ------------------------------------------------------------------------------------------------------------------
 
