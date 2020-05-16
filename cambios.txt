@@ -21,6 +21,7 @@
 - Añadido juego Fatal Fury Battle Archives Volume 1 PS2Classics
 - Añadido juego FARCRY CLASSIC PS3 PSN
 - Añadido Emulador SNES (Super Nintendo) + 1014 roms
+- Añadido Emulador FBA NEXT + 2688 Roms
 
 ------------------------------------------------------------------------------------------------------------------
 
