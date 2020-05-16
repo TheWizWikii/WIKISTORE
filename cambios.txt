@@ -23,6 +23,8 @@
 - Añadido Emulador SNES (Super Nintendo) + 1014 roms
 - Añadido Emulador FBA NEXT + 2688 Roms
 - Añadido juego Captain Tsubasa PSX
+- Añadido Mod Menu COD Black Ops Snow Engine
+- Añadido juego Bomberman PSP ISO
 
 ------------------------------------------------------------------------------------------------------------------
 
