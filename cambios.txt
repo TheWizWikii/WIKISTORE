@@ -25,7 +25,7 @@
 - Añadido juego Captain Tsubasa PSX
 - Añadido Mod Menu COD Black Ops Snow Engine
 - Añadido juego Bomberman PSP ISO
-- Añadido Hombrew PS2 Classic Manager
+- Añadido Hombrew PS2 Classic Manager 1.0.1
 
 ------------------------------------------------------------------------------------------------------------------
 
