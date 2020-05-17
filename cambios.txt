@@ -24,8 +24,8 @@
 - Añadido Emulador FBA NEXT + 2688 Roms
 - Añadido juego Captain Tsubasa PSX
 - Añadido Mod Menu COD Black Ops Snow Engine
-- Añadido juego Bomberman PSP ISO
 - Añadido Hombrew PS2 Classic Manager 1.0.1
+- Añadido PS2 Launcher Rebug Edition
 
 ------------------------------------------------------------------------------------------------------------------
 
