@@ -26,9 +26,10 @@
 - Añadido Mod Menu COD Black Ops Snow Engine
 - Añadido Hombrew PS2 Classic Manager 1.0.1
 - Añadido PS2 Launcher Rebug Edition
-- Añadido juego F.E.A.R. 2: Project Origin + DLC (EU)
-- Añadido juego F.E.A.R. 3
-- Añadido juego 007 legends
+- Añadido juego PS3 F.E.A.R. 2: Project Origin + DLC (EU)
+- Añadido juego PS3 F.E.A.R. 3
+- Añadido juego PS3 007 legends
+- Añadido juego PS3 Grand Turismo 5 Academy Edition
 
 ------------------------------------------------------------------------------------------------------------------
 
