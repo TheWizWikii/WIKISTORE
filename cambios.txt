@@ -28,6 +28,7 @@
 - Añadido PS2 Launcher Rebug Edition
 - Añadido juego F.E.A.R. 2: Project Origin + DLC (EU)
 - Añadido juego F.E.A.R. 3
+- Añadido juego 007 legends
 
 ------------------------------------------------------------------------------------------------------------------
 
