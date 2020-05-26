@@ -1,3 +1,9 @@
+### Cambios 1.0.7
+
+- Añadida sección para cambiar el logo de WIKISTORE
+
+------------------------------------------------------------------------------------------------------------------
+
 ### Cambios 1.0.6
 
 - Añadida la sección WIKILANDIA HACKS y MODS Exclusivos
