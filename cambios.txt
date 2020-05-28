@@ -9,6 +9,7 @@
 - Añadido juego PS2 Need for Speed Underground [PAL]
 - Añadido juego PS2 Need for Speed Underground 2 [PAL]
 - Añadido juego PS2 Gallop Racer 2 [PAL]
+- Añadido juego PSX Countdown Vampires
 
 ------------------------------------------------------------------------------------------------------------------
 
