@@ -5,6 +5,7 @@
 - Añadido juego PS3 Test Drive Unlimited 2 (EUR)
 - Añadido juego PS2 El Código Da Vinci (NTSC)
 - Añadido juego PS2 Grand Theft Auto III (NTSC-U)
+- Añadido juego PS2 Playboy The Mansion (PAL)
 
 ------------------------------------------------------------------------------------------------------------------
 
