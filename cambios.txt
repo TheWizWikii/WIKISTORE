@@ -1,6 +1,7 @@
 ### Cambios 1.0.7
 
 - Añadida sección para cambiar el logo de WIKISTORE
+- Añadido en sección Hombrew PS3 4K PRO MOD v5.1 HEN y CFW
 
 ------------------------------------------------------------------------------------------------------------------
 
