@@ -10,6 +10,7 @@
 - Añadido juego PS2 Need for Speed Underground 2 [PAL]
 - Añadido juego PS2 Gallop Racer 2 [PAL]
 - Añadido juego PSX Countdown Vampires
+- Actualizado webMAN MOD 1.47.28
 
 ------------------------------------------------------------------------------------------------------------------
 
