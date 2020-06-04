@@ -47,6 +47,8 @@ En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala 
 - **#Joonie** (HFW 4.86 and contributions)
 - **#Louay** (Headset Bluetooth & USB)
 - **#PSX-PLACE** (long contribution in PS3 Scene)
+- **#Eidwood y Superxploit** ( Games contributed to the community )
+- **#Alexmrz** ( the first one that created a store, and has been the base for all the others stores )
 
 ---
 
