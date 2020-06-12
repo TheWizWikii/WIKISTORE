@@ -13,8 +13,9 @@
 - Actualizado webMAN MOD 1.47.28
 - Actualizado IRISMAN v4.86.3
 - Añadida sección para cambiar diferentes logos de HEN
-- Añadido juego PS3 GTA V EU Formato Carpeta
-- Añadido juego PS3 Black Ops II Formato Carpeta
+- Añadido juego PS3 GTA V Formato Carpeta (EUR)
+- Añadido juego PS3 Black Ops II Formato Carpeta (EUR)
+- Añadido juego PS3 MLB 16 The Show (USA)
 
 ------------------------------------------------------------------------------------------------------------------
 
