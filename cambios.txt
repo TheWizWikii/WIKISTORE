@@ -13,6 +13,7 @@
 - Añadido jeugo PS2 DBZ Budokai Tenkaichi 4 Beta 8 [NTSC]
 - Añadido juego PS2 Disney The Haunted Mansion [NTSC]
 - Añadido juego PS2 Total Club Manager 2005 [PAL]
+- Añadido juego PS2 Nickelodeon SpongeBob and Friends Attack of the Toybots [PAL]
 - Añadido juego PSX Countdown Vampires
 - Actualizado webMAN MOD 1.47.28
 - Actualizado IRISMAN v4.86.3
