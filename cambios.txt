@@ -24,6 +24,7 @@
 - Añadido juego PS3 El Chavo Kart (USA)
 - Añadido juego PS3 Ghostbusters (USA)
 - Añadido juego PS3 HUNTED (USA)
+- Añadido juego PS3 NIER (EUR)
 
 ------------------------------------------------------------------------------------------------------------------
 
