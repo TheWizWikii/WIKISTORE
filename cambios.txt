@@ -28,6 +28,7 @@
 - Añadido juego PS3 SAW (EUR)
 - Añadido juego PS3 SAW II (EUR)
 - Añadido juego PS3 Shadow of The Damned (ERU)
+- Añadido juego PS3 The Elder Scrolls IV Oblivion (EUR)
 
 ------------------------------------------------------------------------------------------------------------------
 
