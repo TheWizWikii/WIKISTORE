@@ -39,6 +39,7 @@
 - Añadido juego PS3 Transformers The Game (USA)
 - Añadido juego PS3 Trivial Pursuit (EUR)
 - Arreglado NFS Undercover PS3
+- Añadido Black Ops Insanity Mod Menu Non Host Zombies (BLES01032)
 
 ------------------------------------------------------------------------------------------------------------------
 
