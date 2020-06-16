@@ -18,6 +18,10 @@
 - Añadido juego PS2 Obscure The Aftermath [NTSC]
 - Añadido juego PS2 Rocky [PAL]
 - Añadido juego PS2 Scarface The World Is Yours [PAL]
+- Añadido juego PS2 The Sopranos Road To Respect [PAL]
+- Añadido juego PS2 Sphinx And The Cursed Mummy [PAL]
+- Añadido juego PS2 Spiderman [PAL]
+- Añadido juego PS2 Spiderman 2 [PAL]
 - Añadido juego PSX Countdown Vampires
 - Actualizado webMAN MOD 1.47.28
 - Actualizado IRISMAN v4.86.3
