@@ -38,6 +38,7 @@
 - Añadido juego PS3 The Elder Scrolls IV Oblivion (EUR)
 - Añadido juego PS3 Transformers The Game (USA)
 - Añadido juego PS3 Trivial Pursuit (EUR)
+- Arreglado NFS Undercover PS3
 
 ------------------------------------------------------------------------------------------------------------------
 
