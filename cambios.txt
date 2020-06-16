@@ -22,6 +22,7 @@
 - Añadido juego PS2 Sphinx And The Cursed Mummy [PAL]
 - Añadido juego PS2 Spiderman [PAL]
 - Añadido juego PS2 Spiderman 2 [PAL]
+- Añadido juego PS2 Summer Heat Beach Volleyball [PAL]
 - Añadido juego PSX Countdown Vampires
 - Actualizado webMAN MOD 1.47.28
 - Actualizado IRISMAN v4.86.3
@@ -46,6 +47,7 @@
 - Añadido juego PS3 Trivial Pursuit (EUR)
 - Arreglado NFS Undercover PS3
 - Añadido Black Ops Insanity Mod Menu Non Host Zombies (BLES01032)
+- Añadido juego PSP ISO Crisis Core Final Fantasy VII (PAL)
 
 ------------------------------------------------------------------------------------------------------------------
 
