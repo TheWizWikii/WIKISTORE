@@ -1,3 +1,8 @@
+### Cambios 1.0.8
+
+- Añadido Savedata GTA V para saltarse el prologo inicial del juego.
+
+
 ### Cambios 1.0.7
 
 - Añadida sección para cambiar el logo de WIKISTORE
