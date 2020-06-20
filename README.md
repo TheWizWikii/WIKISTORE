@@ -22,14 +22,11 @@ Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea
 
 | PKG | Que instala cada uno de estos PKG |
 | ------ | ------ |
-| 14.500 Licencias | Instala el pack de licencias de juegos y DLCs de PS3 PSN de toda la vida |
-| Nuevas Licencias WIKISTORE 1.X.X | Instala el pack de licencias de los nuevos juegos que se añaden a WIKISTORE en cada nueva versión |
-| 920 Nuevas Licencias Extra | Instala un pack de Licencias Extra de juegos y dlcs de PS3 PSN |
-| Fix CFW 486 REBUG LITE | Instala un fix por si no aparece la tienda en este CFW en especifico |
-| Fix HFW 486 HEN | Instala un fix por si no aparece la tienda solo HFW |
-| WIKISTORE 1.X.X | Instala WIKISTORE sin nada más, ideal para los que tienen una versión anterior en HFW o CFW y solo quieren actualizarla |
-| WIKISTORE 1.X.X CFW REBUG 486 PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
-| WIKISTORE 1.X.X HFW 486 HEN PACK COMPLETO | Instala WIKISTORE + el Fix + Nuevas licencias WIKISTORE 1.X.X. Ideal para el que no tiene todavia instalada esta tienda |
+| 15.280_Licencias.pkg | Instala el pack de licencias PSN de Juegos y DLCs de PS3, PS2, PSX, PSP de toda la vida (No Recomendado) |
+| 15.280 Licencias.zip | Pack de Licencias por separado (Recomendado) |
+| Fix CFW 486 REBUG LITE | Instala un fix por si no se visualiza WIKISTORE en este CFW en especifico |
+| Fix HFW 486 HEN | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
+| WIKISTORE 1.0.7 | WIKISTORE pkg |
 
 
 En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala en HFW HEN 4.86 y en CFW 4.86 Rebug LITE usando el PACK COMPLETO
