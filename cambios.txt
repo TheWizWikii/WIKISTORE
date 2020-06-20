@@ -51,6 +51,9 @@
 - Añadido Black Ops Insanity Mod Menu Non Host Zombies (BLES01032)
 - Añadido juego PSP ISO Crisis Core Final Fantasy VII (PAL)
 - Añadido Pack de 400 Temas variados con descarga al HDD y USB
+- Creada sección juegos Retro MAME (Multiple Arcade Emulation Machine)
+- Añadido juego MAME Pang
+- Añadido juego MAME Captain Commando
 
 ------------------------------------------------------------------------------------------------------------------
 
