@@ -1,6 +1,6 @@
 # WIKISTORE 
 ---
-![Version](https://img.shields.io/badge/Version-1.0.6-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.7-brightgreen.svg)
 
 ### Que és:
 
@@ -17,16 +17,16 @@ siguientes firmwares: 4.86 HFW o 4.86 CFW Rebug LITE
 ### Como se instala:
 
 
-Aqui teneis una lista con todos los pkg´s disponibles para que tengais una idea de que instala cada uno.
+Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 
 
 | PKG | Que instala cada uno de estos PKG |
 | ------ | ------ |
 | 15.280_Licencias.pkg | Instala el pack de licencias PSN de Juegos y DLCs de PS3, PS2, PSX, PSP de toda la vida (No Recomendado) |
-| 15.280 Licencias.zip | Pack de Licencias por separado (Recomendado) |
-| Fix CFW 486 REBUG LITE | Instala un fix por si no se visualiza WIKISTORE en este CFW en especifico |
-| Fix HFW 486 HEN | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
-| WIKISTORE 1.0.7 | WIKISTORE pkg |
+| 15.280 Licencias.zip | Pack de Licencias a instalar por separado de forma manual a la carpeta exdata del USB o HDD (Recomendado) |
+| Fix_CFW_486_REBUG_LITE.pkg | Instala un fix por si no se visualiza WIKISTORE en este CFW en especifico |
+| Fix_HFW_486_HEN.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
+| WIKISTORE_1.0.7.pkg | Instalador WIKISTORE |
 
 
 En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala en HFW HEN 4.86 y en CFW 4.86 Rebug LITE usando el PACK COMPLETO
