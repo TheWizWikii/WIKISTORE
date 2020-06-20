@@ -28,8 +28,7 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | Fix_HFW_486_HEN.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
 | WIKISTORE_1.0.7.pkg | Instalador WIKISTORE |
 
-
-En el siguiente video https://youtu.be/OrvFw0OrgCA se puede ver como se instala en HFW HEN 4.86 y en CFW 4.86 Rebug LITE usando el PACK COMPLETO
+Próximamente habrá un video explicativo de como instalar WIKISTORE correctamente y de varias formas, para los más nuevos que tengan problemas a la hora de actualizar o hacer una instalación limpia.
 
 ---
 
