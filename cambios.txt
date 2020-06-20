@@ -30,6 +30,7 @@
 - Añadida sección para cambiar diferentes logos (Huevos) de HEN
 - Añadido juego PS3 GTA V Formato Carpeta (EUR)
 - Añadido juego PS3 Black Ops II Formato Carpeta (EUR)
+- Añadido juego PS3 Grand Slam Tennis 2 Formato Carpeta (EUR)
 - Añadido juego PS3 MLB 16 The Show (USA)
 - Añadido juego PS3 Tour de Francia (EUR)
 - Añadido juego PS3 ufc undisputed 2010 (USA)
