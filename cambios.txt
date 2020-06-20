@@ -50,6 +50,7 @@
 - Arreglado NFS Undercover PS3
 - Añadido Black Ops Insanity Mod Menu Non Host Zombies (BLES01032)
 - Añadido juego PSP ISO Crisis Core Final Fantasy VII (PAL)
+- Añadido Pack de 400 Temas variados con descarga al HDD y USB
 
 ------------------------------------------------------------------------------------------------------------------
 
