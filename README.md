@@ -30,9 +30,9 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 
 - Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
 
-Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas https://youtu.be/Fun_KCq8B5k
+Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Fun_KCq8B5k)
+[![Watch the video](https://img.youtube.com/vi/Fun_KCq8B5k/maxresdefault.jpg)](https://youtu.be/Fun_KCq8B5k)
 
 ---
 
