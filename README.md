@@ -53,6 +53,7 @@ Video de Como se instalan los juegos por partes exclusivos
 - **#lmn7** (Exploits Offline)
 - **#Joonie** (HFW 4.86 and contributions)
 - **#Louay** (Headset Bluetooth & USB)
+- **#Reybort** (Algunos juegos cojidos de su pagina http://reybort-juegos.blogspot.com/)
 - **#PSX-PLACE** (long contribution in PS3 Scene)
 
 ---
