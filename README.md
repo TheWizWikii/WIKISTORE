@@ -40,7 +40,7 @@ Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias fo
 
 Video de Como se instalan los juegos por partes exclusivos
 
-[![Watch the video](https://img.youtube.com/vi/Q9KlQdETWwU/maxresdefault.jpg)](https://youtu.be/Q9KlQdETWwU)
+[![Watch the video](https://img.youtube.com/vi/Q9KlQdETWw/maxresdefault.jpg)](https://youtu.be/Q9KlQdETWwU)
 
 ---
 ### Credits:
