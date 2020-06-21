@@ -28,6 +28,8 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | Fix_HFW_486_HEN.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
 | WIKISTORE_1.0.7.pkg | Instalador WIKISTORE |
 
+- Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
+
 Próximamente habrá un video explicativo de como instalar WIKISTORE correctamente y de varias formas, para los más nuevos que tengan problemas a la hora de actualizar o hacer una instalación limpia.
 
 ---
