@@ -1,6 +1,7 @@
 ### Cambios 1.0.8
 
 - Separada WIKISTORE en 2 versiones HFW y CFW
+- Reconstrucción de varias secciones
 - Optimizaciones de links
 - Añadido Extended Download Plugin
 - Añadido Savedata GTA V para saltarse el prologo inicial del juego.
