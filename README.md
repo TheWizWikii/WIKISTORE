@@ -32,7 +32,7 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 
 Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas https://youtu.be/Fun_KCq8B5k
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Fun_KCq8B5k)
 
 ---
 
