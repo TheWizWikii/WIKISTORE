@@ -47,6 +47,7 @@ Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias fo
 - **#lmn7** (Exploits Offline and Make pkg custom)
 - **#Joonie** (HFW 4.86 and contributions)
 - **#Louay** (Headset Bluetooth & USB)
+- **#Ignacio** (Muchas contribuciones)
 - **#Reybort** (Algunos juegos cojidos de su pagina http://reybort-juegos.blogspot.com/)
 - **#PSX-PLACE** (long contribution in PS3 Scene) best site for PS3 https://www.psx-place.com/
 
