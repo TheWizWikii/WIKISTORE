@@ -37,12 +37,6 @@ Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias fo
 [![Watch the video](https://img.youtube.com/vi/Fun_KCq8B5k/maxresdefault.jpg)](https://youtu.be/Fun_KCq8B5k)
 
 ---
-
-Video de Como se instalan los juegos por partes exclusivos
-
-[![Watch the video](https://img.youtube.com/vi/Q9KlQdETWwU/maxresdefault.jpg)](https://youtu.be/Q9KlQdETWwU)
-
----
 ### Credits:
 
 - **#PS3XploitTeam** (esc0rtd3w - Habib - bguerville)
