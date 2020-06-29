@@ -5,7 +5,8 @@
 - Optimizaciones de links
 - Añadido Hombrew Extended Download Plugin
 - Añadido Savedata GTA V para saltarse el prologo inicial del juego.
-- Añadido juego PS3 formato carpeta Adventure Time Explore the Dungeon Because I DONT KNOW (BLES01961)
+- Añadido juego PS3 formato carpeta Adventure Time Explore the Dungeon Because I DONT KNOW EUR (BLES01961)
+- Añadido juego PS3 formato carpeta X Blades EUR (BLES00447)
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Arreglada sección juegos PS3 Formato Carpeta
