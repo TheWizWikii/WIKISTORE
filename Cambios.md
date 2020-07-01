@@ -19,6 +19,7 @@
 - Añadido juego PSP ISO Hannah Montana Rock Out The Show
 - Añadido juego PSP ISO King of Fighters Collection - The Orochi Saga
 - Añadido juego PSP ISO Michael Jackson - The Experience
+- Añadido juego PSP ISO Tekken 6
 
 
 ### Cambios 1.0.7
