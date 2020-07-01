@@ -20,6 +20,7 @@
 - Añadido juego PSP ISO King of Fighters Collection - The Orochi Saga
 - Añadido juego PSP ISO Michael Jackson - The Experience
 - Añadido juego PSP ISO Tekken 6
+- Añadido el Unlock c00 para desbloquear las demos en CFW
 
 
 ### Cambios 1.0.7
