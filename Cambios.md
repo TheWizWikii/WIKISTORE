@@ -10,7 +10,7 @@
 - Añadido juego PS3 formato carpeta Call Of Duty Black Ops 3 EUR (BLES02166)
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
-- Añadidos algunos coldboots nuevos
+- Añadidos algunos coldboots nuevos con sonido
 - Arreglada sección juegos PS3 Formato Carpeta
 - Añadido juego PSX Blade
 - Añadido nuevo pack de 108 temas
