@@ -15,6 +15,7 @@
 - Añadido juego PSX Blade
 - Añadido nuevo pack de 108 temas
 - Añadido juego PSP ISO dissidia final fantasy
+- Añadido juego PSP ISO Geronimo Stilton in the Kingdom of Fantasy
 
 
 ### Cambios 1.0.7
