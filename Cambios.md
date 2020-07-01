@@ -12,6 +12,7 @@
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos
 - Arreglada sección juegos PS3 Formato Carpeta
+- Añadido juego PSX Blade
 
 
 ### Cambios 1.0.7
