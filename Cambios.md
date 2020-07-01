@@ -14,6 +14,7 @@
 - Arreglada sección juegos PS3 Formato Carpeta
 - Añadido juego PSX Blade
 - Añadido nuevo pack de 108 temas
+- Añadido juego PSP dissidia final fantasy
 
 
 ### Cambios 1.0.7
