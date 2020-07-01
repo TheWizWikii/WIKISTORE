@@ -17,6 +17,7 @@
 - Añadido juego PSP ISO dissidia final fantasy
 - Añadido juego PSP ISO Geronimo Stilton in the Kingdom of Fantasy
 - Añadido juego PSP ISO Hannah Montana Rock Out The Show
+- Añadido juego PSP ISO King of Fighters Collection - The Orochi Saga
 
 
 ### Cambios 1.0.7
