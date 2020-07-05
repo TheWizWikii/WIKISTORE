@@ -14,6 +14,7 @@
 - Añadido juego PS3 formato carpeta Damnation EUR (BLES00526) 5,71 GB
 - Añadido juego PS3 formato carpeta Mafia II Directors Cut EUR (BLES01165) 8,57 GB
 - Añadido juego PS3 formato carpeta Venetica EUR (BLES00776) 5,33 GB
+- Añadido juego PS3 formato carpeta Winter Sports 2011 EUR (BLES01061) 1,89 GB
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos con sonido
