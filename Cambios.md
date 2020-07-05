@@ -8,6 +8,9 @@
 - Añadido juego PS3 formato carpeta Adventure Time Explore the Dungeon Because I DONT KNOW EUR (BLES01961)
 - Añadido juego PS3 formato carpeta X Blades EUR (BLES00447)
 - Añadido juego PS3 formato carpeta Call Of Duty Black Ops 3 EUR (BLES02166)
+- Añadido juego PS3 formato carpeta Conan EUR (BLES00076)
+- Añadido juego PS3 formato carpeta Cabelas African Adventure USA (BLUS31275)
+- Añadido juego PS3 formato carpeta Battlefield Hardline USA (BLUS31440)
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos con sonido
