@@ -21,6 +21,7 @@
 - Añadido juego PS3 formato carpeta 50 Cent Blood On The Sand EUR (BLES00472) 6,05 GB
 - Añadido juego PS3 formato carpeta 2010 Fifa World Cup South Africa EUR (BLES00796) 7,11 GB
 - Añadido juego PS3 formato carpeta 2014 Fifa World Cup South Brazil USA (BLUS31389) 5,97 GB
+- Añadido juego PS3 formato carpeta Absolute Supercars EUR (BLES01500) 3,12 GB
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos con sonido
