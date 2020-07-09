@@ -24,6 +24,7 @@
 - Añadido juego PS3 formato carpeta Absolute Supercars EUR (BLES01500) 3,12 GB
 - Añadido juego PS3 formato carpeta AC DC Live Rock Band Track Pack BLUS30235 - 3,21 GB - (USA)
 - Añadido juego PS3 formato carpeta Ace Combat Assault Horizon BLES01392 - 7,04 GB - (EUR)
+- Añadido juego PS3 formato carpeta Adventure Time The Secret of the Nameless Kingdom BLUS31450 - 576,51 MB - (USA)
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos con sonido
