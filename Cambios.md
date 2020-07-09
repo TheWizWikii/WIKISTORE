@@ -19,6 +19,8 @@
 - Añadido juego PS3 formato carpeta SingStar Latino USA (BCUS94344) 8,88 GB
 - Añadido juego PS3 formato carpeta 3D Dot Game Heroes EUR (BLES00875) 3,08 GB
 - Añadido juego PS3 formato carpeta 50 Cent Blood On The Sand EUR (BLES00472) 6,05 GB
+- Añadido juego PS3 formato carpeta 2010 Fifa World Cup South Africa EUR (BLES00796) 7,11 GB
+- Añadido juego PS3 formato carpeta 2014 Fifa World Cup South Brazil USA (BLUS31389) 5,97 GB
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos con sonido
