@@ -16,6 +16,9 @@
 - Añadido juego PS3 formato carpeta Venetica EUR (BLES00776) 5,33 GB
 - Añadido juego PS3 formato carpeta Winter Sports 2011 EUR (BLES01061) 1,89 GB
 - Añadido juego PS3 formato carpeta WRC 2 EUR (BLES01442) 5,1 GB
+- Añadido juego PS3 formato carpeta SingStar Latino USA (BCUS94344) 8,88 GB
+- Añadido juego PS3 formato carpeta 3D Dot Game Heroes EUR (BLES00875) 3,08 GB
+- Añadido juego PS3 formato carpeta 50 Cent Blood On The Sand EUR (BLES00472) 6,05 GB
 - Arregalda seccion Fonts en CFW 
 - Arreglada seccion coldboots CFW (Retirados coldboots feos!)
 - Añadidos algunos coldboots nuevos con sonido
