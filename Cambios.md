@@ -40,6 +40,7 @@
 - Añadido el Unlock c00 para desbloquear las demos en CFW
 - Añadido juego PS2 Altered Beast [PAL] SLES-53024 - 2,01 GB
 
+------------------------------------------------------------------------------------------------------------------
 
 ### Cambios 1.0.7
 
