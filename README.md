@@ -1,6 +1,6 @@
 # WIKISTORE 
 ---
-![Version](https://img.shields.io/badge/Version-1.0.7-brightgreen.svg)
+![Version](https://img.shields.io/badge/Version-1.0.8-brightgreen.svg)
 
 ### Que és:
 
@@ -26,13 +26,14 @@ Aqui teneis una lista con todos los pkg´s disponibles y que instala cada uno.
 | 15.280 Licencias.zip | Pack de Licencias a instalar por separado de forma manual a la carpeta exdata del USB o HDD (Recomendado) |
 | Fix_CFW_486_REBUG_LITE.pkg | Instala un fix por si no se visualiza WIKISTORE en este CFW en especifico |
 | Fix_HFW_486_HEN.pkg | Instala un fix por si se visualiza WIKISTORE en la consola solo HFW/HEN |
-| WIKISTORE_1.0.7.pkg | Instalador WIKISTORE |
+| WIKISTORE_CFW_1.0.8.pkg | Instalador WIKISTORE para CFW |
+| WIKISTORE_HFW_1.0.8.pkg | Instalador WIKISTORE para HFW "HEN" |
 
 - Se necesita webMAN MOD para utilizar todas las funciones de WIKISTORE puedes descargarlo desde el repositorio de Aldo https://github.com/aldostools/webMAN-MOD/releases o desde este post https://www.itstime2play.com/threads/webman-mod-v1-47-28-plugin.7/
 
 ---
 
-Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cualquier versión 1.x.x) 
+Video OFICIAL de como instalar WIKISTORE correctamente en HFW/CFW y de varias formas (cualquier versión 1.x.x) Descargar solo WIKISTORE para el firmware que esteis utilizando HFW o CFW. 
 
 [![Watch the video](https://img.youtube.com/vi/Fun_KCq8B5k/maxresdefault.jpg)](https://youtu.be/Fun_KCq8B5k)
 
