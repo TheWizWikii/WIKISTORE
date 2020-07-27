@@ -1,5 +1,10 @@
 ### Cambios 1.0.9
 
+- Añadido juego PS3 formato carpeta Aegis of Earth Protonovus Assault - BLUS31587 - 1,28 GB - (USA)
+- Añadido juego PS3 formato carpeta Afro Samurai - BLUS30264 - 3,51 GB - (USA)
+- Añadido juego PS3 formato carpeta After Hours Athletes - BCES01335 - 2,28 GB - (EUR)
+- Añadido juego PS3 formato carpeta Air Conflicts Pacific Carriers - BLES01604 - 3,17 GB - (EUR)
+- Añadido juego PS3 formato carpeta Air Conflicts Secret Wars - BLES01316 - 2,3 GB - (EUR)
 
 ------------------------------------------------------------------------------------------------------------------
 
