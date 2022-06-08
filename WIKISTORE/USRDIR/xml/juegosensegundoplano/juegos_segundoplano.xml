@@ -1672,7 +1672,7 @@
                 <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Metal Gear Solid 2 - Sons of Liberty HD.png</String></Pair>
 	        	<Pair key="title"><String>Metal Gear Solid 2 - Sons of Liberty HD</String></Pair>
 	        	<Pair key="module_name"><String>webbrowser_plugin</String></Pair>
-	    	    <Pair key="module_action"><String>http://localhost/install.ps3?urlhttp://zeus.dl.playstation.net/cdn/EP0101/NPEB00685_00/wXhybznnxfAdWXbkchYHfjWcDBnPdQbFmqbqKeHIIwrFjAWgxqpswOokAWssJpqT.pkg</String></Pair>
+	    	    <Pair key="module_action"><String>http://localhost/install.ps3?url=http://zeus.dl.playstation.net/cdn/EP0101/NPEB00685_00/wXhybznnxfAdWXbkchYHfjWcDBnPdQbFmqbqKeHIIwrFjAWgxqpswOokAWssJpqT.pkg</String></Pair>
         	</Table>
 			<Table key="279">
                 <Pair key="icon"><String>/dev_hdd0/game/WIKISTORE/USRDIR/IMAGES/psnstuff/Metal Gear Solid 3 - Snake Eater HD.png</String></Pair>
